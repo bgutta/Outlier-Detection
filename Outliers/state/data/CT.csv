@@ -1,0 +1,11 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00062658  ,  FALLS VILLAGE  , 41.95 , -73.3667 ,  Canaan  ,  CT  ,  United States , 1334
+USC00064767  ,  MIDDLETOWN 4 W  , 41.55 , -72.7167 ,  Middletown  ,  CT  ,  United States , 914
+USC00065445  ,  NORFOLK 2 SW  , 41.9725 , -73.2208 ,  Norfolk  ,  CT  ,  United States , 1204
+USC00065910  ,  NORWICH PUB UTILITY PLANT  , 41.5269 , -72.0642 ,  Norwich  ,  CT  ,  United States , 1042
+USC00067970  ,  STAMFORD 5 N  , 41.1247 , -73.5475 ,  Stamford  ,  CT  ,  United States , 1223
+USC00068138  ,  STORRS  , 41.795 , -72.2286 ,  Mansfield  ,  CT  ,  United States , 1104
+USW00014740  ,  HARTFORD BRADLEY INTL AP  , 41.9381 , -72.6825 ,  Windsor Locks  ,  CT  ,  United States , 1306
+USW00014752  ,  HARTFORD BRAINARD FLD  , 41.7361 , -72.6506 ,  Hartford  ,  CT  ,  United States , 1238
+USW00014758  ,  NEW HAVEN TWEED AP  , 41.2639 , -72.8872 ,  New Haven  ,  CT  ,  United States , 649
+USW00094702  ,  BRIDGEPORT SIKORSKY MEM AP  , 41.1583 , -73.1289 ,  Stratford  ,  CT  ,  United States , 1253

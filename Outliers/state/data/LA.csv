@@ -1,0 +1,32 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00161287  ,  BUNKIE  , 30.9594 , -92.1786 ,  Bunkie  ,  LA  ,  United States , 1433
+USC00161411  ,  CALHOUN RSCH STN  , 32.5133 , -92.3486 ,  Calhoun  ,  LA  ,  United States , 1319
+USC00161565  ,  CARVILLE 2 SW  , 30.1981 , -91.1256 ,  Carville  ,  LA  ,  United States , 1416
+USC00162212  ,  CROWLEY 2 NE  , 30.2408 , -92.3478 ,  Crowley  ,  LA  ,  United States , 1245
+USC00162367  ,  DE RIDDER  , 30.8428 , -93.2869 ,  DeRidder  ,  LA  ,  United States , 1274
+USC00162534  ,  DONALDSONVILLE 4 SW  , 30.0719 , -91.0278 ,  Belle Rose  ,  LA  ,  United States , 1211
+USC00163313  ,  FRANKLIN 3 NW  , 29.8233 , -91.5442 ,  Franklin  ,  LA  ,  United States , 1333
+USC00163800  ,  GRAND COTEAU  , 30.4183 , -92.0442 ,  Sunset  ,  LA  ,  United States , 1239
+USC00163979  ,  HACKBERRY 8 SSW  , 29.8894 , -93.4019 ,  Hackberry  ,  LA  ,  United States , 1162
+USC00164355  ,  HOMER 1N  , 32.81 , -93.0625 ,  Homer  ,  LA  ,  United States , 1133
+USC00164407  ,  HOUMA  , 29.6408 , -90.8161 ,  Schriever  ,  LA  ,  United States , 1308
+USC00164674  ,  JEANERETTE 5 NW  , 29.9592 , -91.7108 ,  Jeanerette  ,  LA  ,  United States , 1032
+USC00164700  ,  JENNINGS  , 30.2003 , -92.6642 ,  Jennings  ,  LA  ,  United States , 1503
+USC00165065  ,  LAKE ARTHUR 10 SW  , 30.0031 , -92.7808 ,  Lake Arthur  ,  LA  ,  United States , 673
+USC00165090  ,  LAKE PROVIDENCE  , 32.8067 , -91.173 ,  Lake Providence  ,  LA  ,  United States , 1357
+USC00165266  ,  LEESVILLE  , 31.1417 , -93.2397 ,  Leesville  ,  LA  ,  United States , 1409
+USC00166394  ,  MORGAN CITY  , 29.6833 , -91.1761 ,  Morgan City  ,  LA  ,  United States , 1230
+USC00166686  ,  NEW ROADS 5 NE  , 30.7267 , -91.3672 ,  New Roads  ,  LA  ,  United States , 1143
+USC00166938  ,  OBERLIN FIRE TWR  , 30.6036 , -92.7739 ,  Oberlin  ,  LA  ,  United States , 1352
+USC00167767  ,  RESERVE  , 30.0564 , -90.5803 ,  Reserve  ,  LA  ,  United States , 1098
+USC00168067  ,  RUSTON LA TECH  , 32.5344 , -92.6889 ,  Grambling  ,  LA  ,  United States , 1226
+USC00168163  ,  ST JOSEPH 3 N  , 31.9497 , -91.2336 ,  Saint Joseph  ,  LA  ,  United States , 1364
+USC00168539  ,  SLIDELL  , 30.265 , -89.7697 ,  Slidell  ,  LA  ,  United States , 1380
+USC00168923  ,  TALLULAH  , 32.3994 , -91.1842 ,  Tallulah  ,  LA  ,  United States , 1236
+USC00169806  ,  WINNSBORO 5 SSE  , 32.0997 , -91.7022 ,  Winnsboro  ,  LA  ,  United States , 1346
+USW00012916  ,  NEW ORLEANS INTL AP  , 29.9933 , -90.2511 ,  Kenner  ,  LA  ,  United States , 1517
+USW00012930  ,  NEW ORLEANS AUDUBON  , 29.9167 , -90.1303 ,  New Orleans  ,  LA  ,  United States , 1193
+USW00013942  ,  MONROE RGNL AP  , 32.5156 , -92.0406 ,  Monroe  ,  LA  ,  United States , 1331
+USW00013957  ,  SHREVEPORT  , 32.4506 , -93.8411 ,  Shreveport  ,  LA  ,  United States , 1403
+USW00013970  ,  BATON ROUGE RYAN AP  , 30.5372 , -91.1469 ,  Baton Rouge  ,  LA  ,  United States , 1448
+USW00013976  ,  LAFAYETTE RGNL AP  , 30.205 , -91.9875 ,  Lafayette  ,  LA  ,  United States , 1433

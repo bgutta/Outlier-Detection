@@ -1,0 +1,35 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00460527  ,  BAYARD  , 39.2728 , -79.3683 ,  Mount Storm  ,  WV  ,  United States , 1268
+USC00460580  ,  BECKLEY VA HOSPITAL  , 37.7647 , -81.1939 ,  Beckley  ,  WV  ,  United States , 1431
+USC00460939  ,  BLUESTONE LAKE  , 37.6411 , -80.8831 ,  Hinton  ,  WV  ,  United States , 1291
+USC00461220  ,  BUCKHANNON  , 38.9803 , -80.22 ,  Buckhannon  ,  WV  ,  United States , 1194
+USC00461677  ,  CLARKSBURG 1  , 39.2683 , -80.3522 ,  Clarksburg  ,  WV  ,  United States , 1285
+USC00462920  ,  FAIRMONT  , 39.4667 , -80.1333 ,  Pleasant Valley  ,  WV  ,  United States , 1275
+USC00463361  ,  GASSAWAY  , 38.665 , -80.7672 ,  Gassaway  ,  WV  ,  United States , 1229
+USC00463544  ,  GLENVILLE  , 38.9339 , -80.8325 ,  Glenville  ,  WV  ,  United States , 1164
+USC00463648  ,  GRANTSVILLE 1ESE  , 38.91 , -81.0844 ,  Grantsville  ,  WV  ,  United States , 610
+USC00463846  ,  HAMLIN  , 38.2794 , -82.1114 ,  Hamlin  ,  WV  ,  United States , 1201
+USC00464200  ,  HOGSETT R.C. BYRD DAM  , 38.6844 , -82.1836 ,  Apple Grove  ,  WV  ,  United States , 1298
+USC00465224  ,  LEWISBURG 3 N  , 37.8564 , -80.4042 ,  Lewisburg  ,  WV  ,  United States , 1183
+USC00465353  ,  LOGAN  , 37.8717 , -81.9947 ,  Logan  ,  WV  ,  United States , 1221
+USC00465365  ,  LONDON LOCKS  , 38.1947 , -81.3706 ,  Hansford  ,  WV  ,  United States , 1176
+USC00465563  ,  MADISON 3NNW  , 38.1025 , -81.8464 ,  Danville  ,  WV  ,  United States , 1282
+USC00465963  ,  MIDDLEBOURNE 3 ESE  , 39.4953 , -80.9047 ,  Middlebourne  ,  WV  ,  United States , 1354
+USC00466163  ,  MOOREFIELD 1 SSE  , 39.0461 , -78.9664 ,  Moorefield  ,  WV  ,  United States , 1152
+USC00466212  ,  MORGANTOWN L&D  , 39.6203 , -79.9697 ,  Morgantown  ,  WV  ,  United States , 1265
+USC00467029  ,  PINEVILLE  , 37.5742 , -81.5356 ,  Pineville  ,  WV  ,  United States , 1329
+USC00467552  ,  RIPLEY  , 38.8172 , -81.7119 ,  Ripley  ,  WV  ,  United States , 1252
+USC00467730  ,  ROMNEY 1 SW  , 39.3389 , -78.7728 ,  Romney  ,  WV  ,  United States , 1199
+USC00467785  ,  ROWLESBURG 1  , 39.3419 , -79.67 ,  Rowlesburg  ,  WV  ,  United States , 1181
+USC00468384  ,  SPENCER  , 38.8008 , -81.3583 ,  Spencer  ,  WV  ,  United States , 1192
+USC00468777  ,  TERRA ALTA #1  , 39.4467 , -79.5469 ,  Terra Alta  ,  WV  ,  United States , 1234
+USC00469281  ,  WARDENSVILLE RM FARM  , 39.1139 , -78.5811 ,  Wardensville  ,  WV  ,  United States , 1270
+USC00469522  ,  WHITE SULPHUR SPRINGS  , 37.7889 , -80.3083 ,  White Sulphur Springs  ,  WV  ,  United States , 1319
+USC00469683  ,  WINFIELD LOCKS  , 38.5278 , -81.9153 ,  Eleanor  ,  WV  ,  United States , 1332
+USW00003804  ,  PARKERSBURG WOOD CO AP  , 39.345 , -81.4392 ,  Williamstown  ,  WV  ,  United States , 1189
+USW00003859  ,  BLUEFIELD MERCER CO AP  , 37.2958 , -81.2078 ,  Bluefield  ,  WV  ,  United States , 1329
+USW00013729  ,  ELKINS RANDOLPH CO AP  , 38.8853 , -79.8528 ,  Elkins  ,  WV  ,  United States , 1461
+USW00013734  ,  MARTINSBURG E WV RGNL AP  , 39.4019 , -77.9844 ,    ,  WV  ,  United States , 1321
+USW00013736  ,  MORGANTOWN HART FLD  , 39.6428 , -79.9164 ,  Morgantown  ,  WV  ,  United States , 1330
+USW00013866  ,  CHARLESTON YEAGER AP  , 38.3794 , -81.59 ,  Charleston  ,  WV  ,  United States , 1424
+USW00013867  ,  PARKERSBURG  , 39.2811 , -81.5572 ,  Parkersburg  ,  WV  ,  United States , 1271

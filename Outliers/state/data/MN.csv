@@ -1,0 +1,67 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00210050  ,  AGASSIZ REFUGE  , 48.3006 , -95.9817 ,  Middle River  ,  MN  ,  United States , 1128
+USC00210059  ,  AITKIN 2E  , 46.5258 , -93.6675 ,  Aitkin  ,  MN  ,  United States , 885
+USC00210075  ,  ALBERT LEA 3 SE  , 43.6064 , -93.3019 ,  Albert Lea  ,  MN  ,  United States , 1198
+USC00210287  ,  ARTICHOKE LAKE  , 45.3783 , -96.1542 ,  Correll  ,  MN  ,  United States , 1228
+USC00210355  ,  AUSTIN WWT FAC  , 43.6542 , -92.9739 ,  Austin  ,  MN  ,  United States , 1201
+USC00210515  ,  BAUDETTE  , 48.7094 , -94.5869 ,  Baudette  ,  MN  ,  United States , 1083
+USC00210746  ,  BIG FALLS  , 48.1969 , -93.7994 ,  Big Falls  ,  MN  ,  United States , 459
+USC00210939  ,  BRAINERD  , 46.3433 , -94.2086 ,  Brainerd  ,  MN  ,  United States , 1038
+USC00211107  ,  BUFFALO 2NE  , 45.1969 , -93.84 ,  Buffalo  ,  MN  ,  United States , 1096
+USC00211198  ,  CALEDONIA  , 43.6308 , -91.5028 ,  Caledonia  ,  MN  ,  United States , 1122
+USC00211227  ,  CAMBRIDGE 5ESE  , 45.5506 , -93.1264 ,  North Branch  ,  MN  ,  United States , 1127
+USC00211263  ,  CANBY  , 44.7183 , -96.2697 ,  Canby  ,  MN  ,  United States , 1303
+USC00211374  ,  CASS LAKE  , 47.3847 , -94.6147 ,  Cass Lake  ,  MN  ,  United States , 1190
+USC00211630  ,  CLOQUET  , 46.7047 , -92.5253 ,  Cloquet  ,  MN  ,  United States , 1290
+USC00211691  ,  COLLEGEVILLE ST JOHN  , 45.5794 , -94.3919 ,  Saint Joseph  ,  MN  ,  United States , 1191
+USC00211891  ,  CROOKSTON NW EXP STA  , 47.8014 , -96.6028 ,  Crookston  ,  MN  ,  United States , 1185
+USC00212142  ,  DETROIT LAKES 1 NNE  , 46.8372 , -95.8372 ,  Detroit Lakes  ,  MN  ,  United States , 1155
+USC00212768  ,  FERGUS FALLS  , 46.2919 , -96.1172 ,  Fergus Falls  ,  MN  ,  United States , 997
+USC00212881  ,  FOREST LAKE 5NE  , 45.3397 , -92.9125 ,  Chisago City  ,  MN  ,  United States , 1205
+USC00213076  ,  GAYLORD  , 44.5564 , -94.2208 ,  Gaylord  ,  MN  ,  United States , 1279
+USC00213174  ,  GLENWOOD 2 WNW  , 45.6583 , -95.4392 ,  Glenwood  ,  MN  ,  United States , 1167
+USC00213290  ,  GRAND MEADOW  , 43.7047 , -92.5644 ,  Grand Meadow  ,  MN  ,  United States , 1129
+USC00213296  ,  GRAND PORTAGE  , 47.9711 , -89.6908 ,  Grand Portage  ,  MN  ,  United States , 660
+USC00213303  ,  GRAND RPDS FOREST LAB  , 47.2436 , -93.4975 ,  Grand Rapids  ,  MN  ,  United States , 1339
+USC00213411  ,  GULL LAKE DAM  , 46.4119 , -94.3608 ,  East Gull Lake  ,  MN  ,  United States , 1091
+USC00213455  ,  HALLOCK  , 48.7714 , -96.9406 ,  Hallock  ,  MN  ,  United States , 863
+USC00214106  ,  ITASCA UNIV OF MINN  , 47.2256 , -95.1919 ,  Shevlin  ,  MN  ,  United States , 1144
+USC00214176  ,  JORDAN 1SSW  , 44.65 , -93.6356 ,  Jordan  ,  MN  ,  United States , 1187
+USC00214652  ,  LEECH LAKE  , 47.2467 , -94.2228 ,  Federal Dam  ,  MN  ,  United States , 1193
+USC00214778  ,  LITCHFIELD  , 45.1278 , -94.5347 ,  Litchfield  ,  MN  ,  United States , 1251
+USC00214861  ,  LONG PRAIRIE  , 45.9647 , -94.8892 ,  Long Prairie  ,  MN  ,  United States , 1193
+USC00214994  ,  MADISON WWTP  , 45.0025 , -96.1661 ,  Madison  ,  MN  ,  United States , 1208
+USC00215392  ,  MILACA  , 45.7533 , -93.6617 ,  Milaca  ,  MN  ,  United States , 1097
+USC00215400  ,  MILAN 1 NW  , 45.1219 , -95.9269 ,  Milan  ,  MN  ,  United States , 1367
+USC00215563  ,  MONTEVIDEO 1 SW  , 44.9342 , -95.7461 ,  Montevideo  ,  MN  ,  United States , 1290
+USC00215598  ,  MOOSE LAKE 1 SSE  , 46.4378 , -92.7578 ,  Moose Lake  ,  MN  ,  United States , 1282
+USC00215615  ,  MORA  , 45.8775 , -93.3147 ,  Mora  ,  MN  ,  United States , 1296
+USC00215638  ,  MORRIS WC EXP STN  , 45.5903 , -95.8747 ,  Morris  ,  MN  ,  United States , 1309
+USC00216547  ,  PINE RIVER DAM  , 46.6694 , -94.1089 ,  Crosslake  ,  MN  ,  United States , 1244
+USC00216565  ,  PIPESTONE  , 44.0139 , -96.3258 ,  Pipestone  ,  MN  ,  United States , 1167
+USC00216612  ,  POKEGAMA DAM  , 47.2508 , -93.5861 ,  Grand Rapids  ,  MN  ,  United States , 907
+USC00216654  ,  PRESTON  , 43.6725 , -92.0747 ,  Preston  ,  MN  ,  United States , 1271
+USC00216787  ,  RED LAKE FALLS  , 47.8881 , -96.2658 ,  Red Lake Falls  ,  MN  ,  United States , 1174
+USC00216795  ,  RED LAKE INDIAN AGCY  , 47.8769 , -95.0161 ,  Puposky  ,  MN  ,  United States , 1094
+USC00217107  ,  ROSEMOUNT RESEARCH OUTREACH C  , 44.7178 , -93.0975 ,  Rosemount  ,  MN  ,  United States , 1005
+USC00217149  ,  ROTHSAY  , 46.4808 , -96.2869 ,  Rothsay  ,  MN  ,  United States , 1086
+USC00217326  ,  ST JAMES FILT PLT  , 43.9903 , -94.6122 ,  Saint James  ,  MN  ,  United States , 1113
+USC00217460  ,  SANDY LAKE DAM LIBBY  , 46.7953 , -93.3211 ,  McGregor  ,  MN  ,  United States , 836
+USC00217907  ,  SPRINGFIELD 1 NW  , 44.2469 , -94.9864 ,  Springfield  ,  MN  ,  United States , 1225
+USC00218254  ,  THORHULT  , 48.2325 , -95.2481 ,  Grygla  ,  MN  ,  United States , 1054
+USC00218323  ,  TRACY  , 44.2394 , -95.6308 ,  Tracy  ,  MN  ,  United States , 1219
+USC00218419  ,  TWO HARBORS  , 47.0258 , -91.6653 ,  Two Harbors  ,  MN  ,  United States , 1319
+USC00218579  ,  WADENA 3 S  , 46.3939 , -95.1494 ,  Wadena  ,  MN  ,  United States , 1214
+USC00218679  ,  WARROAD  , 48.8947 , -95.33 ,  Warroad  ,  MN  ,  United States , 1030
+USC00218692  ,  WASECA EXP STN  , 44.0708 , -93.5264 ,  Waseca  ,  MN  ,  United States , 1263
+USC00218907  ,  WHEATON  , 45.8081 , -96.5042 ,  Wheaton  ,  MN  ,  United States , 1266
+USC00219033  ,  WINDOM  , 43.8575 , -95.1167 ,  Windom  ,  MN  ,  United States , 1202
+USC00219249  ,  ZUMBROTA  , 44.2992 , -92.6661 ,  Zumbrota  ,  MN  ,  United States , 1297
+USW00014910  ,  ALEXANDRIA MUNI AP  , 45.8678 , -95.3942 ,  Alexandria  ,  MN  ,  United States , 1157
+USW00014913  ,  DULUTH  , 46.8369 , -92.2097 ,  Hermantown  ,  MN  ,  United States , 1246
+USW00014918  ,  INTL FALLS INTL AP  , 48.5614 , -93.3981 ,  International Falls  ,  MN  ,  United States , 1278
+USW00014922  ,  MINNEAPOLIS/ST PAUL AP  , 44.8831 , -93.2289 ,  Saint Paul  ,  MN  ,  United States , 1251
+USW00014925  ,  ROCHESTER INTL AP  , 43.9042 , -92.4917 ,  Rochester  ,  MN  ,  United States , 1271
+USW00014926  ,  ST CLOUD RGNL AP  , 45.5433 , -94.0514 ,  Saint Cloud  ,  MN  ,  United States , 1284
+USW00014992  ,  REDWOOD FALLS MUNI AP  , 44.5483 , -95.0803 ,  Redwood Falls  ,  MN  ,  United States , 1298
+USW00094967  ,  PARK RAPIDS MUNI AP  , 46.9006 , -95.0678 ,  Park Rapids  ,  MN  ,  United States , 1240

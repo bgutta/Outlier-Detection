@@ -1,0 +1,51 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00110072  ,  ALEDO  , 41.2019 , -90.7417 ,  Aledo  ,  IL  ,  United States , 1038
+USC00110137  ,  ALTON MELVIN PRICE L&D  , 38.8664 , -90.1464 ,  Alton  ,  IL  ,  United States , 1069
+USC00110187  ,  ANNA 2 NNE  , 37.4814 , -89.2344 ,  Anna  ,  IL  ,  United States , 1109
+USC00111265  ,  CARBONDALE SEWAGE PLT  , 37.7308 , -89.1658 ,  Carbondale  ,  IL  ,  United States , 1205
+USC00111280  ,  CARLINVILLE  , 39.2883 , -89.8703 ,  Carlinville  ,  IL  ,  United States , 1104
+USC00111475  ,  CHENOA  , 40.7394 , -88.7108 ,  Chenoa  ,  IL  ,  United States , 1109
+USC00111577  ,  CHICAGO MIDWAY AP 3SW  , 41.7372 , -87.7775 ,  Burbank  ,  IL  ,  United States , 1162
+USC00112193  ,  DECATUR WTP  , 39.8289 , -88.9506 ,  Decatur  ,  IL  ,  United States , 1180
+USC00112483  ,  DU QUOIN 4 SE  , 37.9878 , -89.1931 ,  Du Quoin  ,  IL  ,  United States , 1204
+USC00112687  ,  EFFINGHAM 3SW  , 39.1181 , -88.6244 ,  Effingham  ,  IL  ,  United States , 1191
+USC00112931  ,  FAIRFIELD RADIO WFIW  , 38.3806 , -88.3264 ,  Fairfield  ,  IL  ,  United States , 1287
+USC00113290  ,  FULTON L&D #13  , 41.8978 , -90.1544 ,  Fulton  ,  IL  ,  United States , 1182
+USC00113717  ,  GRIGGSVILLE  , 39.7378 , -90.7086 ,  Griggsville  ,  IL  ,  United States , 840
+USC00113879  ,  HARRISBURG  , 37.7408 , -88.5244 ,  Harrisburg  ,  IL  ,  United States , 1038
+USC00114198  ,  HOOPESTON  , 40.4664 , -87.685 ,  Hoopeston  ,  IL  ,  United States , 1317
+USC00114442  ,  JACKSONVILLE 2E  , 39.7353 , -90.2153 ,  Jacksonville  ,  IL  ,  United States , 1290
+USC00114489  ,  JERSEYVILLE 2 SW  , 39.1025 , -90.3431 ,  Jerseyville  ,  IL  ,  United States , 1268
+USC00114710  ,  KEWANEE 1 E  , 41.2428 , -89.8997 ,  Kewanee  ,  IL  ,  United States , 1065
+USC00114823  ,  LA HARPE  , 40.5839 , -90.9686 ,  La Harpe  ,  IL  ,  United States , 1208
+USC00115712  ,  MINONK  , 40.9125 , -89.0339 ,  Minonk  ,  IL  ,  United States , 1186
+USC00115825  ,  MORRIS 1 NW  , 41.3708 , -88.4336 ,  Morris  ,  IL  ,  United States , 601
+USC00115833  ,  MORRISON  , 41.8039 , -89.9744 ,  Morrison  ,  IL  ,  United States , 1289
+USC00115901  ,  MT CARROLL  , 42.0981 , -89.9842 ,  Mount Carroll  ,  IL  ,  United States , 1306
+USC00115943  ,  MT VERNON 3 NE  , 38.3483 , -88.8533 ,  Mount Vernon  ,  IL  ,  United States , 1222
+USC00116011  ,  NASHVILLE 1 E  , 38.3431 , -89.3586 ,  Nashville  ,  IL  ,  United States , 1227
+USC00116446  ,  OLNEY 2S  , 38.7003 , -88.0817 ,  Olney  ,  IL  ,  United States , 1326
+USC00116526  ,  OTTAWA 5SW  , 41.3283 , -88.9106 ,  Ottawa  ,  IL  ,  United States , 1109
+USC00116558  ,  PALESTINE  , 39.0028 , -87.6225 ,  Palestine  ,  IL  ,  United States , 1350
+USC00116579  ,  PANA  , 39.3686 , -89.0867 ,  Pana  ,  IL  ,  United States , 1140
+USC00116610  ,  PARIS STP  , 39.6186 , -87.6672 ,  Paris  ,  IL  ,  United States , 1200
+USC00116616  ,  PARK FOREST  , 41.4947 , -87.6803 ,  Park Forest  ,  IL  ,  United States , 1132
+USC00116661  ,  PAW PAW 2 NW  , 41.7122 , -88.9989 ,  Paw Paw  ,  IL  ,  United States , 1029
+USC00116910  ,  PONTIAC  , 40.8778 , -88.6364 ,  Pontiac  ,  IL  ,  United States , 1145
+USC00117077  ,  QUINCY DAM 21  , 39.9058 , -91.4281 ,  Quincy  ,  IL  ,  United States , 711
+USC00117551  ,  RUSHVILLE 4NE  , 40.1347 , -90.4792 ,  Rushville  ,  IL  ,  United States , 1011
+USC00118147  ,  SPARTA 1 W  , 38.1167 , -89.7167 ,  Sparta  ,  IL  ,  United States , 1055
+USC00118293  ,  STOCKTON 3 NNE  , 42.4006 , -89.9958 ,  Stockton  ,  IL  ,  United States , 1225
+USC00118684  ,  TUSCOLA  , 39.795 , -88.29 ,  Tuscola  ,  IL  ,  United States , 1204
+USC00118740  ,  URBANA  , 40.0839 , -88.2403 ,  Champaign  ,  IL  ,  United States , 1311
+USC00119021  ,  WATSEKA 2 NW  , 40.7928 , -87.7556 ,  Watseka  ,  IL  ,  United States , 1122
+USC00119241  ,  WHITE HALL 1 E  , 39.4411 , -90.3789 ,  White Hall  ,  IL  ,  United States , 1183
+USW00013802  ,  BELLEVILLE SIU RSCH  , 38.52 , -89.8467 ,  Belleville  ,  IL  ,  United States , 1280
+USW00014806  ,  RANTOUL  , 40.3131 , -88.1594 ,  Rantoul  ,  IL  ,  United States , 1154
+USW00014842  ,  PEORIA GTR PEORIA AP  , 40.6675 , -89.6839 ,  Peoria  ,  IL  ,  United States , 1239
+USW00014923  ,  MOLINE QUAD CITY INTL AP  , 41.4653 , -90.5233 ,  Moline  ,  IL  ,  United States , 1288
+USW00093809  ,  CAIRO 3N  , 37.0422 , -89.1856 ,  Cairo  ,  IL  ,  United States , 1077
+USW00093822  ,  SPRINGFIELD CAPITAL AP  , 39.8447 , -89.6839 ,  Springfield  ,  IL  ,  United States , 1259
+USW00093989  ,  QUINCY RGNL AP  , 39.9369 , -91.1919 ,  Quincy  ,  IL  ,  United States , 1240
+USW00094822  ,  ROCKFORD GTR ROCKFORD AP  , 42.1928 , -89.0931 ,  Rockford  ,  IL  ,  United States , 1284
+USW00094846  ,  CHICAGO OHARE INTL AP  , 41.995 , -87.9336 ,  Chicago  ,  IL  ,  United States , 1227

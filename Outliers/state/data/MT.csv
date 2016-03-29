@@ -1,0 +1,111 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00240088  ,  ALBION 1 N  , 45.2089 , -104.2647 ,    ,  MT  ,  United States , 662
+USC00240364  ,  AUGUSTA  , 47.4931 , -112.3964 ,  Augusta  ,  MT  ,  United States , 927
+USC00240375  ,  AUSTIN 1 W  , 46.6456 , -112.2656 ,  Helena  ,  MT  ,  United States , 1088
+USC00240755  ,  BIGFORK 13 S  , 47.875 , -114.0331 ,  Polson  ,  MT  ,  United States , 904
+USC00240780  ,  BIG TIMBER  , 45.8328 , -109.9503 ,  Big Timber  ,  MT  ,  United States , 1083
+USC00240802  ,  BILLINGS WTP  , 45.7717 , -108.4811 ,  Billings  ,  MT  ,  United States , 1119
+USC00241044  ,  BOZEMAN MONTANA ST U  , 45.6622 , -111.0453 ,  Bozeman  ,  MT  ,  United States , 1195
+USC00241084  ,  BRANDENBERG  , 45.8161 , -106.2314 ,  Forsyth  ,  MT  ,  United States , 1202
+USC00241088  ,  BREDETTE  , 48.5156 , -105.2992 ,  Poplar  ,  MT  ,  United States , 1037
+USC00241102  ,  BRIDGER 2 N  , 45.3261 , -108.9092 ,  Bridger  ,  MT  ,  United States , 1123
+USC00241127  ,  BROADUS  , 45.4442 , -105.4072 ,  Broadus  ,  MT  ,  United States , 1183
+USC00241169  ,  BROCKWAY 3 WSW  , 47.2875 , -105.83 ,  Brockway  ,  MT  ,  United States , 848
+USC00241297  ,  BUSBY  , 45.5397 , -106.9597 ,  Busby  ,  MT  ,  United States , 1166
+USC00241552  ,  CASCADE 5 S  , 47.2194 , -111.71 ,  Cascade  ,  MT  ,  United States , 1203
+USC00241557  ,  CASCADE 20 SSE  , 46.9956 , -111.5772 ,  Cascade  ,  MT  ,  United States , 1362
+USC00241722  ,  CHINOOK  , 48.5883 , -109.2256 ,  Chinook  ,  MT  ,  United States , 994
+USC00241737  ,  CHOTEAU  , 47.8206 , -112.1919 ,  Choteau  ,  MT  ,  United States , 1200
+USC00241905  ,  COLSTRIP  , 45.8944 , -106.6336 ,  Colstrip  ,  MT  ,  United States , 1074
+USC00241974  ,  CONRAD  , 48.1794 , -111.9614 ,  Conrad  ,  MT  ,  United States , 1169
+USC00242275  ,  DEER LODGE 3 W  , 46.3911 , -112.7975 ,  Deer Lodge  ,  MT  ,  United States , 1005
+USC00242409  ,  DILLION U OF MONTANA WESTERN  , 45.2128 , -112.6447 ,  Dillon  ,  MT  ,  United States , 1279
+USC00242550  ,  DUNKIRK 19NNE  , 48.7167 , -111.4747 ,  Galata  ,  MT  ,  United States , 654
+USC00242689  ,  EKALAKA  , 45.8903 , -104.5461 ,  Ekalaka  ,  MT  ,  United States , 1191
+USC00242793  ,  ENNIS  , 45.3394 , -111.7111 ,  Ennis  ,  MT  ,  United States , 1317
+USC00243013  ,  FLATWILLOW 4 ENE  , 46.8511 , -108.3133 ,  Winnett  ,  MT  ,  United States , 1264
+USC00243110  ,  FT ASSINNIBOINE  , 48.4983 , -109.8014 ,  Havre  ,  MT  ,  United States , 1192
+USC00243113  ,  FT BENTON  , 47.8306 , -110.6608 ,  Fort Benton  ,  MT  ,  United States , 1150
+USC00243176  ,  FT PECK PWR PLT  , 48.0119 , -106.4117 ,  Nashua  ,  MT  ,  United States , 1140
+USC00243489  ,  GIBSON DAM  , 47.6017 , -112.7536 ,  Augusta  ,  MT  ,  United States , 1189
+USC00243530  ,  GILDFORD  , 48.5653 , -110.3022 ,  Gildford  ,  MT  ,  United States , 1153
+USC00243557  ,  GLASGOW #2  , 48.1925 , -106.6383 ,  Glasgow  ,  MT  ,  United States , 339
+USC00243581  ,  GLENDIVE  , 47.1064 , -104.7183 ,  Glendive  ,  MT  ,  United States , 1207
+USC00243617  ,  GOLDBUTTE 7 N  , 48.9761 , -111.3994 ,  Sunburst  ,  MT  ,  United States , 1268
+USC00243727  ,  GRASS RANGE  , 47.0258 , -108.8031 ,  Grass Range  ,  MT  ,  United States , 1211
+USC00243749  ,  GREAT FALLS 16ST  , 47.4883 , -111.2781 ,  Great Falls  ,  MT  ,  United States , 200
+USC00243915  ,  HARDIN  , 45.7317 , -107.6092 ,  Hardin  ,  MT  ,  United States , 948
+USC00243939  ,  HARLOWTON  , 46.4328 , -109.8311 ,  Harlowton  ,  MT  ,  United States , 1132
+USC00243984  ,  HAUGAN 1 W  , 47.3889 , -115.4225 ,  Saltese  ,  MT  ,  United States , 802
+USC00244038  ,  HEBGEN DAM  , 44.8667 , -111.3392 ,  West Yellowstone  ,  MT  ,  United States , 1190
+USC00244084  ,  HERON 2 NW  , 48.08 , -116.0014 ,  Heron  ,  MT  ,  United States , 1440
+USC00244241  ,  HOLTER DAM  , 46.9914 , -112.0122 ,  Wolf Creek  ,  MT  ,  United States , 1192
+USC00244328  ,  HUNGRY HORSE DAM  , 48.3425 , -114.0217 ,  Martin City  ,  MT  ,  United States , 1149
+USC00244345  ,  HUNTLEY EXP STN  , 45.9228 , -108.2444 ,  Huntley  ,  MT  ,  United States , 1191
+USC00244358  ,  HYSHAM  , 46.2942 , -107.2278 ,  Hysham  ,  MT  ,  United States , 1241
+USC00244364  ,  HYSHAM 25 SSE  , 45.9353 , -107.1375 ,  Hysham  ,  MT  ,  United States , 1029
+USC00244386  ,  INGOMAR 14 NE  , 46.7392 , -107.2078 ,  Ingomar  ,  MT  ,  United States , 1218
+USC00244512  ,  JOPLIN  , 48.5617 , -110.7669 ,  Joplin  ,  MT  ,  United States , 1131
+USC00244522  ,  JORDAN  , 47.3144 , -106.9103 ,  Miles City  ,  MT  ,  United States , 1149
+USC00244558  ,  KALISPELL GLACIER AP  , 48.3042 , -114.2636 ,  Kalispell  ,  MT  ,  United States , 1357
+USC00244820  ,  LAKEVIEW  , 44.5994 , -111.8125 ,  Lima  ,  MT  ,  United States , 858
+USC00244954  ,  LENNEP 5 SW  , 46.3619 , -110.6003 ,    ,  MT  ,  United States , 1143
+USC00245015  ,  LIBBY 1 NE RS  , 48.4036 , -115.5392 ,  Libby  ,  MT  ,  United States , 1311
+USC00245020  ,  LIBBY 32 SSE  , 47.9733 , -115.2239 ,  Libby  ,  MT  ,  United States , 1338
+USC00245043  ,  LINDBERGH LAKE  , 47.4083 , -113.7125 ,  Seeley Lake  ,  MT  ,  United States , 1221
+USC00245153  ,  LOMA  , 47.9303 , -110.5067 ,  Loma  ,  MT  ,  United States , 1250
+USC00245340  ,  MALTA 35 S  , 47.8417 , -107.9556 ,  Malta  ,  MT  ,  United States , 1063
+USC00245572  ,  MEDICINE LAKE 3 SE  , 48.4828 , -104.4514 ,  Medicine Lake  ,  MT  ,  United States , 1063
+USC00245596  ,  MELSTONE  , 46.6006 , -107.8706 ,  Melstone  ,  MT  ,  United States , 1141
+USC00245740  ,  MISSOULA 6 NW WFO  , 46.9244 , -114.0911 ,  Missoula  ,  MT  ,  United States , 364
+USC00245761  ,  MOCCASIN EXP STN  , 47.0575 , -109.9514 ,  Moccasin  ,  MT  ,  United States , 1230
+USC00245870  ,  MOORHEAD 9 NE  , 45.1758 , -105.7517 ,  Broadus  ,  MT  ,  United States , 812
+USC00245872  ,  MOSBY 4 ENE  , 47.0219 , -107.8225 ,  Mosby  ,  MT  ,  United States , 933
+USC00245961  ,  MYSTIC LAKE  , 45.2436 , -109.7311 ,  Fishtail  ,  MT  ,  United States , 1285
+USC00246157  ,  NORRIS MADISON PH  , 45.4856 , -111.6325 ,  Ennis  ,  MT  ,  United States , 1246
+USC00246236  ,  OPHEIM 10 N  , 48.9989 , -106.38 ,  Opheim  ,  MT  ,  United States , 1071
+USC00246238  ,  OPHEIM 12 SSE  , 48.6956 , -106.3153 ,  Opheim  ,  MT  ,  United States , 1241
+USC00246472  ,  PHILIPSBURG RS  , 46.3158 , -113.3 ,  Philipsburg  ,  MT  ,  United States , 1258
+USC00246601  ,  PLEVNA  , 46.4178 , -104.5164 ,  Plevna  ,  MT  ,  United States , 795
+USC00246615  ,  POLEBRIDGE  , 48.7647 , -114.2842 ,    ,  MT  ,  United States , 1011
+USC00246635  ,  POLSON  , 47.675 , -114.1906 ,  Polson  ,  MT  ,  United States , 969
+USC00246640  ,  POLSON KERR DAM  , 47.6775 , -114.2419 ,  Polson  ,  MT  ,  United States , 1298
+USC00246862  ,  RAPELJE  , 45.9636 , -109.2531 ,  Rapelje  ,  MT  ,  United States , 1255
+USC00246893  ,  RAYMOND BORDER STN  , 48.9975 , -104.575 ,  Raymond  ,  MT  ,  United States , 1114
+USC00246918  ,  RED LODGE  , 45.1897 , -109.2861 ,  Red Lodge  ,  MT  ,  United States , 1021
+USC00247034  ,  RIDGEWAY 1 S  , 45.5022 , -104.4478 ,  Hammond  ,  MT  ,  United States , 862
+USC00247214  ,  ROUNDUP  , 46.4414 , -108.5397 ,  Roundup  ,  MT  ,  United States , 1090
+USC00247382  ,  SAVAGE  , 47.4536 , -104.3378 ,  Knife River  ,  MT  ,  United States , 1077
+USC00247448  ,  SEELEY LAKE RS  , 47.2142 , -113.5203 ,  Seeley Lake  ,  MT  ,  United States , 1283
+USC00247540  ,  SHONKIN 7 S  , 47.5319 , -110.5769 ,  Highwood  ,  MT  ,  United States , 772
+USC00247560  ,  SIDNEY  , 47.7283 , -104.1467 ,  Sidney  ,  MT  ,  United States , 1224
+USC00247620  ,  SIMPSON 6 N WILDHORSE  , 48.9981 , -110.2158 ,  Havre  ,  MT  ,  United States , 977
+USC00247894  ,  STEVENSVILLE  , 46.5136 , -114.0911 ,  Stevensville  ,  MT  ,  United States , 1234
+USC00248021  ,  SUN RIVER 4 S  , 47.4775 , -111.7406 ,  Sun River  ,  MT  ,  United States , 1127
+USC00248165  ,  TERRY  , 46.7939 , -105.3022 ,  Terry  ,  MT  ,  United States , 982
+USC00248211  ,  THOMPSON FALLS PH  , 47.5933 , -115.3594 ,  Thompson Falls  ,  MT  ,  United States , 1418
+USC00248233  ,  TIBER DAM  , 48.31 , -111.0878 ,  Chester  ,  MT  ,  United States , 988
+USC00248363  ,  TRIDENT  , 45.9469 , -111.4747 ,  Three Forks  ,  MT  ,  United States , 1094
+USC00248430  ,  TWIN BRIDGES  , 45.5472 , -112.3261 ,  Twin Bridges  ,  MT  ,  United States , 1411
+USC00248501  ,  VALIER  , 48.3119 , -112.2492 ,  Valier  ,  MT  ,  United States , 1197
+USC00248569  ,  VIDA 6 NE  , 47.88 , -105.3686 ,  Vida  ,  MT  ,  United States , 807
+USC00248777  ,  WESTBY  , 48.8744 , -104.0503 ,  Fortuna  ,  MT  ,  United States , 960
+USC00248809  ,  WEST GLACIER  , 48.5003 , -113.9847 ,  West Glacier  ,  MT  ,  United States , 1402
+USC00248957  ,  WIBAUX 2 E  , 46.9878 , -104.1567 ,  Wibaux  ,  MT  ,  United States , 1257
+USC00249023  ,  WILSALL 8 ENE  , 46.0289 , -110.51 ,  Wilsall  ,  MT  ,  United States , 1304
+USC00249033  ,  WINIFRED  , 47.5589 , -109.3758 ,  Winifred  ,  MT  ,  United States , 1183
+USC00249067  ,  WISDOM  , 45.6178 , -113.4514 ,  Wisdom  ,  MT  ,  United States , 1136
+USC00249240  ,  YELLOWTAIL DAM  , 45.3128 , -107.9383 ,  Fort Smith  ,  MT  ,  United States , 1131
+USW00024033  ,  BILLINGS LOGAN INTL AP  , 45.8069 , -108.5422 ,  Billings  ,  MT  ,  United States , 1249
+USW00024036  ,  LEWISTOWN MUNI AP  , 47.0492 , -109.4578 ,  Lewistown  ,  MT  ,  United States , 1279
+USW00024037  ,  MILES CITY F WILEY FLD  , 46.4267 , -105.8825 ,  Miles City  ,  MT  ,  United States , 1272
+USW00024132  ,  BOZEMAN GALLATIN FLD  , 45.7881 , -111.1608 ,  Belgrade  ,  MT  ,  United States , 1314
+USW00024135  ,  BUTTE BERT MOONEY AP  , 45.9647 , -112.5006 ,  Butte  ,  MT  ,  United States , 1364
+USW00024137  ,  CUT BANK MUNI AP  , 48.6033 , -112.3753 ,  Cut Bank  ,  MT  ,  United States , 1259
+USW00024138  ,  DILLON AP  , 45.2575 , -112.5545 ,  Dillon  ,  MT  ,  United States , 1145
+USW00024143  ,  GREAT FALLS INTL AP  , 47.4733 , -111.3822 ,  Great Falls  ,  MT  ,  United States , 1305
+USW00024144  ,  HELENA RGNL AP  , 46.6056 , -111.9636 ,  Helena  ,  MT  ,  United States , 1288
+USW00024150  ,  LIVINGSTON MISSION FLD  , 45.6983 , -110.4408 ,  Livingston  ,  MT  ,  United States , 1281
+USW00024153  ,  MISSOULA INTL AP  , 46.9208 , -114.0925 ,  Missoula  ,  MT  ,  United States , 1380
+USW00024159  ,  SUPERIOR  , 47.1928 , -114.8903 ,  Superior  ,  MT  ,  United States , 1166
+USW00094008  ,  GLASGOW INTL AP  , 48.2138 , -106.6213 ,  Glasgow  ,  MT  ,  United States , 1234

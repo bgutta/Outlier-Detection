@@ -1,0 +1,84 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00130112  ,  ALBIA 3 NNE  , 41.0656 , -92.7867 ,  Albia  ,  IA  ,  United States , 1196
+USC00130133  ,  ALGONA 3 W  , 43.0683 , -94.3053 ,  Algona  ,  IA  ,  United States , 1260
+USC00130241  ,  ANKENY  , 41.7183 , -93.5742 ,  Ankeny  ,  IA  ,  United States , 1091
+USC00130364  ,  ATLANTIC 1 NE  , 41.4175 , -95.0039 ,  Atlantic  ,  IA  ,  United States , 1309
+USC00130536  ,  BEACONSFIELD  , 40.8236 , -94.0475 ,  Ellston  ,  IA  ,  United States , 1168
+USC00130600  ,  BELLE PLAINE  , 41.8814 , -92.2764 ,  Belle Plaine  ,  IA  ,  United States , 1255
+USC00130608  ,  BELLEVUE L&D 12  , 42.2611 , -90.423 ,  Bellevue  ,  IA  ,  United States , 1232
+USC00130753  ,  BLOOMFIELD 1 WNW  , 40.7597 , -92.4394 ,  Bloomfield  ,  IA  ,  United States , 1240
+USC00130923  ,  BRITT  , 43.1017 , -93.8014 ,  Britt  ,  IA  ,  United States , 1077
+USC00131233  ,  CARROLL  , 42.065 , -94.85 ,  Carroll  ,  IA  ,  United States , 1285
+USC00131277  ,  CASTANA EXP FARM  , 42.0633 , -95.8364 ,  Mapleton  ,  IA  ,  United States , 1210
+USC00131319  ,  CEDAR RAPIDS NO 1  , 42.05 , -91.5881 ,  Marion  ,  IA  ,  United States , 1208
+USC00131394  ,  CHARITON 1 E  , 41.0164 , -93.2792 ,  Chariton  ,  IA  ,  United States , 1161
+USC00131402  ,  CHARLES CITY  , 43.0603 , -92.6717 ,  Charles City  ,  IA  ,  United States , 1276
+USC00131533  ,  CLARINDA  , 40.7244 , -95.0192 ,  Clarinda  ,  IA  ,  United States , 1274
+USC00131541  ,  CLARION  , 42.72 , -93.7336 ,  Clarion  ,  IA  ,  United States , 915
+USC00131635  ,  CLINTON #1  , 41.7947 , -90.2639 ,  Camanche  ,  IA  ,  United States , 1265
+USC00131954  ,  CRESCO 1 NE  , 43.3894 , -92.0939 ,  Cresco  ,  IA  ,  United States , 1240
+USC00131962  ,  CRESTON 2 SW  , 41.0372 , -94.3942 ,  Creston  ,  IA  ,  United States , 1210
+USC00132110  ,  DECORAH  , 43.3042 , -91.7953 ,  Decorah  ,  IA  ,  United States , 1301
+USC00132171  ,  DENISON  , 42.0364 , -95.3289 ,  Denison  ,  IA  ,  United States , 1236
+USC00132364  ,  DUBUQUE L&D 11  , 42.54 , -90.6461 ,  Dubuque  ,  IA  ,  United States , 1194
+USC00132573  ,  ELDORA  , 42.3619 , -93.0989 ,  Eldora  ,  IA  ,  United States , 1146
+USC00132603  ,  ELKADER 6 SSW  , 42.7753 , -91.4536 ,    ,  IA  ,  United States , 1057
+USC00132689  ,  EMMETSBURG  , 43.1025 , -94.6833 ,  Emmetsburg  ,  IA  ,  United States , 1065
+USC00132724  ,  ESTHERVILLE 4E  , 43.4036 , -94.7472 ,  Estherville  ,  IA  ,  United States , 1138
+USC00132977  ,  FOREST CITY 2 NNE  , 43.2844 , -93.6306 ,  Forest City  ,  IA  ,  United States , 1020
+USC00132999  ,  FT DODGE 5NNW  , 42.5836 , -94.2006 ,  Fort Dodge  ,  IA  ,  United States , 1230
+USC00133007  ,  FT MADISON  , 40.6222 , -91.3339 ,  Fort Madison  ,  IA  ,  United States , 1196
+USC00133473  ,  GRINNELL 3 SW  , 41.7203 , -92.7489 ,  Grinnell  ,  IA  ,  United States , 1309
+USC00133487  ,  GRUNDY CTR  , 42.3647 , -92.7594 ,  Grundy Center  ,  IA  ,  United States , 1206
+USC00133509  ,  GUTHRIE CTR  , 41.6686 , -94.4972 ,  Guthrie Center  ,  IA  ,  United States , 1139
+USC00133517  ,  GUTTENBERG L&D 10  , 42.7858 , -91.0958 ,  Guttenberg  ,  IA  ,  United States , 1244
+USC00133632  ,  HARLAN 1ESE  , 41.6403 , -95.2875 ,  Harlan  ,  IA  ,  United States , 1314
+USC00133718  ,  HAWARDEN  , 43.0031 , -96.485 ,  Hawarden  ,  IA  ,  United States , 1135
+USC00134063  ,  INDIANOLA 2W  , 41.3656 , -93.6481 ,  Indianola  ,  IA  ,  United States , 1110
+USC00134101  ,  IOWA CITY  , 41.6092 , -91.505 ,  Iowa City  ,  IA  ,  United States , 1250
+USC00134142  ,  IOWA FALLS  , 42.5189 , -93.2536 ,  Iowa Falls  ,  IA  ,  United States , 1051
+USC00134381  ,  KEOKUK LOCK DAM 19  , 40.3967 , -91.375 ,  Keokuk  ,  IA  ,  United States , 1242
+USC00134389  ,  KEOSAUQUA  , 40.7275 , -91.9683 ,  Keosauqua  ,  IA  ,  United States , 1209
+USC00134502  ,  KNOXVILLE  , 41.3247 , -93.1008 ,  Knoxville  ,  IA  ,  United States , 959
+USC00134561  ,  LAKE PARK  , 43.4483 , -95.3247 ,  Lake Park  ,  IA  ,  United States , 1142
+USC00134705  ,  LE CLAIRE L&D 14  , 41.5747 , -90.4006 ,  Le Claire  ,  IA  ,  United States , 1223
+USC00134735  ,  LE MARS  , 42.7817 , -96.1458 ,  Le Mars  ,  IA  ,  United States , 1222
+USC00135123  ,  MAPLETON NO.2  , 42.1619 , -95.7836 ,  Mapleton  ,  IA  ,  United States , 1256
+USC00135131  ,  MAQUOKETA 4 W  , 42.0494 , -90.7489 ,  Maquoketa  ,  IA  ,  United States , 1202
+USC00135198  ,  MARSHALLTOWN  , 42.0647 , -92.9244 ,  Marshalltown  ,  IA  ,  United States , 1212
+USC00135493  ,  MILFORD 4 NW  , 43.3828 , -95.1842 ,  Spirit Lake  ,  IA  ,  United States , 1229
+USC00135769  ,  MT AYR  , 40.7053 , -94.2428 ,  Mount Ayr  ,  IA  ,  United States , 926
+USC00135796  ,  MT PLEASANT 1 SSW  , 40.9486 , -91.5647 ,  Mount Pleasant  ,  IA  ,  United States , 1297
+USC00135837  ,  MUSCATINE  , 41.4075 , -91.0728 ,  Muscatine  ,  IA  ,  United States , 1133
+USC00135952  ,  NEW HAMPTON  , 43.0453 , -92.3122 ,  New Hampton  ,  IA  ,  United States , 1193
+USC00136305  ,  OSAGE  , 43.2794 , -92.8106 ,  Osage  ,  IA  ,  United States , 1341
+USC00136327  ,  OSKALOOSA  , 41.3214 , -92.6467 ,  Oskaloosa  ,  IA  ,  United States , 1116
+USC00136719  ,  POCAHONTAS  , 42.7292 , -94.6614 ,  Pocahontas  ,  IA  ,  United States , 1206
+USC00136766  ,  POSTVILLE  , 43.09 , -91.5581 ,  Postville  ,  IA  ,  United States , 316
+USC00136800  ,  PRIMGHAR  , 43.0864 , -95.6292 ,  Primghar  ,  IA  ,  United States , 1203
+USC00136940  ,  RED OAK  , 41.0036 , -95.2419 ,  Red Oak  ,  IA  ,  United States , 1283
+USC00137147  ,  ROCK RAPIDS  , 43.43 , -96.1686 ,  Rock Rapids  ,  IA  ,  United States , 1224
+USC00137161  ,  ROCKWELL CITY  , 42.3969 , -94.6292 ,  Rockwell City  ,  IA  ,  United States , 1162
+USC00137312  ,  SAC CITY  , 42.4194 , -94.9761 ,  Sac City  ,  IA  ,  United States , 1202
+USC00137386  ,  SANBORN  , 43.1792 , -95.6603 ,  Sanborn  ,  IA  ,  United States , 1238
+USC00137664  ,  SIBLEY  , 43.4047 , -95.7483 ,  Sibley  ,  IA  ,  United States , 1125
+USC00137678  ,  SIGOURNEY  , 41.3328 , -92.1975 ,  Sigourney  ,  IA  ,  United States , 1218
+USC00137700  ,  SIOUX CTR 2 SE  , 43.0558 , -96.1525 ,  Sioux Center  ,  IA  ,  United States , 1278
+USC00137726  ,  SIOUX RAPIDS 4 E  , 42.8931 , -95.0653 ,  Sioux Rapids  ,  IA  ,  United States , 1171
+USC00137844  ,  SPENCER 1 N  , 43.1653 , -95.1467 ,  Spencer  ,  IA  ,  United States , 1185
+USC00137979  ,  STORM LAKE  , 42.6469 , -95.1933 ,  Storm Lake  ,  IA  ,  United States , 1134
+USC00138026  ,  SWEA CITY 4W  , 43.4022 , -94.3831 ,  Swea City  ,  IA  ,  United States , 949
+USC00138296  ,  TOLEDO 3N  , 42.0356 , -92.5806 ,  Toledo  ,  IA  ,  United States , 1256
+USC00138339  ,  TRIPOLI  , 42.8125 , -92.2575 ,  Tripoli  ,  IA  ,  United States , 1154
+USC00138755  ,  WAUKON  , 43.2742 , -91.4711 ,  Waukon  ,  IA  ,  United States , 1093
+USC00138806  ,  WEBSTER CITY  , 42.4686 , -93.7972 ,  Webster City  ,  IA  ,  United States , 1288
+USC00139067  ,  WILLIAMSBURG 3SE  , 41.6403 , -91.9783 ,  Williamsburg  ,  IA  ,  United States , 1144
+USC00139132  ,  WINTERSET 1N  , 41.3561 , -94.0128 ,  Winterset  ,  IA  ,  United States , 1158
+USW00014931  ,  BURLINGTON MUNI AP  , 40.7833 , -91.1253 ,  Burlington  ,  IA  ,  United States , 1028
+USW00014933  ,  DES MOINES INTL AP  , 41.5339 , -93.6531 ,  Des Moines  ,  IA  ,  United States , 1280
+USW00014940  ,  MASON CITY MUNI AP  , 43.1544 , -93.3269 ,  Clear Lake  ,  IA  ,  United States , 1309
+USW00014943  ,  SIOUX CITY GATEWAY AP  , 42.3914 , -96.3792 ,  Sergeant Bluff  ,  IA  ,  United States , 1316
+USW00014950  ,  OTTUMWA INDUSTRIAL AP  , 41.1078 , -92.4467 ,  Ottumwa  ,  IA  ,  United States , 1217
+USW00014990  ,  CEDAR RAPIDS MUNI AP  , 41.8833 , -91.7167 ,  Cedar Rapids  ,  IA  ,  United States , 1216
+USW00094908  ,  DUBUQUE RGNL AP  , 42.3978 , -90.7036 ,  Dubuque  ,  IA  ,  United States , 1214
+USW00094910  ,  WATERLOO MUNI AP  , 42.5544 , -92.4011 ,  Waterloo  ,  IA  ,  United States , 1275

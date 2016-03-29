@@ -1,0 +1,166 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00410235  ,  ANAHUAC  , 29.7878 , -94.6342 ,  Anahuac  ,  TX  ,  United States , 1252
+USC00410257  ,  ANGLETON 2 W  , 29.1572 , -95.4592 ,  Angleton  ,  TX  ,  United States , 1223
+USC00410268  ,  ANSON  , 32.7667 , -99.89 ,  Anson  ,  TX  ,  United States , 1062
+USC00410493  ,  BALLINGER 2 NW  , 31.7414 , -99.9764 ,  Ballinger  ,  TX  ,  United States , 1339
+USC00410498  ,  BALMORHEA  , 30.9844 , -103.7403 ,  Balmorhea  ,  TX  ,  United States , 1129
+USC00410569  ,  BAY CITY WTR WKS  , 28.9797 , -95.975 ,  Bay City  ,  TX  ,  United States , 1236
+USC00410586  ,  BAYTOWN  , 29.9142 , -94.9908 ,  Crosby  ,  TX  ,  United States , 1150
+USC00410611  ,  BEAUMONT CITY  , 30.0969 , -94.0997 ,  Beaumont  ,  TX  ,  United States , 437
+USC00410613  ,  BEAUMONT RSCH CTR  , 30.0689 , -94.2928 ,  Beaumont  ,  TX  ,  United States , 1051
+USC00410639  ,  BEEVILLE 5 NE  , 28.4575 , -97.7061 ,  Beeville  ,  TX  ,  United States , 1372
+USC00410691  ,  BENBROOK DAM  , 32.6475 , -97.4439 ,  Fort Worth  ,  TX  ,  United States , 1164
+USC00410832  ,  BLANCO  , 30.1061 , -98.4286 ,  Blanco  ,  TX  ,  United States , 1403
+USC00410902  ,  BOERNE  , 29.7986 , -98.7353 ,  Boerne  ,  TX  ,  United States , 1462
+USC00410923  ,  BONHAM 3NNE  , 33.6403 , -96.1661 ,  Bonham  ,  TX  ,  United States , 1328
+USC00410958  ,  BORGER  , 35.6364 , -101.4542 ,  Borger  ,  TX  ,  United States , 1244
+USC00410984  ,  BOWIE  , 33.5511 , -97.8472 ,  Bowie  ,  TX  ,  United States , 1253
+USC00411007  ,  BRACKETTVILLE  , 29.3167 , -100.4144 ,  Brackettville  ,  TX  ,  United States , 1115
+USC00411017  ,  BRADY  , 31.1444 , -99.3492 ,  Brady  ,  TX  ,  United States , 1340
+USC00411042  ,  BRECKENRIDGE  , 32.75 , -98.9017 ,  Breckenridge  ,  TX  ,  United States , 1216
+USC00411048  ,  BRENHAM  , 30.1592 , -96.3972 ,  Brenham  ,  TX  ,  United States , 1441
+USC00411063  ,  BRIDGEPORT  , 33.2064 , -97.7761 ,  Bridgeport  ,  TX  ,  United States , 1262
+USC00411128  ,  BROWNFIELD #2  , 33.1908 , -102.2681 ,  Brownfield  ,  TX  ,  United States , 1352
+USC00411138  ,  BROWNWOOD 2ENE  , 31.7383 , -98.9456 ,  Early  ,  TX  ,  United States , 1195
+USC00411250  ,  BURNET  , 30.7586 , -98.2339 ,  Burnet  ,  TX  ,  United States , 1292
+USC00411486  ,  CARRIZO SPRINGS 3S  , 28.4894 , -99.8733 ,  Carrizo Springs  ,  TX  ,  United States , 1171
+USC00411500  ,  CARTHAGE  , 32.1614 , -94.3397 ,  Carthage  ,  TX  ,  United States , 1196
+USC00411578  ,  CENTER  , 31.8075 , -94.1642 ,  Center  ,  TX  ,  United States , 1369
+USC00411596  ,  CENTERVILLE  , 31.2581 , -95.9744 ,  Centerville  ,  TX  ,  United States , 1427
+USC00411715  ,  CHISOS BASIN  , 29.2703 , -103.3003 ,  Big Bend National Park  ,  TX  ,  United States , 1151
+USC00411800  ,  CLEBURNE  , 32.3139 , -97.4061 ,  Cleburne  ,  TX  ,  United States , 1367
+USC00411875  ,  COLEMAN  , 31.8281 , -99.4339 ,  Coleman  ,  TX  ,  United States , 1409
+USC00411956  ,  CONROE  , 30.3303 , -95.4831 ,  Conroe  ,  TX  ,  United States , 1156
+USC00412019  ,  CORSICANA  , 32.1225 , -96.4867 ,  Corsicana  ,  TX  ,  United States , 1358
+USC00412082  ,  CRANE  , 31.4072 , -102.3578 ,  Crane  ,  TX  ,  United States , 1037
+USC00412114  ,  CROCKETT  , 31.3072 , -95.4508 ,  Crockett  ,  TX  ,  United States , 1244
+USC00412121  ,  CROSBYTON  , 33.6517 , -101.245 ,  Crosbyton  ,  TX  ,  United States , 1326
+USC00412173  ,  CUERO  , 29.0892 , -97.3433 ,  Cuero  ,  TX  ,  United States , 1232
+USC00412225  ,  DAINGERFIELD 9 S  , 32.9203 , -94.7225 ,  Daingerfield  ,  TX  ,  United States , 1259
+USC00412266  ,  DANEVANG 1 W  , 29.0567 , -96.2319 ,  El Campo  ,  TX  ,  United States , 1322
+USC00412394  ,  DENISON DAM  , 33.8167 , -96.5667 ,  Denison  ,  TX  ,  United States , 1114
+USC00412404  ,  DENTON 2 SE  , 33.1992 , -97.105 ,  Denton  ,  TX  ,  United States , 1221
+USC00412617  ,  DUMAS  , 35.8731 , -101.9725 ,  Dumas  ,  TX  ,  United States , 1197
+USC00412679  ,  EAGLE PASS 3N  , 28.7569 , -100.4792 ,  Eagle Pass  ,  TX  ,  United States , 1182
+USC00412741  ,  EDEN  , 31.2208 , -99.8494 ,  Eden  ,  TX  ,  United States , 730
+USC00412906  ,  ENCINAL  , 27.9775 , -99.3847 ,  Encinal  ,  TX  ,  United States , 1205
+USC00413063  ,  FALFURRIAS  , 27.1353 , -98.1203 ,  Falfurrias  ,  TX  ,  United States , 1126
+USC00413183  ,  FLATONIA 4SE  , 29.6339 , -97.0644 ,  Flatonia  ,  TX  ,  United States , 1350
+USC00413214  ,  FLOYDADA  , 33.985 , -101.3339 ,  Floydada  ,  TX  ,  United States , 1247
+USC00413225  ,  FOLLETT  , 36.4328 , -100.1369 ,  Follett  ,  TX  ,  United States , 1124
+USC00413280  ,  FT STOCKTON  , 30.9072 , -102.9153 ,  Fort Stockton  ,  TX  ,  United States , 1123
+USC00413299  ,  FOWLERTON  , 28.5033 , -98.8392 ,  Fowlerton  ,  TX  ,  United States , 1370
+USC00413329  ,  FREDERICKSBURG  , 30.2392 , -98.9089 ,  Fredericksburg  ,  TX  ,  United States , 1452
+USC00413340  ,  FREEPORT 2 NW  , 28.9844 , -95.3808 ,  Freeport  ,  TX  ,  United States , 1547
+USC00413485  ,  GATESVILLE  , 31.4144 , -97.7019 ,  Gatesville  ,  TX  ,  United States , 1268
+USC00413618  ,  GOLIAD  , 28.6617 , -97.385 ,  Goliad  ,  TX  ,  United States , 1437
+USC00413668  ,  GRAHAM  , 33.1203 , -98.5669 ,  Graham  ,  TX  ,  United States , 1315
+USC00413691  ,  GRAPEVINE DAM  , 32.9506 , -97.0553 ,  Grapevine  ,  TX  ,  United States , 1147
+USC00413734  ,  GREENVILLE KGVL RADIO  , 33.1678 , -96.0983 ,  Greenville  ,  TX  ,  United States , 1061
+USC00413873  ,  HALLETTSVILLE 2 N  , 29.4706 , -96.9397 ,  Hallettsville  ,  TX  ,  United States , 1427
+USC00413943  ,  HARLINGEN  , 26.2028 , -97.6728 ,  Harlingen  ,  TX  ,  United States , 1204
+USC00413992  ,  HASKELL  , 33.1578 , -99.7456 ,  Haskell  ,  TX  ,  United States , 1319
+USC00414081  ,  HENDERSON  , 32.1808 , -94.7964 ,  Henderson  ,  TX  ,  United States , 1263
+USC00414098  ,  HEREFORD  , 34.8172 , -102.4003 ,  Hereford  ,  TX  ,  United States , 1289
+USC00414254  ,  HONDO  , 29.3364 , -99.1383 ,  Hondo  ,  TX  ,  United States , 775
+USC00414278  ,  HORDS CREEK DAM  , 31.8456 , -99.5606 ,  Coleman  ,  TX  ,  United States , 1207
+USC00414517  ,  JACKSBORO  , 33.2206 , -98.1561 ,  Jacksboro  ,  TX  ,  United States , 1175
+USC00414670  ,  JUNCTION 4SSW  , 30.4453 , -99.8045 ,  Junction  ,  TX  ,  United States , 933
+USC00414810  ,  KINGSVILLE  , 27.5311 , -97.8497 ,  Kingsville  ,  TX  ,  United States , 1204
+USC00415013  ,  LAMESA 1 SSE  , 32.7228 , -101.9456 ,  Lamesa  ,  TX  ,  United States , 1165
+USC00415094  ,  LAVON DAM  , 33.0353 , -96.4861 ,  Wylie  ,  TX  ,  United States , 1126
+USC00415183  ,  LEVELLAND  , 33.55 , -102.3758 ,  Levelland  ,  TX  ,  United States , 1342
+USC00415196  ,  LIBERTY  , 30.0592 , -94.795 ,  Liberty  ,  TX  ,  United States , 1475
+USC00415271  ,  LIVINGSTON 2 NNE  , 30.7394 , -94.9256 ,  Livingston  ,  TX  ,  United States , 1356
+USC00415272  ,  LLANO  , 30.7425 , -98.6542 ,  Llano  ,  TX  ,  United States , 1313
+USC00415429  ,  LULING  , 29.6756 , -97.6578 ,  Luling  ,  TX  ,  United States , 1385
+USC00415477  ,  MADISONVILLE  , 30.9392 , -95.9203 ,  Madisonville  ,  TX  ,  United States , 1366
+USC00415579  ,  MARATHON  , 30.1925 , -103.2717 ,  Marathon  ,  TX  ,  United States , 1176
+USC00415611  ,  MARLIN 3 NE  , 31.3336 , -96.8581 ,  Marlin  ,  TX  ,  United States , 1227
+USC00415650  ,  MASON  , 30.7478 , -99.2306 ,  Mason  ,  TX  ,  United States , 743
+USC00415658  ,  MATADOR  , 34.0044 , -100.825 ,  Matador  ,  TX  ,  United States , 1043
+USC00415659  ,  MATAGORDA NO 2  , 28.6836 , -95.9733 ,  Matagorda  ,  TX  ,  United States , 1386
+USC00415701  ,  MCALLEN  , 26.1917 , -98.2511 ,  McAllen  ,  TX  ,  United States , 1176
+USC00415707  ,  MCCAMEY  , 31.1331 , -102.2217 ,  McCamey  ,  TX  ,  United States , 1153
+USC00415721  ,  MCCOOK  , 26.565 , -98.1236 ,  Edinburg  ,  TX  ,  United States , 931
+USC00415822  ,  MENARD  , 30.9144 , -99.7958 ,  Menard  ,  TX  ,  United States , 1288
+USC00415891  ,  MIDLAND 4 ENE  , 32.0186 , -102.0258 ,  Midland  ,  TX  ,  United States , 1031
+USC00416104  ,  MT LOCKE  , 30.7053 , -104.0233 ,  Fort Davis  ,  TX  ,  United States , 1131
+USC00416135  ,  MULESHOE #1  , 34.2192 , -102.7328 ,  Muleshoe  ,  TX  ,  United States , 1260
+USC00416276  ,  NEW BRAUNFELS  , 29.7192 , -98.1189 ,  New Braunfels  ,  TX  ,  United States , 1370
+USC00416368  ,  NIXON  , 29.2283 , -97.7675 ,  Nixon  ,  TX  ,  United States , 1372
+USC00416644  ,  OLTON  , 34.1797 , -102.1356 ,  Olton  ,  TX  ,  United States , 1054
+USC00416734  ,  OZONA  , 30.7169 , -101.2061 ,  Ozona  ,  TX  ,  United States , 1150
+USC00416792  ,  PANTHER JUNCTION  , 29.3272 , -103.2061 ,  Big Bend National Park  ,  TX  ,  United States , 1281
+USC00416794  ,  PARIS  , 33.6744 , -95.5586 ,  Paris  ,  TX  ,  United States , 1259
+USC00416879  ,  PEARSALL  , 28.8889 , -99.0897 ,  Pearsall  ,  TX  ,  United States , 1363
+USC00417020  ,  PIERCE 1 E  , 29.2353 , -96.1817 ,  El Campo  ,  TX  ,  United States , 856
+USC00417074  ,  PLAINS  , 33.1869 , -102.8281 ,  Plains  ,  TX  ,  United States , 1107
+USC00417079  ,  PLAINVIEW  , 34.1892 , -101.7022 ,  Plainview  ,  TX  ,  United States , 1262
+USC00417140  ,  POINT COMFORT  , 28.6575 , -96.5553 ,  Point Comfort  ,  TX  ,  United States , 1212
+USC00417179  ,  PORT ISABEL  , 26.0942 , -97.3094 ,  Laguna Vista  ,  TX  ,  United States , 1158
+USC00417184  ,  PORT MANSFIELD  , 26.5578 , -97.4264 ,  Port Mansfield  ,  TX  ,  United States , 1295
+USC00417215  ,  POTEET  , 29.0283 , -98.5686 ,  Poteet  ,  TX  ,  United States , 1282
+USC00417232  ,  PRADE RCH  , 29.9167 , -99.7908 ,  Leakey  ,  TX  ,  United States , 851
+USC00417458  ,  RAYMONDVILLE  , 26.4819 , -97.8097 ,  Raymondville  ,  TX  ,  United States , 1318
+USC00417622  ,  RIO GRANDE CITY  , 26.3769 , -98.8117 ,  Rio Grande City  ,  TX  ,  United States , 1288
+USC00417704  ,  ROCKPORT  , 28.0286 , -97.0567 ,  Rockport  ,  TX  ,  United States , 1359
+USC00417706  ,  ROCKSPRINGS  , 30.0239 , -100.2119 ,  Rocksprings  ,  TX  ,  United States , 1086
+USC00417743  ,  ROSCOE  , 32.4481 , -100.5264 ,  Roscoe  ,  TX  ,  United States , 1214
+USC00417841  ,  RUSK  , 31.8086 , -95.1428 ,  Rusk  ,  TX  ,  United States , 1311
+USC00417983  ,  SAN MARCOS  , 29.8833 , -97.9494 ,  San Marcos  ,  TX  ,  United States , 1434
+USC00418022  ,  SANDERSON  , 30.1414 , -102.3917 ,  Sanderson  ,  TX  ,  United States , 1225
+USC00418201  ,  SEMINOLE  , 32.7131 , -102.6597 ,  Seminole  ,  TX  ,  United States , 1338
+USC00418354  ,  SINTON  , 28.0353 , -97.4972 ,  Sinton  ,  TX  ,  United States , 1168
+USC00418415  ,  SMITHVILLE  , 30.0067 , -97.1689 ,  Smithville  ,  TX  ,  United States , 1287
+USC00418433  ,  SNYDER  , 32.71 , -100.9111 ,  Snyder  ,  TX  ,  United States , 1176
+USC00418449  ,  SONORA  , 30.5831 , -100.6503 ,  Sonora  ,  TX  ,  United States , 1193
+USC00418566  ,  SPUR  , 33.4792 , -100.8761 ,  Spur  ,  TX  ,  United States , 723
+USC00418692  ,  STRATFORD  , 36.3372 , -102.0753 ,  Stratford  ,  TX  ,  United States , 1177
+USC00418728  ,  SUGAR LAND  , 29.6219 , -95.6567 ,  Sugar Land  ,  TX  ,  United States , 1125
+USC00418743  ,  SULPHUR SPRINGS  , 33.1481 , -95.6269 ,  Sulphur Springs  ,  TX  ,  United States , 1296
+USC00418818  ,  TAHOKA  , 33.1714 , -101.7981 ,  Tahoka  ,  TX  ,  United States , 1387
+USC00418996  ,  THOMPSONS 3 WSW  , 29.4822 , -95.6314 ,  Richmond  ,  TX  ,  United States , 1104
+USC00419175  ,  TULIA  , 34.5269 , -101.8392 ,  Tulia  ,  TX  ,  United States , 1361
+USC00419295  ,  VAN HORN  , 31.0417 , -104.8372 ,  Van Horn  ,  TX  ,  United States , 1072
+USC00419491  ,  WASHINGTON SP  , 30.3236 , -96.1594 ,  Washington  ,  TX  ,  United States , 1141
+USC00419532  ,  WEATHERFORD  , 32.7483 , -97.77 ,  Weatherford  ,  TX  ,  United States , 1289
+USC00419588  ,  WESLACO  , 26.1781 , -97.9708 ,  Weslaco  ,  TX  ,  United States , 1179
+USC00419715  ,  WHITNEY DAM  , 31.8611 , -97.375 ,  Clifton  ,  TX  ,  United States , 1330
+USC00419800  ,  WILLS POINT  , 32.7019 , -96.015 ,  Wills Point  ,  TX  ,  United States , 1336
+USC00419952  ,  YOAKUM  , 29.2739 , -97.1556 ,  Yoakum  ,  TX  ,  United States , 1418
+USW00003904  ,  COLLEGE STN  , 30.5892 , -96.3647 ,  College Station  ,  TX  ,  United States , 1315
+USW00003927  ,  DALLAS FT WORTH AP  , 32.8978 , -97.0189 ,  Irving  ,  TX  ,  United States , 1455
+USW00003969  ,  STEPHENVILLE  , 32.2314 , -98.2319 ,  Stephenville  ,  TX  ,  United States , 997
+USW00012912  ,  VICTORIA RGNL AP  , 28.8614 , -96.9303 ,  Victoria  ,  TX  ,  United States , 1493
+USW00012917  ,  PORT ARTHUR SE TX AP  , 29.9506 , -94.0206 ,  Beaumont  ,  TX  ,  United States , 1488
+USW00012918  ,  HOUSTON HOBBY AP  , 29.6381 , -95.2819 ,  Houston  ,  TX  ,  United States , 1419
+USW00012919  ,  BROWNSVILLE  , 25.9156 , -97.4186 ,  Brownsville  ,  TX  ,  United States , 1660
+USW00012921  ,  SAN ANTONIO INTL AP  , 29.5442 , -98.4839 ,  San Antonio  ,  TX  ,  United States , 1582
+USW00012924  ,  CORPUS CHRISTI  , 27.7839 , -97.5108 ,  Corpus Christi  ,  TX  ,  United States , 1541
+USW00012926  ,  CORPUS CHRISTI NAS  , 27.6833 , -97.2833 ,  Corpus Christi  ,  TX  ,  United States , 1297
+USW00012928  ,  KINGSVILLE NAAS  , 27.5 , -97.8167 ,  Kingsville  ,  TX  ,  United States , 1146
+USW00012935  ,  PALACIOS MUNI AP  , 28.7247 , -96.2536 ,  Palacios  ,  TX  ,  United States , 1590
+USW00012947  ,  COTULLA LA SALLE CO AP  , 28.4567 , -99.2183 ,  Cotulla  ,  TX  ,  United States , 838
+USW00013904  ,  AUSTIN BERGSTROM AP  , 30.1831 , -97.68 ,  Austin  ,  TX  ,  United States , 694
+USW00013911  ,  FT WORTH NAS  , 32.7667 , -97.45 ,  White Settlement  ,  TX  ,  United States , 550
+USW00013958  ,  AUSTIN-CAMP MABRY  , 30.3208 , -97.7603 ,  Austin  ,  TX  ,  United States , 1508
+USW00013959  ,  WACO RGNL AP  , 31.6189 , -97.2283 ,  Waco  ,  TX  ,  United States , 1506
+USW00013960  ,  DALLAS LOVE FLD  , 32.8519 , -96.8556 ,  Dallas  ,  TX  ,  United States , 1369
+USW00013962  ,  ABILENE RGNL AP  , 32.4106 , -99.6822 ,  Abilene  ,  TX  ,  United States , 1322
+USW00013966  ,  WICHITA FALLS MUNI AP  , 33.9786 , -98.4928 ,  Sheppard Air Force Base  ,  TX  ,  United States , 1384
+USW00013973  ,  JUNCTION KIMBLE CO AP  , 30.5108 , -99.7664 ,  Junction  ,  TX  ,  United States , 641
+USW00022010  ,  DEL RIO INTL AP  , 29.3783 , -100.9269 ,  Del Rio  ,  TX  ,  United States , 1453
+USW00023007  ,  CHILDRESS MUNI AP  , 34.4272 , -100.2831 , Childress  ,  TX  ,  United States , 1344
+USW00023023  ,  MIDLAND ODESSA  , 31.9433 , -102.1889 ,  Midland  ,  TX  ,  United States , 1459
+USW00023034  ,  SAN ANGELO  , 31.3711 , -100.4922 ,  San Angelo  ,  TX  ,  United States , 1432
+USW00023040  ,  WINKLER CO AP  , 31.78 , -103.2017 ,  Wink  ,  TX  ,  United States , 1385
+USW00023041  ,  BIG SPRING  , 32.2442 , -101.4536 ,  Big Spring  ,  TX  ,  United States , 1149
+USW00023042  ,  LUBBOCK  , 33.6542 , -101.8136 ,  Lubbock  ,  TX  ,  United States , 1335
+USW00023044  ,  EL PASO INTL AP  , 31.8111 , -106.3758 ,  El Paso  ,  TX  ,  United States , 1435
+USW00023047  ,  AMARILLO  , 35.2333 , -101.7089 ,  Amarillo  ,  TX  ,  United States , 1410
+USW00023072  ,  CLARENDON  , 34.9325 , -100.8903 ,  Clarendon  ,  TX  ,  United States , 1283
+USW00093042  ,  DALHART MUNI AP  , 36.0167 , -102.55 ,  Dalhart  ,  TX  ,  United States , 1440
+USW00093914  ,  PALESTINE 2 NE  , 31.7831 , -95.6039 ,  Palestine  ,  TX  ,  United States , 1263
+USW00093985  ,  MINERAL WELLS AP  , 32.7817 , -98.0603 ,  Mineral Wells  ,  TX  ,  United States , 1203
+USW00093987  ,  LUFKIN ANGELINA CO AP  , 31.2361 , -94.7544 ,  Burke  ,  TX  ,  United States , 1496

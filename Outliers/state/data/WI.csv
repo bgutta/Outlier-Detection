@@ -1,0 +1,93 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00470124  ,  ALMA DAM 4  , 44.3272 , -91.9194 ,  Alma  ,  WI  ,  United States , 1211
+USC00470175  ,  AMERY  , 45.3011 , -92.3631 ,  Amery  ,  WI  ,  United States , 1142
+USC00470265  ,  APPLETON  , 44.2769 , -88.4378 ,  Appleton  ,  WI  ,  United States , 1219
+USC00470516  ,  BARABOO  , 43.4583 , -89.7269 ,  Baraboo  ,  WI  ,  United States , 1167
+USC00470696  ,  BELOIT  , 42.5039 , -89.0311 ,  Beloit  ,  WI  ,  United States , 1015
+USC00470904  ,  BLOOMER  , 45.0956 , -91.4886 ,  Bloomer  ,  WI  ,  United States , 1249
+USC00471078  ,  BRODHEAD  , 42.6181 , -89.3861 ,  Brodhead  ,  WI  ,  United States , 1192
+USC00471416  ,  CHARMANY FARM  , 43.0597 , -89.4819 ,  Madison  ,  WI  ,  United States , 1084
+USC00471568  ,  CHILTON  , 44.0328 , -88.1469 ,  Chilton  ,  WI  ,  United States , 1194
+USC00471676  ,  CLINTONVILLE  , 44.6228 , -88.7483 ,  Clintonville  ,  WI  ,  United States , 1235
+USC00471847  ,  COUDERAY 7 W  , 45.8003 , -91.4594 ,  Stone Lake  ,  WI  ,  United States , 1074
+USC00471897  ,  CRIVITZ HIGH FALLS  , 45.3575 , -88.1919 ,  Athelstane  ,  WI  ,  United States , 913
+USC00471923  ,  CUMBERLAND  , 45.5333 , -92.0222 ,  Cumberland  ,  WI  ,  United States , 1232
+USC00472001  ,  DARLINGTON  , 42.6781 , -90.1064 ,  Darlington  ,  WI  ,  United States , 939
+USC00472165  ,  DODGE  , 44.1331 , -91.5511 ,  Arcadia  ,  WI  ,  United States , 978
+USC00472173  ,  DODGEVILLE  , 42.9608 , -90.1161 ,  Dodgeville  ,  WI  ,  United States , 1132
+USC00472556  ,  ELLSWORTH 1 E  , 44.7303 , -92.4586 ,  Ellsworth  ,  WI  ,  United States , 1131
+USC00472839  ,  FOND DU LAC  , 43.7953 , -88.4533 ,  Fond du Lac  ,  WI  ,  United States , 1212
+USC00472869  ,  FT ATKINSON  , 42.905 , -88.8589 ,  Fort Atkinson  ,  WI  ,  United States , 1274
+USC00473038  ,  GENOA DAM 8  , 43.5706 , -91.2294 ,  Genoa  ,  WI  ,  United States , 1229
+USC00473058  ,  GERMANTOWN  , 43.2389 , -88.1222 ,  Germantown  ,  WI  ,  United States , 1202
+USC00473186  ,  GORDON  , 46.245 , -91.8047 ,  Gordon  ,  WI  ,  United States , 1227
+USC00473332  ,  SAXON 1WSW  , 46.4858 , -90.4372 ,  Saxon  ,  WI  ,  United States , 1116
+USC00473405  ,  HANCOCK EXP FARM  , 44.1186 , -89.5358 ,  Hancock  ,  WI  ,  United States , 1266
+USC00473453  ,  HARTFORD 2 W  , 43.3311 , -88.4114 ,  Hartford  ,  WI  ,  United States , 1213
+USC00473698  ,  HOLCOMBE  , 45.2236 , -91.1269 ,  Holcombe  ,  WI  ,  United States , 925
+USC00474174  ,  KENOSHA  , 42.5608 , -87.8156 ,  Kenosha  ,  WI  ,  United States , 1232
+USC00474195  ,  KEWAUNEE  , 44.4628 , -87.505 ,  Kewaunee  ,  WI  ,  United States , 1075
+USC00474482  ,  LAKE MILLS  , 43.0803 , -88.8967 ,  Lake Mills  ,  WI  ,  United States , 1069
+USC00474546  ,  LANCASTER 4 WSW  , 42.8278 , -90.7889 ,  Lancaster  ,  WI  ,  United States , 1139
+USC00474582  ,  LAONA 6 SW  , 45.5119 , -88.7594 ,  Laona  ,  WI  ,  United States , 1206
+USC00474937  ,  LYNXVILLE DAM 9  , 43.2117 , -91.0986 ,  Eastman  ,  WI  ,  United States , 1230
+USC00474953  ,  MADELINE ISLAND  , 46.7781 , -90.7653 ,  La Pointe  ,  WI  ,  United States , 1125
+USC00475017  ,  MANITOWOC  , 44.0869 , -87.6522 ,  Manitowoc  ,  WI  ,  United States , 1100
+USC00475091  ,  MARINETTE  , 45.0983 , -87.6236 ,  Marinette  ,  WI  ,  United States , 1217
+USC00475120  ,  MARSHFIELD EXP FARM  , 44.6411 , -90.1333 ,  Marshfield  ,  WI  ,  United States , 1186
+USC00475164  ,  MATHER 3 NW  , 44.1747 , -90.3483 ,  Warrens  ,  WI  ,  United States , 1247
+USC00475178  ,  MAUSTON 1 SE  , 43.79 , -90.0597 ,  Mauston  ,  WI  ,  United States , 1188
+USC00475255  ,  MEDFORD  , 45.1308 , -90.3439 ,  Medford  ,  WI  ,  United States , 1276
+USC00475286  ,  MELLEN 4 NE  , 46.3689 , -90.6417 ,  Mellen  ,  WI  ,  United States , 1201
+USC00475335  ,  MENOMONIE  , 44.8742 , -91.9364 ,  Menomonie  ,  WI  ,  United States , 1234
+USC00475364  ,  MERRILL  , 45.1786 , -89.6617 ,  Merrill  ,  WI  ,  United States , 1158
+USC00475474  ,  MILWAUKEE MT MARY CLG  , 43.0719 , -88.0294 ,  Milwaukee  ,  WI  ,  United States , 1243
+USC00475516  ,  MINOCQUA  , 45.8864 , -89.7322 ,  Minocqua  ,  WI  ,  United States , 1260
+USC00475563  ,  MONDOVI  , 44.5647 , -91.6719 ,  Mondovi  ,  WI  ,  United States , 1155
+USC00475581  ,  MONTELLO  , 43.7806 , -89.3169 ,  Montello  ,  WI  ,  United States , 1149
+USC00475808  ,  NEILLSVILLE 3ESE  , 44.5378 , -90.535 ,  Neillsville  ,  WI  ,  United States , 1190
+USC00475932  ,  NEW LONDON  , 44.3589 , -88.7189 ,  New London  ,  WI  ,  United States , 1145
+USC00476200  ,  OCONOMOWOC  , 43.1003 , -88.5036 ,  Oconomowoc  ,  WI  ,  United States , 1197
+USC00476208  ,  OCONTO 4 W  , 44.8919 , -87.955 ,  Oconto  ,  WI  ,  United States , 1219
+USC00476330  ,  OSHKOSH  , 44.0206 , -88.5581 ,  Oshkosh  ,  WI  ,  United States , 1188
+USC00476357  ,  OWEN 2N  , 44.98 , -90.5545 ,  Owen  ,  WI  ,  United States , 1146
+USC00476398  ,  PARK FALLS DNR HQ  , 45.9336 , -90.4506 ,  Park Falls  ,  WI  ,  United States , 957
+USC00476678  ,  PLYMOUTH  , 43.73 , -87.9714 ,  Plymouth  ,  WI  ,  United States , 1177
+USC00476827  ,  PRAIRIE DU CHIEN  , 43.0514 , -91.135 ,  Prairie du Chien  ,  WI  ,  United States , 1307
+USC00476859  ,  PRENTICE #2  , 44.5447 , -90.3017 ,  Marshfield  ,  WI  ,  United States , 1006
+USC00476922  ,  RACINE  , 42.7022 , -87.7861 ,  Racine  ,  WI  ,  United States , 1154
+USC00477052  ,  REEDSBURG  , 43.5231 , -90.0003 ,  Reedsburg  ,  WI  ,  United States , 1006
+USC00477092  ,  REST LAKE  , 46.1222 , -89.8772 ,  Manitowish Waters  ,  WI  ,  United States , 1211
+USC00477113  ,  RHINELANDER  , 45.5986 , -89.4508 ,  Rhinelander  ,  WI  ,  United States , 1267
+USC00477132  ,  RICE LAKE  , 45.4164 , -91.7719 ,  Cameron  ,  WI  ,  United States , 1217
+USC00477158  ,  RICHLAND CTR  , 43.3314 , -90.3889 ,  Richland Center  ,  WI  ,  United States , 1252
+USC00477226  ,  RIVER FALLS  , 44.8542 , -92.6122 ,  River Falls  ,  WI  ,  United States , 1240
+USC00477349  ,  ROSHOLT 9 NNE  , 44.7511 , -89.245 ,  Wittenberg  ,  WI  ,  United States , 1027
+USC00477464  ,  ST CROIX FALLS  , 45.4117 , -92.6464 ,  Saint Croix Falls  ,  WI  ,  United States , 1214
+USC00477708  ,  SHAWANO 2SSW  , 44.7631 , -88.6183 ,  Shawano  ,  WI  ,  United States , 1234
+USC00477892  ,  SOLON SPRINGS  , 46.3575 , -91.8317 ,  Solon Springs  ,  WI  ,  United States , 913
+USC00477997  ,  SPARTA  , 43.9364 , -90.8164 ,  Sparta  ,  WI  ,  United States , 1161
+USC00478027  ,  SPOONER AG RES STN  , 45.8236 , -91.8761 ,  Spooner  ,  WI  ,  United States , 1201
+USC00478110  ,  STANLEY WWTP  , 44.9528 , -90.9269 ,  Stanley  ,  WI  ,  United States , 1155
+USC00478171  ,  STEVENS POINT  , 44.5114 , -89.5856 ,  Stevens Point  ,  WI  ,  United States , 1204
+USC00478229  ,  STOUGHTON  , 42.9108 , -89.2133 ,  Stoughton  ,  WI  ,  United States , 1047
+USC00478267  ,  STURGEON BAY EXP FARM  , 44.8797 , -87.3356 ,  Sturgeon Bay  ,  WI  ,  United States , 1262
+USC00478589  ,  TREMPEALEAU DAM 6  , 43.9994 , -91.4378 ,  Trempealeau  ,  WI  ,  United States , 1257
+USC00478827  ,  VIROQUA  , 43.5594 , -90.8761 ,  Viroqua  ,  WI  ,  United States , 1233
+USC00478905  ,  WASHINGTON IS  , 45.3581 , -86.8911 ,  Washington  ,  WI  ,  United States , 1238
+USC00478919  ,  WATERTOWN  , 43.1742 , -88.7364 ,  Watertown  ,  WI  ,  United States , 1279
+USC00478937  ,  WAUKESHA  , 43.0064 , -88.2492 ,  Waukesha  ,  WI  ,  United States , 1080
+USC00478951  ,  WAUPACA  , 44.3547 , -89.0592 ,  Waupaca  ,  WI  ,  United States , 1234
+USC00479190  ,  WHITEWATER  , 42.8508 , -88.7247 ,  Whitewater  ,  WI  ,  United States , 1274
+USC00479236  ,  WILLOW RSVR  , 45.7081 , -89.8489 ,  Hazelhurst  ,  WI  ,  United States , 1193
+USC00479304  ,  WINTER  , 45.8833 , -91.07 ,  Winter  ,  WI  ,  United States , 1127
+USC00479319  ,  WISCONSIN DELLS  , 43.6089 , -89.7667 ,  Wisconsin Dells  ,  WI  ,  United States , 1296
+USC00479335  ,  WISCONSIN RAPIDS  , 44.3881 , -89.8056 ,  Wisconsin Rapids  ,  WI  ,  United States , 1289
+USW00014837  ,  MADISON DANE RGNL AP  , 43.1406 , -89.3453 ,  Madison  ,  WI  ,  United States , 1298
+USW00014839  ,  MILWAUKEE MITCHELL AP  , 42.955 , -87.9044 ,  Milwaukee  ,  WI  ,  United States , 1251
+USW00014897  ,  WAUSAU DWTN AP  , 44.9258 , -89.6256 ,  Wausau  ,  WI  ,  United States , 1295
+USW00014898  ,  GREEN BAY  , 44.4983 , -88.1111 ,  Green Bay  ,  WI  ,  United States , 1294
+USW00014920  ,  LA CROSSE MUNI AP  , 43.8789 , -91.2528 ,  La Crosse  ,  WI  ,  United States , 1232
+USW00014921  ,  LONE ROCK TRI CO AP  , 43.2119 , -90.1814 ,  Spring Green  ,  WI  ,  United States , 893
+USW00014991  ,  EAU CLAIRE RGNL AP  , 44.8664 , -91.4878 ,  Eau Claire  ,  WI  ,  United States , 1355
+USW00014995  ,  GRANTSBURG  , 45.7728 , -92.6886 ,  Grantsburg  ,  WI  ,  United States , 1175

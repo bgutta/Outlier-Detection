@@ -1,0 +1,17 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00190408  ,  BARRE FALLS DAM  , 42.4281 , -72.0275 ,  Barre  ,  MA  ,  United States , 1018
+USC00190666  ,  BIRCH HILL DAM  , 42.6325 , -72.1233 ,  Royalston  ,  MA  ,  United States , 1065
+USC00190860  ,  BROCKTON  , 42.0478 , -71.005 ,  Brockton  ,  MA  ,  United States , 1330
+USC00190998  ,  BUFFUMVILLE LAKE  , 42.1164 , -71.9075 ,  Oxford  ,  MA  ,  United States , 938
+USC00192451  ,  EAST WAREHAM  , 41.7653 , -70.6697 ,  Wareham  ,  MA  ,  United States , 1366
+USC00192501  ,  EDGARTOWN  , 41.3853 , -70.5181 ,  Edgartown  ,  MA  ,  United States , 1345
+USC00193505  ,  HAVERHILL  , 42.7594 , -71.0603 ,  Haverhill  ,  MA  ,  United States , 1230
+USC00194105  ,  LAWRENCE  , 42.6992 , -71.1658 ,  Lawrence  ,  MA  ,  United States , 1133
+USC00196486  ,  PLYMOUTH-KINGSTON  , 41.9819 , -70.6961 ,  Kingston  ,  MA  ,  United States , 1302
+USC00196783  ,  READING  , 42.5242 , -71.1264 ,  Reading  ,  MA  ,  United States , 1310
+USC00198573  ,  TULLY LAKE  , 42.6394 , -72.2244 ,  Royalston  ,  MA  ,  United States , 1091
+USW00014702  ,  BEDFORD HANSCOM FLD  , 42.47 , -71.2894 ,  Concord  ,  MA  ,  United States , 617
+USW00014739  ,  BOSTON LOGAN INTL AP  , 42.3606 , -71.0106 ,  Boston  ,  MA  ,  United States , 1259
+USW00014756  ,  NANTUCKET MEM AP  , 41.2531 , -70.0608 ,  Nantucket  ,  MA  ,  United States , 925
+USW00014763  ,  PITTSFIELD MUNI AP  , 42.4272 , -73.2892 ,  Pittsfield  ,  MA  ,  United States , 540
+USW00094746  ,  WORCESTER RGNL AP  , 42.2706 , -71.8731 ,  Worcester  ,  MA  ,  United States , 1271

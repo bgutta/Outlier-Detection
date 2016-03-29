@@ -1,0 +1,122 @@
+<!doctype html>
+<head>
+<meta charset="utf-8">
+<title>US States Plain</title>
+    <meta name="description" content="Visualization of US climate" itemprop="description">
+
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+    <link href="../css/d3.geomap.css" rel="stylesheet">
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.css"></head>
+    
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+<body>
+    <div class="page-header">
+        <h1>US Climate <small>details</small></h1>
+    </div>
+    <div id="map"></div>
+    
+    <!-- dropdown boxes -->
+    State <select name="state" id="state" onchange="if(this.value != '') setStation(this.options[this.selectedIndex].value);"> 
+        <option value="">-Please Select State-</option> 
+        <option value="AK">AK</option>
+        <option value="AL">AL</option>
+        <option value="AR">AR</option>
+        <option value="AZ">AZ</option>
+        <option value="CA">CA</option>
+        <option value="CO">CO</option>
+        <option value="CT">CT</option>
+        <option value="DC">DC</option>
+        <option value="DE">DE</option>
+        <option value="FL">FL</option>
+        <option value="GA">GA</option>
+        <option value="HI">HI</option>
+        <option value="IA">IA</option>
+        <option value="ID">ID</option>
+        <option value="IL">IL</option>
+        <option value="IN">IN</option>
+        <option value="KS">KS</option>
+        <option value="KY">KY</option>
+        <option value="LA">LA</option>
+        <option value="MA">MA</option>
+        <option value="MD">MD</option>
+        <option value="ME">ME</option>
+        <option value="MI">MI</option>
+        <option value="MN">MN</option>
+        <option value="MO">MO</option>
+        <option value="MS">MS</option>
+        <option value="MT">MT</option>
+        <option value="NC">NC</option>
+        <option value="ND">ND</option>
+        <option value="NE">NE</option>
+        <option value="NH">NH</option>
+        <option value="NJ">NJ</option>
+        <option value="NM">NM</option>
+        <option value="NV">NV</option>
+        <option value="NY">NY</option>
+        <option value="OH">OH</option>
+        <option value="OK">OK</option>
+        <option value="OR">OR</option>
+        <option value="PA">PA</option>
+        <option value="RI">RI</option>
+        <option value="SC">SC</option>
+        <option value="SD">SD</option>
+        <option value="TN">TN</option>
+        <option value="TX">TX</option>
+        <option value="UT">UT</option>
+        <option value="VA">VA</option>
+        <option value="VT">VT</option>
+        <option value="WA">WA</option>
+        <option value="WI">WI</option>
+        <option value="WV">WV</option>
+        <option value="WY">WY</option>
+        <option value="U.S. Virgin Islands-St Croix">U.S. Virgin Islands-St Croix</option>
+        <option value="U.S. Virgin Islands-St Thomas">U.S. Virgin Islands-St Thomas</option>
+        <option value="Puerto Rico-Aguada">Puerto Rico-Aguada</option>
+	    <option value="Puerto Rico-Aguadilla">Puerto Rico-Aguadilla</option>
+	    <option value="Puerto Rico-Aibonito">Puerto Rico-Aibonito</option>
+	    <option value="Puerto Rico-Arecibo">Puerto Rico-Arecibo</option>
+	    <option value="Puerto Rico-Carolina">Puerto Rico-Carolina</option>
+	    <option value="Puerto Rico-Ceiba">Puerto Rico-Ceiba</option>
+	    <option value="Puerto Rico-Guayama">Puerto Rico-Guayama</option>
+	    <option value="Puerto Rico-Gurabo">Puerto Rico-Gurabo</option>
+	    <option value="Puerto Rico-Isabela">Puerto Rico-Isabela</option>
+	    <option value="Puerto Rico-Juana DÃ_az">Puerto Rico-Juana DÃ_az</option>
+	    <option value="Puerto Rico-Juncos">Puerto Rico-Juncos</option>
+	    <option value="Puerto Rico-Lajas">Puerto Rico-Lajas</option>
+	    <option value="Puerto Rico-ManatÃ_">Puerto Rico-ManatÃ_</option>
+	    <option value="Puerto Rico-MayagÃ_ez">Puerto Rico-MayagÃ_ez</option>
+	    <option value="Puerto Rico-Salinas">Puerto Rico-Salinas</option>
+	    <option value="Puerto Rico-San Juan">Puerto Rico-San Juan</option>
+	    <option value="Puerto Rico-Trujillo Alto">Puerto Rico-Trujillo Alto</option>
+	    <option value="Mexico-Son.">Mexico-Son.</option>
+	    <option value="Guam-Guam">Guam-Guam</option>
+    </select> 
+ 
+    Station <select name="station" id="station"> 
+        <option value="">-Please Select Station-</option> 
+    </select>  
+
+
+    
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-geo-projection/0.2.9/d3.geo.projection.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+    <script src="../js/d3.geomap.js"></script>
+    <script type="text/javascript" src="map.js"></script>
+    
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="http://cdn.bootcss.com/jquery/1.11.2/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Dropdown buttons-->
+    <script type="text/javascript" src="/js/dropdowns.js"></script>
+</body>
+</html>

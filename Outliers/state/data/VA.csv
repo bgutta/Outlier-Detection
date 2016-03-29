@@ -1,0 +1,46 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00440327  ,  ASHLAND  , 37.75 , -77.4833 ,  Ashland  ,  VA  ,  United States , 1292
+USC00440385  ,  BACK BAY WR  , 36.6619 , -75.9114 ,  Virginia Beach  ,  VA  ,  United States , 616
+USC00440766  ,  BLACKSBURG NWSO  , 37.2017 , -80.4133 ,  Blacksburg  ,  VA  ,  United States , 1410
+USC00441121  ,  BUCHANAN  , 37.5247 , -79.6817 ,  Buchanan  ,  VA  ,  United States , 1085
+USC00441209  ,  BURKES GARDEN  , 37.0925 , -81.3358 ,  Tazewell  ,  VA  ,  United States , 1153
+USC00441585  ,  CHARLOTTE COURT HOUSE  , 37.0522 , -78.6497 ,  Charlotte Court House  ,  VA  ,  United States , 1028
+USC00441593  ,  CHARLOTTESVILLE 2W  , 38.0328 , -78.5225 ,  Charlottesville  ,  VA  ,  United States , 1188
+USC00441606  ,  CHASE CITY  , 36.7775 , -78.4756 ,  Chase City  ,  VA  ,  United States , 1167
+USC00441614  ,  CHATHAM  , 36.8225 , -79.4103 ,  Chatham  ,  VA  ,  United States , 1323
+USC00442009  ,  CORBIN  , 38.2022 , -77.3747 ,  Woodford  ,  VA  ,  United States , 1299
+USC00442208  ,  DALE ENTERPRISE  , 38.4547 , -78.9353 ,  Harrisonburg  ,  VA  ,  United States , 1297
+USC00442941  ,  FARMVILLE 2 N  , 37.3264 , -78.3864 ,  Farmville  ,  VA  ,  United States , 1328
+USC00443267  ,  GALAX RADIO WBRF  , 36.6633 , -80.9139 ,  Galax  ,  VA  ,  United States , 1313
+USC00444044  ,  HOLLAND 1 E  , 36.6831 , -76.7683 ,  Suffolk  ,  VA  ,  United States , 1327
+USC00444128  ,  HOT SPRINGS  , 37.9969 , -79.8317 ,  Hot Springs  ,  VA  ,  United States , 1149
+USC00444414  ,  JOHN H KERR DAM  , 36.6003 , -78.3011 ,  Boydton  ,  VA  ,  United States , 1428
+USC00444876  ,  LEXINGTON  , 37.7767 , -79.4386 ,  Lexington  ,  VA  ,  United States , 1342
+USC00445050  ,  LOUISA  , 38.0422 , -78.0061 ,  Louisa  ,  VA  ,  United States , 1290
+USC00445096  ,  LURAY 5 E  , 38.6661 , -78.3728 ,  Luray  ,  VA  ,  United States , 1131
+USC00445300  ,  MARTINSVILLE FLTR PLT  , 36.7056 , -79.865 ,  Martinsville  ,  VA  ,  United States , 1345
+USC00445851  ,  MT WEATHER  , 39.0642 , -77.8883 ,  Bluemont  ,  VA  ,  United States , 1126
+USC00446475  ,  PAINTER 2W  , 37.5831 , -75.8217 ,  Painter  ,  VA  ,  United States , 1275
+USC00446692  ,  PHILPOTT DAM 2  , 36.7764 , -80.0272 ,  Bassett  ,  VA  ,  United States , 1253
+USC00446712  ,  PIEDMONT RSCH STN  , 38.2322 , -78.1203 ,  Orange  ,  VA  ,  United States , 1373
+USC00446955  ,  PULASKI 2 E  , 37.0556 , -80.7842 ,  Pulaski  ,  VA  ,  United States , 1348
+USC00447338  ,  ROCKY MT  , 36.9769 , -79.8961 ,  Rocky Mount  ,  VA  ,  United States , 1231
+USC00447506  ,  SALTVILLE 1N  , 36.8894 , -81.7711 ,  Saltville  ,  VA  ,  United States , 935
+USC00448062  ,  STAUNTON WATER TRMTMT PLT  , 38.1692 , -79.0844 ,  Staunton  ,  VA  ,  United States , 1264
+USC00448192  ,  SUFFOLK LAKE KILBY  , 36.7297 , -76.6014 ,  Suffolk  ,  VA  ,  United States , 1241
+USC00448829  ,  WALKERTON 2 NW  , 37.7433 , -77.04 ,  Walkerton  ,  VA  ,  United States , 1359
+USC00448894  ,  WARSAW 2 NW  , 37.9881 , -76.7769 ,  Warsaw  ,  VA  ,  United States , 1285
+USC00449025  ,  WEST POINT 2 NW  , 37.5658 , -76.8 ,  West Point  ,  VA  ,  United States , 1309
+USC00449151  ,  WILLIAMSBURG 2 N  , 37.3017 , -76.7039 ,  Williamsburg  ,  VA  ,  United States , 1352
+USC00449186  ,  WINCHESTER 7 SE  , 39.1833 , -78.1167 ,  Winchester  ,  VA  ,  United States , 1234
+USC00449215  ,  WISE 3E  , 36.9986 , -82.5389 ,  Wise  ,  VA  ,  United States , 1266
+USC00449263  ,  WOODSTOCK 2 NE  , 38.8969 , -78.4678 ,  Woodstock  ,  VA  ,  United States , 1278
+USC00449301  ,  WYTHEVILLE 1 S  , 36.9292 , -81.0942 ,  Wytheville  ,  VA  ,  United States , 1357
+USW00013733  ,  LYNCHBURG RGNL AP  , 37.3208 , -79.2067 ,  Lynchburg  ,  VA  ,  United States , 1377
+USW00013737  ,  NORFOLK INTL AP  , 36.9033 , -76.1922 ,  Virginia Beach  ,  VA  ,  United States , 1350
+USW00013740  ,  RICHMOND INTL AP  , 37.505 , -77.3203 ,  Richmond  ,  VA  ,  United States , 1361
+USW00013741  ,  ROANOKE RGNL AP  , 37.3169 , -79.9742 ,  Roanoke  ,  VA  ,  United States , 1372
+USW00013743  ,  WASHINGTON REAGAN AP  , 38.8483 , -77.0342 ,  Arlington  ,  VA  ,  United States , 1263
+USW00013750  ,  NORFOLK NAS  , 36.95 , -76.2833 ,  Norfolk  ,  VA  ,  United States , 1085
+USW00013769  ,  OCEANA NAS  , 36.8167 , -76.0333 ,  Virginia Beach  ,  VA  ,  United States , 1220
+USW00013773  ,  QUANTICO MCAS  , 38.5 , -77.3 ,  Quantico  ,  VA  ,  United States , 962

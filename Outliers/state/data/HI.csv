@@ -1,0 +1,17 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00511004  ,  HALEAKALA RS 338  , 20.7603 , -156.2469 ,  Kula  ,  HI  ,  United States , 1086
+USC00511125  ,  HANA AP 355  , 20.7947 , -156.0153 ,  Hana ,  HI  ,  United States , 1041
+USC00511303  ,  HAWAII VOL NP HQ 54  , 19.4297 , -155.2561 ,  Mountain View  ,  HI  ,  United States , 1033
+USC00512679  ,  KAILUA 446  , 20.8906 , -156.2128 , Kailua ,  HI  ,  United States , 807
+USC00512751  ,  KAINALIU 73.2  , 19.5336 , -155.9258 ,  Kealakekua  ,  HI  ,  United States , 922
+USC00513099  ,  KANALOHULUHULU 1075  , 22.1297 , -159.6586 ,  Waimea  ,  HI  ,  United States , 1173
+USC00514561  ,  KILAUEA 1134  , 22.2139 , -159.4044 ,  Kilauea  ,  HI  ,  United States , 507
+USC00516198  ,  MAUNA LOA SLOPE OBS 39  , 19.5361 , -155.5767 ,  Waimea ,  HI  ,  United States , 764
+USC00517150  ,  OPAEULA 870  , 21.5739 , -158.0378 ,  Wahiaw  ,  HI  ,  United States , 774
+USC00517166  ,  OPIHIHALE NO 2 24.1  , 19.2706 , -155.8747 ,  Captain Cook  ,  HI  ,  United States , 1681
+USW00021504  ,  HILO INTL AP  , 19.7192 , -155.0531 ,  Hilo  ,  HI  ,  United States , 1774
+USW00022516  ,  KAHULUI AP  , 20.8997 , -156.4286 ,  Kahului  ,  HI  ,  United States , 1762
+USW00022519  ,  KANEOHE BAY MCAS  , 21.45 , -157.7833 ,  Kailua  ,  HI  ,  United States , 1392
+USW00022521  ,  HONOLULU INTL AP  , 21.3239 , -157.9294 ,  Honolulu  ,  HI  ,  United States , 1821
+USW00022534  ,  MOLOKAI AP  , 21.1544 , -157.0961 , Kaunakakai ,  HI  ,  United States , 1534
+USW00022536  ,  LIHUE WSO AP 1020.1  , 21.9839 , -159.3405 , Lihue ,  HI  ,  United States , 1972

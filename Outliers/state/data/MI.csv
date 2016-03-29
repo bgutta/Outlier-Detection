@@ -1,0 +1,73 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00200032  ,  ADRIAN 2 NNE  , 41.9164 , -84.0158 ,  Adrian  ,  MI  ,  United States , 1212
+USC00200089  ,  ALBERTA FORD FOR CTR  , 46.6447 , -88.4811 ,  L'Anse  ,  MI  ,  United States , 954
+USC00200230  ,  ANN ARBOR U OF MICH  , 42.2947 , -83.7108 ,  Ann Arbor  ,  MI  ,  United States , 1241
+USC00200417  ,  BAD AXE  , 43.8081 , -82.9939 ,  Bad Axe  ,  MI  ,  United States , 1236
+USC00200552  ,  BATTLE CREEK 5NW  , 42.3667 , -85.2667 ,  Battle Creek  ,  MI  ,  United States , 1237
+USC00200718  ,  BERGLAND DAM  , 46.5869 , -89.5475 ,  Bergland  ,  MI  ,  United States , 1056
+USC00200779  ,  BIG RAPIDS WTR WKS  , 43.7072 , -85.4822 ,  Big Rapids  ,  MI  ,  United States , 1234
+USC00200864  ,  BLOOMINGDALE  , 42.3842 , -85.9625 ,  Bloomingdale  ,  MI  ,  United States , 1154
+USC00201299  ,  CARO WWTP  , 43.4839 , -83.3919 ,  Caro  ,  MI  ,  United States , 1229
+USC00201492  ,  CHEBOYGAN  , 45.6528 , -84.4725 ,  Cheboygan  ,  MI  ,  United States , 1207
+USC00201675  ,  COLDWATER ST SCHOOL  , 41.9622 , -84.9925 ,  Coldwater  ,  MI  ,  United States , 1213
+USC00202015  ,  DEARBORN  , 42.3194 , -83.2378 ,  Dearborn  ,  MI  ,  United States , 1158
+USC00202094  ,  DETOUR VILLAGE  , 45.9983 , -83.9014 ,  De Tour Village  ,  MI  ,  United States , 1255
+USC00202250  ,  DOWAGIAC 1 W  , 41.9856 , -86.1319 ,  Dowagiac  ,  MI  ,  United States , 1183
+USC00202381  ,  EAST JORDAN  , 45.1519 , -85.1322 ,  East Jordan  ,  MI  ,  United States , 1297
+USC00202423  ,  EAST TAWAS  , 44.2839 , -83.5036 ,  East Tawas  ,  MI  ,  United States , 1206
+USC00202445  ,  EAU CLAIRE 4 NE  , 42.0147 , -86.2408 ,  Eau Claire  ,  MI  ,  United States , 1197
+USC00202984  ,  FRANKFORT 2NE  , 44.6481 , -86.21 ,  Frankfort  ,  MI  ,  United States , 1105
+USC00203477  ,  GROSSE POINTE FARMS  , 42.4078 , -82.8892 ,  Grosse Pointe Farms  ,  MI  ,  United States , 1086
+USC00203504  ,  GULL LK BIOLOGICAL STN  , 42.3833 , -85.3828 ,  Augusta  ,  MI  ,  United States , 1136
+USC00203529  ,  HALE LOUD DAM  , 44.4633 , -83.7217 ,  Glennie  ,  MI  ,  United States , 1082
+USC00203585  ,  HARBOR BEACH 1 SSE  , 43.8322 , -82.6428 ,  Harbor Beach  ,  MI  ,  United States , 1221
+USC00203632  ,  HART 3 WSW  , 43.6747 , -86.4239 ,  Mears  ,  MI  ,  United States , 1229
+USC00203769  ,  HESPERIA 4 WNW  , 43.5908 , -86.1056 ,  Hesperia  ,  MI  ,  United States , 1169
+USC00203823  ,  HILLSDALE  , 41.9353 , -84.6411 ,  Hillsdale  ,  MI  ,  United States , 1171
+USC00203858  ,  HOLLAND WTP  , 42.7989 , -86.205 ,  Holland  ,  MI  ,  United States , 1023
+USC00203932  ,  HOUGHTON LAKE 6 WSW  , 44.3119 , -84.8922 ,  Merritt  ,  MI  ,  United States , 1132
+USC00204078  ,  IONIA 2SSW  , 42.9531 , -85.0778 ,  Ionia  ,  MI  ,  United States , 1113
+USC00204090  ,  IRON MT KINGSFORD WWTP  , 45.7858 , -88.0842 ,  Kingsford  ,  MI  ,  United States , 1299
+USC00204104  ,  IRONWOOD  , 46.4656 , -90.1892 ,  Ironwood  ,  MI  ,  United States , 1213
+USC00204502  ,  LAKE CITY EXP FARM  , 44.3089 , -85.205 ,  Lake City  ,  MI  ,  United States , 1279
+USC00204655  ,  LAPEER WWTP  , 43.0608 , -83.3075 ,  Lapeer  ,  MI  ,  United States , 1145
+USC00204967  ,  LUPTON 1S  , 44.42 , -84.0233 ,  Lupton  ,  MI  ,  United States , 959
+USC00205065  ,  MANISTEE 3SE  , 44.2114 , -86.2939 ,  Manistee  ,  MI  ,  United States , 1206
+USC00205073  ,  MANISTIQUE WWTP  , 45.9511 , -86.2514 ,  Manistique  ,  MI  ,  United States , 1147
+USC00205097  ,  MAPLE CITY 1E  , 44.855 , -85.8353 ,  Cedar  ,  MI  ,  United States , 1146
+USC00205452  ,  MILFORD GM PROVING GRD  , 42.5794 , -83.6844 ,    ,  MI  ,  United States , 946
+USC00205567  ,  MONTAGUE 4 NW  , 43.4614 , -86.4175 ,  Montague  ,  MI  ,  United States , 1160
+USC00205662  ,  MT PLEASANT UNIV  , 43.5858 , -84.7697 ,  Mount Pleasant  ,  MI  ,  United States , 1110
+USC00205690  ,  MUNISING  , 46.4122 , -86.6625 ,  Munising  ,  MI  ,  United States , 1089
+USC00205816  ,  NEWBERRY CORRECTIONAL FACILITY  , 46.3286 , -85.5033 ,  Newberry  ,  MI  ,  United States , 985
+USC00206184  ,  ONAWAY 4N  , 45.4108 , -84.2233 ,  Onaway  ,  MI  ,  United States , 1121
+USC00206300  ,  OWOSSO WWTP  , 43.0161 , -84.18 ,  Owosso  ,  MI  ,  United States , 1110
+USC00206507  ,  PETOSKEY  , 45.3725 , -84.9767 ,  Petoskey  ,  MI  ,  United States , 1218
+USC00206658  ,  PONTIAC WWTP  , 42.6389 , -83.2556 ,  Pontiac  ,  MI  ,  United States , 916
+USC00206680  ,  PORT HURON  , 42.975 , -82.4194 ,  Port Huron  ,  MI  ,  United States , 1222
+USC00207277  ,  ST JAMES 4SSW BEAVER  , 45.6911 , -85.5464 ,  Beaver Island  ,  MI  ,  United States , 1135
+USC00207280  ,  SAINT JOHNS  , 43.0114 , -84.5542 ,  Saint Johns  ,  MI  ,  United States , 1193
+USC00207690  ,  SOUTH HAVEN  , 42.4014 , -86.2833 ,  South Haven  ,  MI  ,  United States , 1112
+USC00207812  ,  STAMBAUGH 2SSE  , 46.0556 , -88.6275 ,  Gaastra  ,  MI  ,  United States , 1288
+USC00207820  ,  STANDISH  , 43.9822 , -83.9533 ,  Standish  ,  MI  ,  United States , 1081
+USC00208417  ,  VANDERBILT 11ENE  , 45.1703 , -84.4397 ,  Vanderbilt  ,  MI  ,  United States , 1138
+USC00208680  ,  WATERSMEET  , 46.2778 , -89.1742 ,  Watersmeet  ,  MI  ,  United States , 741
+USC00208800  ,  WEST BRANCH 3SE  , 44.2542 , -84.2011 ,  West Branch  ,  MI  ,  United States , 1176
+USW00014804  ,  MT CLEMENS ANG BASE  , 42.6083 , -82.8183 ,  Harrison charter Township  ,  MI  ,  United States , 1204
+USW00014814  ,  ALPENA WWTP  , 45.0606 , -83.4281 ,  Alpena  ,  MI  ,  United States , 1184
+USW00014817  ,  CADILLAC  , 44.2656 , -85.3967 ,  Cadillac  ,  MI  ,  United States , 1243
+USW00014822  ,  DETROIT CITY AP  , 42.4092 , -83.01 ,  Detroit  ,  MI  ,  United States , 1301
+USW00014826  ,  FLINT BISHOP INTL AP  , 42.9667 , -83.7494 ,  Flint  ,  MI  ,  United States , 1312
+USW00014828  ,  GLADWIN  , 43.9758 , -84.4908 ,  Gladwin  ,  MI  ,  United States , 1234
+USW00014833  ,  JACKSON REYNOLDS FLD  , 42.2667 , -84.4667 ,  Jackson  ,  MI  ,  United States , 1257
+USW00014836  ,  LANSING CAPITAL CITY AP  , 42.7803 , -84.5789 ,  Lansing  ,  MI  ,  United States , 1351
+USW00014840  ,  MUSKEGON CO AP  , 43.1711 , -86.2367 ,  Norton Shores  ,  MI  ,  United States , 1295
+USW00014841  ,  PELLSTON RGNL AP  , 45.5644 , -84.7928 ,  Pellston  ,  MI  ,  United States , 1344
+USW00014845  ,  SAGINAW MBS INTL AP  , 43.5331 , -84.0797 ,  Freeland  ,  MI  ,  United States , 1212
+USW00014847  ,  SAULT STE MARIE SANDERSON FLD  , 46.4794 , -84.3572 ,  Sault Ste. Marie  ,  MI  ,  United States , 1278
+USW00014850  ,  TRAVERSE CITY CHERRY CPTL AP  , 44.7408 , -85.5825 ,  Traverse City  ,  MI  ,  United States , 1327
+USW00014853  ,  DETROIT WILLOW RUN AP  , 42.2333 , -83.5333 ,  Van Buren charter Township  ,  MI  ,  United States , 486
+USW00014858  ,  HANCOCK HOUGHTON CO AP  , 47.1686 , -88.4889 ,  Hancock  ,  MI  ,  United States , 1082
+USW00094847  ,  DETROIT METRO AP  , 42.2314 , -83.3308 ,  Detroit  ,  MI  ,  United States , 1263
+USW00094849  ,  ALPENA CO RGNL AP  , 45.0717 , -83.5644 ,  Alpena  ,  MI  ,  United States , 1337
+USW00094850  ,  MARQUETTE  , 46.5311 , -87.5483 ,  Negaunee  ,  MI  ,  United States , 1290

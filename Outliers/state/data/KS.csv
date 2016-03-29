@@ -1,0 +1,73 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00140010  ,  ABILENE  , 38.9267 , -97.2128 ,  Abilene  ,  KS  ,  United States , 1318
+USC00140439  ,  ATWOOD  , 39.7997 , -101.0422 ,  Atwood  ,  KS  ,  United States , 1199
+USC00140865  ,  BISON 3NW  , 38.5636 , -99.235 ,  Bison  ,  KS  ,  United States , 1220
+USC00141179  ,  BURR OAK 1N  , 39.8775 , -98.3036 ,  Burr Oak  ,  KS  ,  United States , 204
+USC00141383  ,  CEDAR BLUFF DAM  , 38.7978 , -99.7231 ,  Ellis  ,  KS  ,  United States , 876
+USC00141522  ,  CIMARRON  , 37.8131 , -100.3456 ,  Cimarron  ,  KS  ,  United States , 1327
+USC00141699  ,  COLBY 1SW  , 39.3925 , -101.0689 ,  Colby  ,  KS  ,  United States , 1290
+USC00141858  ,  COTTONWOOD FALLS  , 38.3703 , -96.5483 ,  Cottonwood Falls  ,  KS  ,  United States , 1311
+USC00142401  ,  EL DORADO  , 37.8183 , -96.8444 ,  El Dorado  ,  KS  ,  United States , 1387
+USC00142432  ,  ELKHART  , 37.0058 , -101.8867 ,  Elkhart  ,  KS  ,  United States , 1248
+USC00142602  ,  ESKRIDGE  , 38.8592 , -96.1058 ,  Eskridge  ,  KS  ,  United States , 989
+USC00142622  ,  EUREKA 1E  , 37.8253 , -96.2644 ,  Eureka  ,  KS  ,  United States , 1313
+USC00142835  ,  FT SCOTT  , 37.8428 , -94.7086 ,  Fort Scott  ,  KS  ,  United States , 1247
+USC00142980  ,  GARDEN CITY EXP STA  , 37.9931 , -100.8122 ,  Garden City  ,  KS  ,  United States , 1326
+USC00143008  ,  GARNETT 1 E  , 38.28 , -95.2178 ,  Garnett  ,  KS  ,  United States , 1279
+USC00143218  ,  GREAT BEND  , 38.3758 , -98.7803 ,  Great Bend  ,  KS  ,  United States , 1167
+USC00143527  ,  HAYS 1 S  , 38.8586 , -99.3358 ,  Hays  ,  KS  ,  United States , 1345
+USC00143594  ,  HERINGTON  , 38.6656 , -96.9494 ,  Herington  ,  KS  ,  United States , 1336
+USC00143759  ,  HOLTON  , 39.4578 , -95.755 ,  Holton  ,  KS  ,  United States , 1167
+USC00143810  ,  HORTON  , 39.6678 , -95.52 ,  Horton  ,  KS  ,  United States , 1284
+USC00143837  ,  HOXIE  , 39.3533 , -100.4397 ,  Hoxie  ,  KS  ,  United States , 1295
+USC00143855  ,  HUGOTON  , 37.1639 , -101.34 ,  Hugoton  ,  KS  ,  United States , 1287
+USC00143930  ,  HUTCHINSON 10 SW  , 37.9311 , -98.0297 ,  Hutchinson  ,  KS  ,  United States , 1374
+USC00143984  ,  IOLA 1 W  , 37.9233 , -95.4242 ,  Iola  ,  KS  ,  United States , 1312
+USC00144178  ,  KANOPOLIS LAKE  , 38.6078 , -97.9597 ,  Marquette  ,  KS  ,  United States , 1315
+USC00144313  ,  KINGMAN  , 37.6361 , -98.1136 ,  Kingman  ,  KS  ,  United States , 1274
+USC00144357  ,  KIRWIN DAM  , 39.6619 , -99.1228 ,  Kirwin  ,  KS  ,  United States , 740
+USC00144665  ,  LEOTI  , 38.4794 , -101.3658 ,  Leoti  ,  KS  ,  United States , 1077
+USC00144695  ,  LIBERAL  , 37.0222 , -100.9294 ,  Liberal  ,  KS  ,  United States , 1272
+USC00144712  ,  LINCOLN 1 SE  , 39.0294 , -98.13 ,  Lincoln  ,  KS  ,  United States , 1458
+USC00144857  ,  LOVEWELL DAM  , 39.9 , -98.0256 ,  Webber  ,  KS  ,  United States , 1041
+USC00145152  ,  MCPHERSON  , 38.3772 , -97.6097 ,  McPherson  ,  KS  ,  United States , 1351
+USC00145171  ,  MEADE  , 37.285 , -100.345 ,  Meade  ,  KS  ,  United States , 1271
+USC00145363  ,  MINNEAPOLIS  , 39.1247 , -97.7047 ,  Minneapolis  ,  KS  ,  United States , 1228
+USC00145536  ,  MOUND VALLEY 3 WSW  , 37.1872 , -95.4508 ,  Mound Valley  ,  KS  ,  United States , 1203
+USC00145692  ,  NESS CITY  , 38.4478 , -99.91 ,  Ness City  ,  KS  ,  United States , 1217
+USC00145856  ,  NORTON 9SSE  , 39.7411 , -99.8361 ,  Norton  ,  KS  ,  United States , 1134
+USC00145888  ,  OAKLEY 4W  , 39.1131 , -100.9447 ,  Oakley  ,  KS  ,  United States , 1145
+USC00146076  ,  OSAGE CITY  , 38.6361 , -95.8031 ,  Osage City  ,  KS  ,  United States , 402
+USC00146242  ,  PARSONS 2 NW  , 37.3678 , -95.2892 ,  Parsons  ,  KS  ,  United States , 1302
+USC00146435  ,  PLAINVILLE 4WNW  , 39.245 , -99.3808 ,  Plainville  ,  KS  ,  United States , 1125
+USC00146637  ,  QUINTER  , 39.0669 , -100.2389 ,  Quinter  ,  KS  ,  United States , 1273
+USC00147093  ,  SAINT FRANCIS  , 39.7675 , -101.8067 ,  Saint Francis  ,  KS  ,  United States , 1249
+USC00147271  ,  SCOTT CITY  , 38.4747 , -100.9175 ,  Scott City  ,  KS  ,  United States , 1373
+USC00147305  ,  SEDAN  , 37.1317 , -96.1861 ,  Sedan  ,  KS  ,  United States , 1288
+USC00147397  ,  SHARON SPRINGS  , 38.8961 , -101.7514 ,  Sharon Springs  ,  KS  ,  United States , 1244
+USC00147542  ,  SMITH CTR  , 39.7772 , -98.7783 ,  Smith Center  ,  KS  ,  United States , 1399
+USC00147922  ,  SUBLETTE 7WSW  , 37.4414 , -100.9792 ,  Satanta  ,  KS  ,  United States , 1230
+USC00148038  ,  SYRACUSE 1NE  , 37.9928 , -101.7417 ,  Syracuse  ,  KS  ,  United States , 1322
+USC00148191  ,  TORONTO LAKE  , 37.7417 , -95.9333 ,  Toronto  ,  KS  ,  United States , 921
+USC00148235  ,  TRIBUNE 1W  , 38.4661 , -101.7758 ,  Tribune  ,  KS  ,  United States , 1380
+USC00148250  ,  TROY 3N  , 39.8283 , -95.0881 ,  Troy  ,  KS  ,  United States , 1160
+USC00148259  ,  TUTTLE CREEK LAKE  , 39.2475 , -96.5994 ,  Manhattan  ,  KS  ,  United States , 1175
+USC00148287  ,  ULYSSES 3NE  , 37.5983 , -101.2908 ,  Ulysses  ,  KS  ,  United States , 1059
+USC00148495  ,  WAKEENEY  , 39.0147 , -99.8722 ,  WaKeeney  ,  KS  ,  United States , 1310
+USC00148563  ,  WAMEGO 4 W  , 39.2142 , -96.3703 ,  Wamego  ,  KS  ,  United States , 1249
+USC00148648  ,  WEBSTER DAM  , 39.4031 , -99.4192 ,  Stockton  ,  KS  ,  United States , 1057
+USC00148964  ,  WINFIELD 3NE  , 37.2889 , -96.9408 ,  Winfield  ,  KS  ,  United States , 1299
+USC00149080  ,  YATES CTR  , 37.8786 , -95.7292 ,  Yates Center  ,  KS  ,  United States , 1180
+USW00003919  ,  SALINA MUNI AP  , 38.8 , -97.65 ,  Salina  ,  KS  ,  United States , 1318
+USW00013920  ,  TOPEKA FORBES FLD  , 38.9503 , -95.6639 ,    ,  KS  ,  United States , 579
+USW00013980  ,  ANTHONY  , 37.155 , -98.0283 ,  Anthony  ,  KS  ,  United States , 1240
+USW00013981  ,  CHANUTE MARTIN JOHNSON AP  , 37.6703 , -95.4842 ,  Chanute  ,  KS  ,  United States , 1319
+USW00013984  ,  CONCORDIA MUNI AP  , 39.5514 , -97.6508 ,  Concordia  ,  KS  ,  United States , 1376
+USW00013985  ,  DODGE CITY  , 37.7608 , -99.9683 ,  Dodge City  ,  KS  ,  United States , 1378
+USW00013989  ,  EMPORIA MUNI AP  , 38.3306 , -96.1897 ,  Emporia  ,  KS  ,  United States , 870
+USW00013996  ,  TOPEKA MUNI AP  , 39.0725 , -95.6261 ,  Topeka  ,  KS  ,  United States , 1331
+USW00023064  ,  GARDEN CITY RGNL AP  , 37.9272 , -100.7247 ,  Garden City  ,  KS  ,  United States , 1337
+USW00023065  ,  GOODLAND  , 39.3669 , -101.7 ,  Goodland  ,  KS  ,  United States , 1306
+USW00093909  ,  OLATHE JOHNSON CO AP  , 38.8317 , -94.8897 ,    ,  KS  ,  United States , 570
+USW00093990  ,  HILL CITY MUNI AP  , 39.3756 , -99.8297 ,  Hill City  ,  KS  ,  United States , 964
+USW00093997  ,  RUSSELL MUNI AP  , 38.8761 , -98.8092 ,  Russell  ,  KS  ,  United States , 1310

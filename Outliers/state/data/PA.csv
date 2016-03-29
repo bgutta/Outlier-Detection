@@ -1,0 +1,50 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00360868  ,  BRADFORD 4SW RES 5  , 41.8975 , -78.7144 ,  Bradford  ,  PA  ,  United States , 1363
+USC00361354  ,  CHAMBERSBURG 1 ESE  , 39.9353 , -77.6394 ,  Chambersburg  ,  PA  ,  United States , 1221
+USC00361485  ,  CLARION 3 SW  , 41.1922 , -79.4361 ,  Clarion  ,  PA  ,  United States , 1206
+USC00361705  ,  CONFLUENCE 1 SW DAM  , 39.7994 , -79.3664 ,  Confluence  ,  PA  ,  United States , 1306
+USC00362183  ,  DONEGAL 2 NW  , 40.1275 , -79.4058 ,  Acme  ,  PA  ,  United States , 846
+USC00362190  ,  DONORA 1 SW  , 40.1636 , -79.8694 ,  Monongahela  ,  PA  ,  United States , 1250
+USC00362942  ,  FORD CITY 4 S DAM  , 40.7131 , -79.5144 ,  Ford City  ,  PA  ,  United States , 1273
+USC00363632  ,  HAMBURG  , 40.5511 , -75.9914 ,  Hamburg  ,  PA  ,  United States , 832
+USC00363758  ,  HAWLEY 1 E  , 41.4764 , -75.1653 ,  Hawley  ,  PA  ,  United States , 1282
+USC00364214  ,  INDIANA 3 SE  , 40.5972 , -79.1186 ,  Indiana  ,  PA  ,  United States , 1329
+USC00364325  ,  JAMESTOWN 2 NW  , 41.4992 , -80.4681 ,  Jamestown  ,  PA  ,  United States , 1210
+USC00364432  ,  KANE 1NNE  , 41.6767 , -78.8036 ,  Kane  ,  PA  ,  United States , 1368
+USC00364763  ,  LANCASTER 2NE FLTR PLT  , 40.05 , -76.2742 ,  Lancaster  ,  PA  ,  United States , 991
+USC00364778  ,  LANDISVILLE 2 NW  , 40.1167 , -76.4333 ,  Manheim  ,  PA  ,  United States , 1365
+USC00364992  ,  LEWISTOWN  , 40.5864 , -77.5692 ,  Lewistown  ,  PA  ,  United States , 1300
+USC00365050  ,  LINESVILLE 1 S  , 41.6458 , -80.425 ,  Linesville  ,  PA  ,  United States , 828
+USC00365390  ,  MARCUS HOOK  , 39.8253 , -75.4283 ,  Linwood  ,  PA  ,  United States , 1168
+USC00366194  ,  NESHAMINY FALLS  , 40.1358 , -74.955 ,  Bensalem  ,  PA  ,  United States , 888
+USC00366233  ,  NEW CASTLE 1 N  , 41.0172 , -80.3614 ,  New Castle  ,  PA  ,  United States , 1321
+USC00366370  ,  NORRISTOWN  , 40.1197 , -75.3583 ,  Norristown  ,  PA  ,  United States , 862
+USC00366927  ,  PHOENIXVILLE 1 E  , 40.12 , -75.5011 ,  Phoenixville  ,  PA  ,  United States , 1079
+USC00367029  ,  PLEASANT MT 1 W  , 41.7394 , -75.4464 ,  Pleasant Mount  ,  PA  ,  United States , 1198
+USC00367229  ,  PUTNEYVILLE 2 SE DAM  , 40.9247 , -79.2803 ,  New Bethlehem  ,  PA  ,  United States , 1137
+USC00367477  ,  RIDGWAY  , 41.4197 , -78.7492 ,  Ridgway  ,  PA  ,  United States , 1330
+USC00367782  ,  SALINA 3 W  , 40.51 , -79.5458 ,  Saltsburg  ,  PA  ,  United States , 1289
+USC00367931  ,  SELINSGROVE 2 S  , 40.7831 , -76.8617 ,  Port Trevorton  ,  PA  ,  United States , 986
+USC00368073  ,  SHIPPENSBURG  , 40.0589 , -77.5214 ,  Shippensburg  ,  PA  ,  United States , 1260
+USC00368184  ,  SLIPPERY ROCK 1 SSW  , 41.0558 , -80.06 ,  Slippery Rock  ,  PA  ,  United States , 1269
+USC00368449  ,  STATE COLLEGE  , 40.7933 , -77.8672 ,  State College  ,  PA  ,  United States , 1145
+USC00368596  ,  STROUDSBURG  , 41.0125 , -75.1906 ,  East Stroudsburg  ,  PA  ,  United States , 1296
+USC00368873  ,  TIONESTA 2 SE LAKE  , 41.4792 , -79.4433 ,  Tionesta  ,  PA  ,  United States , 1229
+USC00368888  ,  TITUSVILLE WTR WKS  , 41.63 , -79.6931 ,  Titusville  ,  PA  ,  United States , 1338
+USC00368905  ,  TOWANDA 1 S  , 41.7511 , -76.4431 ,  Towanda  ,  PA  ,  United States , 1290
+USC00369050  ,  UNIONTOWN 1 NE  , 39.915 , -79.7192 ,  Uniontown  ,  PA  ,  United States , 1358
+USC00369298  ,  WARREN  , 41.8467 , -79.1494 ,  Warren  ,  PA  ,  United States , 1222
+USC00369367  ,  WAYNESBURG 1 E  , 39.8986 , -80.1656 ,  Waynesburg  ,  PA  ,  United States , 1370
+USC00369408  ,  WELLSBORO 4 SW  , 41.7003 , -77.3894 ,  Wellsboro  ,  PA  ,  United States , 1086
+USC00369464  ,  WEST CHESTER 2 NW  , 39.9708 , -75.635 ,  West Chester  ,  PA  ,  United States , 961
+USC00369933  ,  YORK 3 SSW PUMP STN  , 39.9167 , -76.75 ,    ,  PA  ,  United States , 1307
+USW00004751  ,  BRADFORD RGNL AP  , 41.8031 , -78.6403 ,  Lewis Run  ,  PA  ,  United States , 1275
+USW00013739  ,  PHILADELPHIA INTL AP  , 39.8683 , -75.2311 ,  Philadelphia  ,  PA  ,  United States , 1319
+USW00014711  ,  MIDDLETOWN HARRISBURG INTL AP  , 40.1936 , -76.7633 ,  Middletown  ,  PA  ,  United States , 631
+USW00014736  ,  ALTOONA BLAIR CO AP  , 40.2964 , -78.3203 ,  Martinsburg  ,  PA  ,  United States , 1253
+USW00014737  ,  ALLENTOWN INTL AP  , 40.6508 , -75.4492 ,  Catasauqua  ,  PA  ,  United States , 1316
+USW00014751  ,  HARRISBURG CPTL CY AP  , 40.2172 , -76.8514 ,  New Cumberland  ,  PA  ,  United States , 1023
+USW00014777  ,  WILKES-BARRE INTL AP  , 41.3336 , -75.7269 ,  Pittston  ,  PA  ,  United States , 1302
+USW00014778  ,  WILLIAMSPORT  , 41.2433 , -76.9217 ,  Montoursville  ,  PA  ,  United States , 1368
+USW00014860  ,  ERIE INTL AP  , 42.08 , -80.1825 ,  Erie  ,  PA  ,  United States , 1220
+USW00094823  ,  PITTSBURGH INTL AP  , 40.4847 , -80.2144 ,  Moon  ,  PA  ,  United States , 1343

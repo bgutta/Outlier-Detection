@@ -1,0 +1,75 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00050109  ,  AKRON 4 E  , 40.155 , -103.1417 ,  Akron  ,  CO  ,  United States , 1032
+USC00050214  ,  ALTENBERN  , 39.5008 , -108.3794 ,  De Beque  ,  CO  ,  United States , 1420
+USC00050454  ,  BAILEY  , 39.4047 , -105.4767 ,  Bailey  ,  CO  ,  United States , 1357
+USC00050834  ,  BONNY DAM 2NE  , 39.6567 , -102.1192 ,  Idalia  ,  CO  ,  United States , 1063
+USC00051071  ,  BUENA VISTA 2S  , 38.8247 , -106.1275 ,  Buena Vista  ,  CO  ,  United States , 1191
+USC00051179  ,  BYERS 5 ENE  , 39.7403 , -104.1275 ,  Byers  ,  CO  ,  United States , 1231
+USC00051294  ,  CANON CITY  , 38.46 , -105.2256 ,  Caon City  ,  CO  ,  United States , 1144
+USC00051458  ,  CENTER 4 SSW  , 37.7067 , -106.1444 ,  Center  ,  CO  ,  United States , 1314
+USC00051528  ,  CHEESMAN  , 39.2203 , -105.2783 ,  Sedalia  ,  CO  ,  United States , 1360
+USC00051564  ,  CHEYENNE WELLS  , 38.8219 , -102.3508 ,  Cheyenne Wells  ,  CO  ,  United States , 1311
+USC00051713  ,  COCHETOPA CREEK  , 38.4461 , -106.7611 ,  Gunnison  ,  CO  ,  United States , 1294
+USC00051772  ,  COLORADO NM  , 39.1014 , -108.7339 ,  Grand Junction  ,  CO  ,  United States , 973
+USC00051886  ,  CORTEZ  , 37.3444 , -108.5931 ,  Cortez  ,  CO  ,  United States , 1251
+USC00051959  ,  CRESTED BUTTE  , 38.8739 , -106.9769 ,  Crested Butte  ,  CO  ,  United States , 1409
+USC00052184  ,  DEL NORTE 3ENE  , 37.6908 , -106.3083 ,  Del Norte  ,  CO  ,  United States , 1334
+USC00052281  ,  DILLON 1 E  , 39.6261 , -106.0353 ,  Dillon  ,  CO  ,  United States , 1501
+USC00052446  ,  EADS  , 38.4758 , -102.7769 ,  Eads  ,  CO  ,  United States , 1175
+USC00052932  ,  FLAGLER 1S  , 39.2814 , -103.0614 ,  Flagler  ,  CO  ,  United States , 969
+USC00053005  ,  FT COLLINS  , 40.6147 , -105.1314 ,  Fort Collins  ,  CO  ,  United States , 1318
+USC00053016  ,  FT LEWIS  , 37.2308 , -108.0514 ,  Hesperus  ,  CO  ,  United States , 890
+USC00053038  ,  FT MORGAN  , 40.26 , -103.8156 ,  Fort Morgan  ,  CO  ,  United States , 1139
+USC00053246  ,  GATEWAY  , 38.6825 , -108.9722 ,  Gateway  ,  CO  ,  United States , 951
+USC00053359  ,  GLENWOOD SPGS #2  , 39.5181 , -107.3172 ,  Glenwood Springs  ,  CO  ,  United States , 1139
+USC00053496  ,  GRAND LAKE 1 NW  , 40.2669 , -105.8322 ,  Grand Lake  ,  CO  ,  United States , 1449
+USC00053500  ,  GRAND LAKE 6 SSW  , 40.185 , -105.8667 ,  Grand Lake  ,  CO  ,  United States , 1444
+USC00053541  ,  GREAT SAND DUNES NM  , 37.7333 , -105.5119 ,    ,  CO  ,  United States , 1172
+USC00053662  ,  GUNNISON 3SW  , 38.5253 , -106.9672 ,  Gunnison  ,  CO  ,  United States , 1262
+USC00053867  ,  HAYDEN  , 40.4928 , -107.2547 ,  Hayden  ,  CO  ,  United States , 1373
+USC00053951  ,  HERMIT 7 ESE  , 37.7717 , -107.1097 ,  Creede  ,  CO  ,  United States , 1392
+USC00054076  ,  HOLLY  , 38.0517 , -102.1317 ,  Holly  ,  CO  ,  United States , 1237
+USC00054388  ,  JOHN MARTIN DAM  , 38.0633 , -102.9297 ,    ,  CO  ,  United States , 887
+USC00054413  ,  JULESBURG  , 40.9867 , -102.2706 ,  Julesburg  ,  CO  ,  United States , 1020
+USC00054452  ,  KASSLER  , 39.49 , -105.0953 ,  Littleton  ,  CO  ,  United States , 1150
+USC00054603  ,  KIT CARSON  , 38.7658 , -102.8031 ,  Kit Carson  ,  CO  ,  United States , 1105
+USC00054770  ,  LAMAR  , 38.0936 , -102.6306 ,  Lamar  ,  CO  ,  United States , 1322
+USC00054834  ,  LAS ANIMAS  , 38.0636 , -103.2153 ,  Las Animas  ,  CO  ,  United States , 1354
+USC00054945  ,  LEROY 9 WSW  , 40.4897 , -103.0822 ,  Sterling  ,  CO  ,  United States , 1078
+USC00055322  ,  MANASSA  , 37.1742 , -105.9392 ,  Manassa  ,  CO  ,  United States , 784
+USC00055446  ,  MAYBELL  , 40.5158 , -108.0947 ,    ,  CO  ,  United States , 999
+USC00055484  ,  MEEKER  , 40.0358 , -107.9058 ,  Meeker  ,  CO  ,  United States , 710
+USC00055531  ,  MESA VERDE NP  , 37.1986 , -108.4883 ,  Mesa Verde National Park  ,  CO  ,  United States , 1216
+USC00055706  ,  MONTE VISTA 2W  , 37.5811 , -106.1872 ,  Monte Vista  ,  CO  ,  United States , 1003
+USC00055722  ,  MONTROSE #2  , 38.4858 , -107.8792 ,  Montrose  ,  CO  ,  United States , 1282
+USC00056266  ,  PALISADE  , 39.1136 , -108.3506 ,  Palisade  ,  CO  ,  United States , 1141
+USC00056306  ,  PAONIA 1 SW  , 38.8522 , -107.6236 ,  Paonia  ,  CO  ,  United States , 1246
+USC00056832  ,  RANGELY 1 E  , 40.0894 , -108.7717 ,  Rangely  ,  CO  ,  United States , 1133
+USC00057167  ,  ROCKY FORD 2 SE  , 38.0392 , -103.6933 ,  Rocky Ford  ,  CO  ,  United States , 1422
+USC00057287  ,  RUSH 1N  , 38.8611 , -104.0939 ,  Rush  ,  CO  ,  United States , 1153
+USC00057309  ,  RUXTON PARK  , 38.8417 , -104.9742 ,    ,  CO  ,  United States , 1318
+USC00057515  ,  SEDGWICK 5 S  , 40.8592 , -102.5167 ,  Sedgwick  ,  CO  ,  United States , 1306
+USC00057936  ,  STEAMBOAT SPRINGS  , 40.4883 , -106.8233 ,  Steamboat Springs  ,  CO  ,  United States , 1342
+USC00058064  ,  SUGARLOAF RSVR  , 39.2494 , -106.3714 ,  Leadville  ,  CO  ,  United States , 1203
+USC00058157  ,  TACONY 13 SE  , 38.3422 , -104.0567 ,  Olney Springs  ,  CO  ,  United States , 1176
+USC00058184  ,  TAYLOR PARK  , 38.8183 , -106.6086 ,    ,  CO  ,  United States , 1472
+USC00058429  ,  TRINIDAD  , 37.1786 , -104.4869 ,  Trinidad  ,  CO  ,  United States , 1372
+USC00058582  ,  VALLECITO DAM  , 37.3842 , -107.5822 ,  Bayfield  ,  CO  ,  United States , 1377
+USC00058756  ,  WALDEN  , 40.7442 , -106.2792 ,  Walden  ,  CO  ,  United States , 1517
+USC00058781  ,  WALSENBURG 1 NW  , 37.6303 , -104.7956 ,  Walsenburg  ,  CO  ,  United States , 1253
+USC00058839  ,  WATERDALE  , 40.4256 , -105.2103 ,  Loveland  ,  CO  ,  United States , 1065
+USC00058931  ,  WESTCLIFFE  , 38.1311 , -105.4661 ,  Westcliffe  ,  CO  ,  United States , 1122
+USC00059243  ,  WRAY  , 40.0714 , -102.2325 ,  Wray  ,  CO  ,  United States , 1156
+USC00059265  ,  YAMPA  , 40.1561 , -106.9092 ,  Yampa  ,  CO  ,  United States , 1244
+USC00059295  ,  YUMA  , 40.1236 , -102.7217 ,  Yuma  ,  CO  ,  United States , 1031
+USW00023061  ,  ALAMOSA SAN LUIS AP  , 37.4389 , -105.8614 ,  Alamosa  ,  CO  ,  United States , 1444
+USW00023062  ,  DENVER-STAPLETON  , 39.7633 , -104.8694 ,  Denver  ,  CO  ,  United States , 1251
+USW00023063  ,  EAGLE FAA AP  , 39.65 , -106.9167 ,  Gypsum  ,  CO  ,  United States , 942
+USW00023066  ,  GRAND JUNCTION WALKER FLD  , 39.1342 , -108.54 ,  Grand Junction  ,  CO  ,  United States , 1360
+USW00023067  ,  LA JUNTA MUNI AP  , 38.0494 , -103.5122 ,  La Junta  ,  CO  ,  United States , 1204
+USW00023070  ,  TRINIDAD PERRY STOKES AP  , 37.2622 , -104.3378 ,  Trinidad  ,  CO  ,  United States , 1339
+USW00024015  ,  AKRON WASHINGTON CO AP  , 40.1667 , -103.2167 ,  Akron  ,  CO  ,  United States , 1204
+USW00093009  ,  LEADVILLE LAKE CO AP  , 39.2292 , -106.3169 ,  Leadville  ,  CO  ,  United States , 1246
+USW00093010  ,  LIMON WSMO  , 39.1894 , -103.7158 ,  Limon  ,  CO  ,  United States , 1209
+USW00093037  ,  COLORADO SPRINGS MUNI AP  , 38.81 , -104.6883 ,  Colorado Springs  ,  CO  ,  United States , 1249
+USW00093058  ,  PUEBLO MEM AP  , 38.29 , -104.4983 ,  Pueblo  ,  CO  ,  United States , 1419

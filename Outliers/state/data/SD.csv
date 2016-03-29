@@ -1,0 +1,68 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00390043  ,  ACADEMY 2NE  , 43.4892 , -99.0631 ,  Platte  ,  SD  ,  United States , 1281
+USC00390128  ,  ALEXANDRIA  , 43.6514 , -97.7847 ,  Alexandria  ,  SD  ,  United States , 1234
+USC00390236  ,  ARDMORE 1 NW  , 43.03 , -103.66 ,  Edgemont  ,  SD  ,  United States , 1165
+USC00390559  ,  BELLE FOURCHE  , 44.6714 , -103.8511 ,  Belle Fourche  ,  SD  ,  United States , 1184
+USC00390701  ,  BISON  , 45.5286 , -102.465 ,  Bison  ,  SD  ,  United States , 1071
+USC00391032  ,  BRIDGEWATER  , 43.5525 , -97.5017 ,  Bridgewater  ,  SD  ,  United States , 1089
+USC00391049  ,  BRITTON  , 45.7908 , -97.75 ,  Britton  ,  SD  ,  United States , 1212
+USC00391076  ,  BROOKINGS 2 NE  , 44.3253 , -96.7686 ,  Brookings  ,  SD  ,  United States , 1248
+USC00391294  ,  CAMP CROOK  , 45.5489 , -103.9744 ,  Camp Crook  ,  SD  ,  United States , 1224
+USC00391392  ,  CANTON  , 43.3056 , -96.5917 ,  Canton  ,  SD  ,  United States , 1187
+USC00391579  ,  CENTERVILLE 6 SE  , 43.0431 , -96.9033 ,  Beresford  ,  SD  ,  United States , 1302
+USC00391873  ,  COLUMBIA 8 N  , 45.725 , -98.3 ,  Columbia  ,  SD  ,  United States , 1199
+USC00391972  ,  COTTONWOOD 2 E  , 43.9611 , -101.8606 ,  Quinn  ,  SD  ,  United States , 1152
+USC00392302  ,  DE SMET  , 44.3867 , -97.5606 ,  De Smet  ,  SD  ,  United States , 1138
+USC00392429  ,  DUPREE  , 45.0469 , -101.605 ,  Dupree  ,  SD  ,  United States , 1250
+USC00392927  ,  FAULKTON 1 NW  , 45.0364 , -99.1342 ,  Faulkton  ,  SD  ,  United States , 1101
+USC00392984  ,  FLANDREAU  , 44.0517 , -96.5928 ,  Flandreau  ,  SD  ,  United States , 1274
+USC00393029  ,  FORESTBURG 4 NNE  , 44.0686 , -98.0833 ,  Artesian  ,  SD  ,  United States , 1257
+USC00393069  ,  FT MEADE  , 44.41 , -103.4775 ,    ,  SD  ,  United States , 1260
+USC00393294  ,  GETTYSBURG  , 45.0194 , -99.9403 ,  Gettysburg  ,  SD  ,  United States , 1168
+USC00393316  ,  GLAD VALLEY 2 W  , 45.4178 , -101.81 ,  Meadow  ,  SD  ,  United States , 771
+USC00393452  ,  GREGORY  , 43.2356 , -99.4339 ,  Gregory  ,  SD  ,  United States , 1267
+USC00393832  ,  HIGHMORE 1 W  , 44.5222 , -99.455 ,  Highmore  ,  SD  ,  United States , 1185
+USC00394037  ,  HOWARD  , 44.0122 , -97.5242 ,  Howard  ,  SD  ,  United States , 1340
+USC00394184  ,  INTERIOR 3 NE  , 43.7483 , -101.9414 ,  Interior  ,  SD  ,  United States , 1049
+USC00394206  ,  IPSWICH  , 45.4478 , -99.0383 ,  Ipswich  ,  SD  ,  United States , 1278
+USC00394516  ,  KENNEBEC  , 43.9072 , -99.8628 ,  Kennebec  ,  SD  ,  United States , 1256
+USC00394834  ,  LEAD  , 44.3533 , -103.7714 ,  Lead  ,  SD  ,  United States , 1161
+USC00394864  ,  LEMMON  , 45.9397 , -102.1575 ,  Lemmon  ,  SD  ,  United States , 1223
+USC00395048  ,  LUDLOW 3 SSE  , 45.785 , -103.3719 ,  Ludlow  ,  SD  ,  United States , 1119
+USC00395281  ,  MARTIN  , 43.1803 , -101.7386 ,  Martin  ,  SD  ,  United States , 915
+USC00395381  ,  MC INTOSH 6 SE  , 45.8383 , -101.2767 ,  Mc Intosh  ,  SD  ,  United States , 1197
+USC00395456  ,  MELLETTE 4 W  , 45.155 , -98.5825 ,  Northville  ,  SD  ,  United States , 1179
+USC00395481  ,  MENNO  , 43.2358 , -97.5714 ,  Menno  ,  SD  ,  United States , 1276
+USC00395544  ,  MILESVILLE 5 NE  , 44.5208 , -101.6192 ,  Milesville  ,  SD  ,  United States , 1275
+USC00395561  ,  MILLER  , 44.5178 , -98.9814 ,  Miller  ,  SD  ,  United States , 1233
+USC00395638  ,  MISSION 14 S  , 43.1114 , -100.6083 ,  Valentine  ,  SD  ,  United States , 1134
+USC00395691  ,  MOBRIDGE 2NNW  , 45.5656 , -100.4489 ,  Mobridge  ,  SD  ,  United States , 1077
+USC00395891  ,  MURDO  , 43.8894 , -100.7078 ,  Murdo  ,  SD  ,  United States , 1265
+USC00396054  ,  NEWELL  , 44.7158 , -103.4275 ,  Newell  ,  SD  ,  United States , 1150
+USC00396212  ,  OELRICHS  , 43.1878 , -103.2372 ,  Oelrichs  ,  SD  ,  United States , 1335
+USC00396292  ,  ONIDA 4 NW  , 44.7317 , -100.1447 ,  Onida  ,  SD  ,  United States , 1100
+USC00396427  ,  PACTOLA DAM  , 44.0622 , -103.4819 ,  Rapid City  ,  SD  ,  United States , 1087
+USC00396574  ,  PICKSTOWN  , 43.0689 , -98.5325 ,  Lake Andes  ,  SD  ,  United States , 1304
+USC00396712  ,  POLLOCK  , 45.9042 , -100.2875 ,  Pollock  ,  SD  ,  United States , 1305
+USC00396947  ,  RAPID CITY 4NW  , 44.115 , -103.2828 ,  Rapid City  ,  SD  ,  United States , 1002
+USC00397545  ,  SELBY  , 45.51 , -100.0356 ,  Selby  ,  SD  ,  United States , 1194
+USC00397742  ,  SISSETON  , 45.6656 , -97.0392 ,  Sisseton  ,  SD  ,  United States , 1162
+USC00397882  ,  SPEARFISH  , 44.5139 , -103.8722 ,  Spearfish  ,  SD  ,  United States , 1082
+USC00398116  ,  SUMMIT 1 W  , 45.3036 , -97.0625 ,  Summit  ,  SD  ,  United States , 1198
+USC00398307  ,  TIMBER LAKE  , 45.4283 , -101.0764 ,  Timber Lake  ,  SD  ,  United States , 1308
+USC00398472  ,  TYNDALL  , 42.9919 , -97.8703 ,  Tyndall  ,  SD  ,  United States , 1255
+USC00398622  ,  VERMILLION 2 SE  , 42.7625 , -96.9194 ,  Vermillion  ,  SD  ,  United States , 1011
+USC00398911  ,  WASTA  , 44.0697 , -102.4478 ,  Wasta  ,  SD  ,  United States , 1134
+USC00398980  ,  WAUBAY NWR  , 45.4247 , -97.3269 ,  Waubay  ,  SD  ,  United States , 1069
+USC00399004  ,  WEBSTER  , 45.3331 , -97.5228 ,  Webster  ,  SD  ,  United States , 1156
+USC00399232  ,  WHITE LAKE  , 43.7292 , -98.7131 ,  White Lake  ,  SD  ,  United States , 1259
+USC00399367  ,  WINNER  , 43.3686 , -99.8403 ,  Winner  ,  SD  ,  United States , 1268
+USC00399442  ,  WOOD  , 43.4978 , -100.4794 ,  Wood  ,  SD  ,  United States , 1158
+USW00014929  ,  ABERDEEN  , 45.4558 , -98.4131 ,  Aberdeen  ,  SD  ,  United States , 1338
+USW00014936  ,  HURON RGNL AP  , 44.3981 , -98.2231 ,  Huron  ,  SD  ,  United States , 1298
+USW00014944  ,  SIOUX FALLS  , 43.5878 , -96.7289 ,  Sioux Falls  ,  SD  ,  United States , 1303
+USW00014946  ,  WATERTOWN RGNL AP  , 44.9047 , -97.1494 ,  Watertown  ,  SD  ,  United States , 1266
+USW00024024  ,  PHILIP AP  , 44.0511 , -101.6011 ,  Philip  ,  SD  ,  United States , 1018
+USW00024025  ,  PIERRE RGNL AP  , 44.3814 , -100.2856 ,  Pierre  ,  SD  ,  United States , 1289
+USW00024090  ,  RAPID CITY RGNL AP  , 44.0433 , -103.0536 ,  Rapid City  ,  SD  ,  United States , 1281
+USW00094911  ,  YANKTON 2 E  , 42.8783 , -97.3633 ,  Yankton  ,  SD  ,  United States , 1313

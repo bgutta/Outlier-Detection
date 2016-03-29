@@ -1,0 +1,10 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00272999  ,  FIRST CONNECTICUT LAKE  , 45.09 , -71.2906 ,  Pittsburg  ,  NH  ,  United States , 1205
+USC00274399  ,  KEENE  , 42.9389 , -72.3247 ,  Keene  ,  NH  ,  United States , 1340
+USC00275211  ,  MASSABESIC LAKE  , 42.9892 , -71.3933 ,  Manchester  ,  NH  ,  United States , 1166
+USC00275629  ,  MT SUNAPEE  , 43.3325 , -72.0792 ,  Newbury  ,  NH  ,  United States , 1087
+USC00275712  ,  NASHUA 2 NNW  , 42.7914 , -71.4736 ,  Nashua  ,  NH  ,  United States , 1180
+USC00276818  ,  PINKHAM NOTCH  , 44.2581 , -71.2525 ,  Jackson  ,  NH  ,  United States , 1101
+USC00278539  ,  SURRY MTN LAKE  , 42.9967 , -72.3128 ,  Surry  ,  NH  ,  United States , 822
+USW00014745  ,  CONCORD MUNI AP  , 43.1953 , -71.5011 ,  Concord  ,  NH  ,  United States , 1406
+USW00014755  ,  MT WASHINGTON  , 44.2667 , -71.2994 ,  Jackson  ,  NH  ,  United States , 1189

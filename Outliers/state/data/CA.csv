@@ -1,0 +1,166 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00040161  ,  ALTURAS  , 41.4931 , -120.5528 ,  Alturas  ,  CA  ,  United States , 1035
+USC00040212  ,  ANGWIN PAC UNION COL  , 38.5731 , -122.4406 ,  Angwin  ,  CA  ,  United States , 1136
+USC00040232  ,  ANTIOCH PUMPING PLANT #3  , 37.9833 , -121.7525 ,  Antioch  ,  CA  ,  United States , 1062
+USC00040343  ,  ASH MTN  , 36.4914 , -118.8253 ,  Three Rivers  ,  CA  ,  United States , 1070
+USC00040379  ,  AUBERRY 2 NW  , 37.0919 , -119.5128 ,  Auberry  ,  CA  ,  United States , 1193
+USC00040693  ,  BERKELEY  , 37.8744 , -122.2606 ,  Berkeley  ,  CA  ,  United States , 1031
+USC00040738  ,  BIG BAR 4 E  , 40.7406 , -123.2078 ,  Big Bar  ,  CA  ,  United States , 900
+USC00040924  ,  BLYTHE  , 33.6131 , -114.5972 ,  Blythe  ,  CA  ,  United States , 987
+USC00040931  ,  BOCA  , 39.3886 , -120.0936 ,  Truckee  ,  CA  ,  United States , 1327
+USC00041194  ,  BURBANK VLY PUMP PLT  , 34.1867 , -118.3481 ,  Burbank  ,  CA  ,  United States , 1369
+USC00041214  ,  BURNEY  , 40.8803 , -121.6547 ,  Burney  ,  CA  ,  United States , 1147
+USC00041244  ,  BUTTONWILLOW  , 35.4047 , -119.4731 ,  Buttonwillow  ,  CA  ,  United States , 1334
+USC00041253  ,  CACHUMA LAKE  , 34.5822 , -119.9817 ,  Santa Ynez  ,  CA  ,  United States , 1290
+USC00041316  ,  CALLAHAN  , 41.3111 , -122.8045 ,  Callahan  ,  CA  ,  United States , 1332
+USC00041534  ,  CARMEL VALLEY  , 36.4806 , -121.7244 ,  Carmel Valley  ,  CA  ,  United States , 692
+USC00041614  ,  CEDARVILLE  , 41.5306 , -120.1803 ,  Cedarville  ,  CA  ,  United States , 1233
+USC00041715  ,  CHICO UNIV FARM  , 39.6911 , -121.8211 ,  Chico  ,  CA  ,  United States , 737
+USC00041758  ,  CHULA VISTA  , 32.64 , -117.0858 ,  Chula Vista  ,  CA  ,  United States , 1008
+USC00041806  ,  CLEARLAKE 4 SE  , 38.9239 , -122.5672 ,  Lower Lake  ,  CA  ,  United States , 1243
+USC00041864  ,  COALINGA  , 36.1356 , -120.3606 ,  Coalinga  ,  CA  ,  United States , 1129
+USC00041948  ,  COLUSA 2 SSW  , 39.1875 , -122.0269 ,  Colusa  ,  CA  ,  United States , 1247
+USC00042012  ,  CORCORAN IRRIG DIST  , 36.0975 , -119.5817 ,  Corcoran  ,  CA  ,  United States , 1374
+USC00042081  ,  COVELO  , 39.8158 , -123.2444 ,  Covelo  ,  CA  ,  United States , 1215
+USC00042147  ,  CRESCENT CITY 3 NNW  , 41.7958 , -124.2147 ,  Crescent City  ,  CA  ,  United States , 1129
+USC00042214  ,  CULVER CITY  , 34.005 , -118.4139 ,  Culver City  ,  CA  ,  United States , 690
+USC00042239  ,  CUYAMACA  , 32.9897 , -116.5872 ,  Julian  ,  CA  ,  United States , 1267
+USC00042294  ,  DAVIS 2 WSW EXP FARM  , 38.535 , -121.7761 ,  Davis  ,  CA  ,  United States , 1186
+USC00042402  ,  DE SABLA  , 39.8717 , -121.6108 ,  Magalia  ,  CA  ,  United States , 955
+USC00042467  ,  DONNER MEM SP  , 39.3239 , -120.2331 ,  Truckee  ,  CA  ,  United States , 1256
+USC00042506  ,  DOYLE 4 SSE  , 39.9717 , -120.0828 ,  Doyle  ,  CA  ,  United States , 1226
+USC00042598  ,  EAGLE MTN  , 33.8089 , -115.4508 ,  Desert Center  ,  CA  ,  United States , 1110
+USC00042709  ,  EL CAPITAN DAM  , 32.8839 , -116.8164 ,  Lakeside  ,  CA  ,  United States , 863
+USC00042713  ,  EL CENTRO 2 SSW  , 32.7669 , -115.5617 ,  El Centro  ,  CA  ,  United States , 1445
+USC00042805  ,  ELSINORE  , 33.6692 , -117.3319 ,  Lake Elsinore  ,  CA  ,  United States , 761
+USC00043083  ,  FIVE POINTS 5 SSW  , 36.3642 , -120.1561 ,  Coalinga  ,  CA  ,  United States , 824
+USC00043157  ,  FT BIDWELL  , 41.8714 , -120.1575 ,  Fort Bidwell  ,  CA  ,  United States , 1294
+USC00043161  ,  FT BRAGG 5 N  , 39.5092 , -123.7567 ,  Fort Bragg  ,  CA  ,  United States , 1041
+USC00043261  ,  FRIANT GOVERNMENT CAMP  , 36.9969 , -119.7072 ,  Friant  ,  CA  ,  United States , 1261
+USC00043463  ,  GLENNVILLE  , 35.7269 , -118.7006 ,  Woody  ,  CA  ,  United States , 1245
+USC00043551  ,  GRANT GROVE  , 36.7394 , -118.9631 ,  Hume  ,  CA  ,  United States , 1026
+USC00043578  ,  GRATON  , 38.4306 , -122.8647 ,  Sebastopol  ,  CA  ,  United States , 1405
+USC00043710  ,  HAIWEE  , 36.1389 , -117.9528 ,  Olancha  ,  CA  ,  United States , 1323
+USC00043714  ,  HALF MOON BAY  , 37.4725 , -122.4433 ,  Half Moon Bay  ,  CA  ,  United States , 1228
+USC00043747  ,  HANFORD 1 S  , 36.3158 , -119.6369 ,  Hanford  ,  CA  ,  United States , 1317
+USC00043761  ,  HAPPY CAMP RS  , 41.8042 , -123.3758 ,  Happy Camp  ,  CA  ,  United States , 505
+USC00043824  ,  HAT CREEK  , 40.9317 , -121.5433 ,  Cassel  ,  CA  ,  United States , 1223
+USC00043855  ,  HAYFIELD PUMPING PLT  , 33.7044 , -115.6289 ,  Desert Center  ,  CA  ,  United States , 1339
+USC00043914  ,  HENSHAW DAM  , 33.2372 , -116.7614 ,  Santa Ysabel  ,  CA  ,  United States , 1480
+USC00044211  ,  IDYLLWILD FIRE DEPT  , 33.7572 , -116.7067 ,  Idyllwild-Pine Cove  ,  CA  ,  United States , 1009
+USC00044259  ,  INDIO FIRE STN  , 33.7086 , -116.2153 ,  Indio  ,  CA  ,  United States , 887
+USC00044297  ,  IRON MTN  , 34.1472 , -115.1219 ,  Twentynine Palms  ,  CA  ,  United States , 1139
+USC00044374  ,  JESS VALLEY  , 41.2683 , -120.2947 ,  Likely  ,  CA  ,  United States , 1199
+USC00044500  ,  KENTFIELD  , 37.9567 , -122.5447 ,  Kentfield  ,  CA  ,  United States , 1186
+USC00044555  ,  KING CITY  , 36.2069 , -121.1378 ,  King City  ,  CA  ,  United States , 1097
+USC00044838  ,  LAVA BEDS NM  , 41.7019 , -121.5011 ,    ,  CA  ,  United States , 913
+USC00044890  ,  LEMON COVE  , 36.3817 , -119.0264 ,  Lemon Cove  ,  CA  ,  United States , 1280
+USC00044997  ,  LIVERMORE  , 37.6922 , -121.7692 ,  Livermore  ,  CA  ,  United States , 1290
+USC00045064  ,  LOMPOC  , 34.6539 , -120.4514 ,  Lompoc  ,  CA  ,  United States , 1432
+USC00045118  ,  LOS BANOS  , 37.0564 , -120.8667 ,  Los Banos  ,  CA  ,  United States , 1255
+USC00045123  ,  LOS GATOS  , 37.2319 , -121.9592 ,  Los Gatos  ,  CA  ,  United States , 1218
+USC00045233  ,  MADERA  , 36.9539 , -120.0378 ,  Madera  ,  CA  ,  United States , 1024
+USC00045311  ,  MANZANITA LAKE  , 40.5411 , -121.5767 ,    ,  CA  ,  United States , 997
+USC00045449  ,  MC CLOUD  , 41.2514 , -122.1383 ,  McCloud  ,  CA  ,  United States , 1067
+USC00045502  ,  MECCA FIRE STN  , 33.5714 , -116.0767 ,  Mecca  ,  CA  ,  United States , 1081
+USC00045532  ,  MERCED  , 37.2858 , -120.5117 ,  Merced  ,  CA  ,  United States , 1142
+USC00045866  ,  MORRO BAY FIRE DEPT  , 35.3672 , -120.8456 ,  Morro Bay  ,  CA  ,  United States , 1247
+USC00045915  ,  MT DIABLO JUNCTION  , 37.8792 , -121.9303 ,  Walnut Creek  ,  CA  ,  United States , 1202
+USC00045933  ,  MT HAMILTON  , 37.3436 , -121.6425 ,  Mount Hamilton  ,  CA  ,  United States , 926
+USC00046006  ,  MT WILSON CBS  , 34.2308 , -118.0711 ,    ,  CA  ,  United States , 1115
+USC00046074  ,  NAPA STATE HOSPITAL  , 38.2778 , -122.2647 ,  Napa  ,  CA  ,  United States , 1336
+USC00046136  ,  NEVADA CITY  , 39.2467 , -121.0008 ,  Nevada City  ,  CA  ,  United States , 1321
+USC00046175  ,  NEWPORT BEACH HARBOR  , 33.6025 , -117.8803 ,  Newport Beach  ,  CA  ,  United States , 1297
+USC00046252  ,  NORTH FORK RS  , 37.2328 , -119.5097 ,  North Fork  ,  CA  ,  United States , 587
+USC00046377  ,  OCEANSIDE MARINA  , 33.2097 , -117.395 ,  Oceanside  ,  CA  ,  United States , 882
+USC00046399  ,  OJAI  , 34.4478 , -119.2275 ,  Ojai  ,  CA  ,  United States , 1079
+USC00046506  ,  ORLAND  , 39.7458 , -122.1997 ,  Orland  ,  CA  ,  United States , 1358
+USC00046508  ,  ORLEANS  , 41.3089 , -123.5317 ,  Somes Bar  ,  CA  ,  United States , 1100
+USC00046624  ,  PALMDALE  , 34.5883 , -118.0939 ,  Palmdale  ,  CA  ,  United States , 1316
+USC00046635  ,  PALM SPRINGS  , 33.8275 , -116.5097 ,  Palm Springs  ,  CA  ,  United States , 1047
+USC00046657  ,  PALOMAR MTN OBSVTRY  , 33.3781 , -116.84 ,  Warner Springs  ,  CA  ,  United States , 984
+USC00046699  ,  PARKER RSVR  , 34.2903 , -114.1708 ,  Parker Dam  ,  CA  ,  United States , 1228
+USC00046719  ,  PASADENA  , 34.1483 , -118.1447 ,  Pasadena  ,  CA  ,  United States , 1130
+USC00046730  ,  PASO ROBLES  , 35.6278 , -120.6856 ,  Paso Robles  ,  CA  ,  United States , 1303
+USC00046826  ,  PETALUMA AIRPORT  , 38.2578 , -122.6078 ,  Petaluma  ,  CA  ,  United States , 1288
+USC00046926  ,  PINNACLES NM  , 36.4819 , -121.1822 ,    ,  CA  ,  United States , 1074
+USC00046943  ,  PISMO BEACH  , 35.1597 , -120.6831 ,  Pismo Beach  ,  CA  ,  United States , 980
+USC00046962  ,  PLACERVILLE IFG  , 38.7333 , -120.7333 ,  Placerville  ,  CA  ,  United States , 590
+USC00047050  ,  POMONA/FAIRPLEX  , 34.0817 , -117.7658 ,  Pomona  ,  CA  ,  United States , 1054
+USC00047085  ,  PORTOLA  , 39.8053 , -120.4719 ,  Portola  ,  CA  ,  United States , 1007
+USC00047109  ,  POTTER VALLEY P H  , 39.3619 , -123.1286 ,  Potter Valley  ,  CA  ,  United States , 1021
+USC00047253  ,  RANDSBURG  , 35.3692 , -117.6525 ,  Randsburg  ,  CA  ,  United States , 1181
+USC00047306  ,  REDLANDS  , 34.0528 , -117.1894 ,  Redlands  ,  CA  ,  United States , 1228
+USC00047339  ,  REDWOOD CITY  , 37.4767 , -122.2386 ,  Redwood City  ,  CA  ,  United States , 1167
+USC00047470  ,  RIVERSIDE FIRE STN 3  , 33.9511 , -117.3881 ,  Riverside  ,  CA  ,  United States , 970
+USC00047643  ,  SAINT HELENA  , 38.5067 , -122.4714 ,  Saint Helena  ,  CA  ,  United States , 1132
+USC00047668  ,  SALINAS #2  , 36.6594 , -121.6664 ,  Salinas  ,  CA  ,  United States , 1342
+USC00047767  ,  SAN FRANCISCO OCEANSD  , 37.7281 , -122.5053 ,  San Francisco  ,  CA  ,  United States , 833
+USC00047785  ,  SAN GABRIEL FIRE DEPT  , 34.1061 , -118.1 ,  San Gabriel  ,  CA  ,  United States , 1026
+USC00047851  ,  SAN LUIS OBISPO POLY U  , 35.3056 , -120.6619 ,  San Luis Obispo  ,  CA  ,  United States , 1110
+USC00047888  ,  SANTA ANA FIRE STN  , 33.7442 , -117.8667 ,  Santa Ana  ,  CA  ,  United States , 1009
+USC00047902  ,  SANTA BARBARA  , 34.4167 , -119.6844 ,  Santa Barbara  ,  CA  ,  United States , 1209
+USC00047916  ,  SANTA CRUZ  , 36.9906 , -121.9911 ,  Santa Cruz  ,  CA  ,  United States , 1391
+USC00048045  ,  SCOTIA  , 40.4831 , -124.1036 ,  Scotia  ,  CA  ,  United States , 1288
+USC00048135  ,  SHASTA DAM  , 40.7142 , -122.4161 ,  Shasta Lake  ,  CA  ,  United States , 1212
+USC00048218  ,  SIERRAVILLE RS  , 39.5833 , -120.3706 ,  Sierraville  ,  CA  ,  United States , 393
+USC00048351  ,  SONOMA  , 38.2994 , -122.4622 ,  Sonoma  ,  CA  ,  United States , 1222
+USC00048380  ,  SO ENTR YOSEMITE NP  , 37.5072 , -119.6331 ,  Fish Camp  ,  CA  ,  United States , 1089
+USC00048560  ,  STOCKTON FIRE STA 4  , 37.9994 , -121.3178 ,  Stockton  ,  CA  ,  United States , 1018
+USC00048587  ,  STONY GORGE RSVR  , 39.5861 , -122.5342 ,  Elk Creek  ,  CA  ,  United States , 1306
+USC00048606  ,  STRAWBERRY VALLEY  , 39.5631 , -121.1078 ,  Strawberry Valley  ,  CA  ,  United States , 1317
+USC00048702  ,  SUSANVILLE 2SW  , 40.4167 , -120.6631 ,  Susanville  ,  CA  ,  United States , 960
+USC00048758  ,  TAHOE CITY  , 39.1678 , -120.1428 ,  Tahoe City  ,  CA  ,  United States , 1414
+USC00048839  ,  TEJON RANCHO  , 35.0233 , -118.7497 ,  Arvin  ,  CA  ,  United States , 1034
+USC00048999  ,  TRACY CARBONA  , 37.6819 , -121.3467 ,  Tracy  ,  CA  ,  United States , 779
+USC00049001  ,  TRACY PUMPING PLT  , 37.7967 , -121.5828 ,  Byron  ,  CA  ,  United States , 1003
+USC00049035  ,  TRONA  , 35.7636 , -117.3908 ,  Searles Valley  ,  CA  ,  United States , 1166
+USC00049099  ,  TWENTYNINE PALMS  , 34.1281 , -116.0369 ,  Twentynine Palms  ,  CA  ,  United States , 1322
+USC00049152  ,  U C L A  , 34.0697 , -118.4428 ,  Los Angeles  ,  CA  ,  United States , 1133
+USC00049325  ,  VICTORVILLE PUMP PT  , 34.535 , -117.3058 ,  Victorville  ,  CA  ,  United States , 1368
+USC00049367  ,  VISALIA  , 36.3283 , -119.2992 ,  Visalia  ,  CA  ,  United States , 1125
+USC00049378  ,  VISTA 2 NNE  , 33.2294 , -117.2269 ,  Vista  ,  CA  ,  United States , 1107
+USC00049473  ,  WATSONVILLE WTR WKS  , 36.9308 , -121.7692 ,  Watsonville  ,  CA  ,  United States , 1320
+USC00049490  ,  WEAVERVILLE  , 40.7222 , -122.9331 ,  Junction City  ,  CA  ,  United States , 943
+USC00049699  ,  WILLOWS 6 W  , 39.5231 , -122.3058 ,  Willows  ,  CA  ,  United States , 1027
+USC00049742  ,  WINTERS  , 38.5253 , -121.9778 ,  Winters  ,  CA  ,  United States , 1503
+USC00049781  ,  WOODLAND 1 WNW  , 38.6828 , -121.7942 ,  Woodland  ,  CA  ,  United States , 1270
+USC00049785  ,  WOODLAND HLS PIERCE CL  , 34.1819 , -118.5744 ,  Los Angeles  ,  CA  ,  United States , 1434
+USC00049855  ,  YOSEMITE PARK HQ  , 37.75 , -119.5897 ,  Yosemite Valley  ,  CA  ,  United States , 1058
+USC00049866  ,  YREKA  , 41.7036 , -122.6408 ,  Yreka  ,  CA  ,  United States , 1262
+USW00003104  ,  DESERT RESORTS RGNL AP  , 33.6267 , -116.1594 ,  Thermal  ,  CA  ,  United States , 1412
+USW00003122  ,  TORRANCE AP  , 33.8017 , -118.3411 ,  Torrance  ,  CA  ,  United States , 1229
+USW00003164  ,  CAMPO  , 32.6233 , -116.4728 ,  Campo  ,  CA  ,  United States , 1452
+USW00023129  ,  LONG BEACH DAUGHERTY FLD  , 33.8117 , -118.1464 ,  Long Beach  ,  CA  ,  United States , 1511
+USW00023136  ,  CAMARILLO AP  , 34.2167 , -119.0833 ,  Camarillo  ,  CA  ,  United States , 506
+USW00023155  ,  BAKERSFIELD AP  , 35.4344 , -119.0542 ,  Bakersfield  ,  CA  ,  United States , 1230
+USW00023157  ,  BISHOP AP  , 37.3711 , -118.3581 ,  Bishop  ,  CA  ,  United States , 1399
+USW00023158  ,  BLYTHE AP  , 33.6186 , -114.7142 ,  Blythe  ,  CA  ,  United States , 1337
+USW00023161  ,  BARSTOW DAGGETT AP  , 34.8536 , -116.7858 ,  Newberry Springs  ,  CA  ,  United States , 1526
+USW00023174  ,  LOS ANGELES INTL AP  , 33.9381 , -118.3889 ,  Los Angeles  ,  CA  ,  United States , 1452
+USW00023179  ,  NEEDLES AP  , 34.7675 , -114.6189 ,  Needles  ,  CA  ,  United States , 1264
+USW00023182  ,  PALMDALE AP  , 34.6294 , -118.0836 ,  Palmdale  ,  CA  ,  United States , 703
+USW00023187  ,  SANDBERG  , 34.7436 , -118.7242 ,  Gorman  ,  CA  ,  United States , 992
+USW00023188  ,  SAN DIEGO LINDBERGH FLD  , 32.7336 , -117.1831 ,  San Diego  ,  CA  ,  United States , 1551
+USW00023190  ,  SANTA BARBARA MUNI AP  , 34.4258 , -119.8425 ,  Santa Barbara  ,  CA  ,  United States , 1272
+USW00023225  ,  BLUE CANYON AP  , 39.2775 , -120.7103 ,  Alta  ,  CA  ,  United States , 995
+USW00023230  ,  OAKLAND METRO INTL AP  , 37.7214 , -122.2208 ,  Oakland  ,  CA  ,  United States , 991
+USW00023232  ,  SACRAMENTO EXECUTIVE AP  , 38.5069 , -121.495 ,  Sacramento  ,  CA  ,  United States , 1282
+USW00023233  ,  SALINAS MUNICIPAL AP  , 36.6636 , -121.6081 ,  Salinas  ,  CA  ,  United States , 1366
+USW00023234  ,  SAN FRANCISCO INTL AP  , 37.6197 , -122.3647 ,  San Francisco  ,  CA  ,  United States , 1291
+USW00023237  ,  STOCKTON METRO AP  , 37.8892 , -121.2258 ,  Acampo  ,  CA  ,  United States , 1432
+USW00023244  ,  MOFFETT FEDERAL AIRFIELD  , 37.4058 , -122.0481 ,  Mountain View  ,  CA  ,  United States , 1183
+USW00023258  ,  MODESTO CITY CO AP  , 37.6242 , -120.9506 ,  Modesto  ,  CA  ,  United States , 1238
+USW00023271  ,  SACRAMENTO 5 ESE  , 38.5556 , -121.4169 ,  Sacramento  ,  CA  ,  United States , 1282
+USW00023272  ,  SAN FRANCISCO DWTN  , 37.7706 , -122.4269 ,  San Francisco  ,  CA  ,  United States , 1448
+USW00023273  ,  SANTA MARIA PUBLIC AP  , 34.8994 , -120.4486 ,  Santa Maria  ,  CA  ,  United States , 1420
+USW00024213  ,  EUREKA WFO WOODLEY ISLAND  , 40.8097 , -124.1603 ,  Eureka  ,  CA  ,  United States , 1422
+USW00024216  ,  RED BLUFF MUNI AP  , 40.1519 , -122.2536 ,  Red Bluff  ,  CA  ,  United States , 1338
+USW00093104  ,  CHINA LAKE NAF  , 35.6875 , -117.6931 ,  Ridgecrest  ,  CA  ,  United States , 455
+USW00093107  ,  SAN DIEGO MIRAMAR NAS  , 32.8667 , -117.1333 ,  San Diego  ,  CA  ,  United States , 1195
+USW00093111  ,  POINT MUGU NF  , 34.1167 , -119.1167 ,  Oxnard  ,  CA  ,  United States , 1290
+USW00093112  ,  NORTH ISLAND NAS  , 32.7 , -117.2 ,  Coronado  ,  CA  ,  United States , 1295
+USW00093115  ,  IMPERIAL BEACH REAM FLD NAS  , 32.5667 , -117.1167 ,  Imperial Beach  ,  CA  ,  United States , 632
+USW00093134  ,  LOS ANGELES DWTN USC CAMPUS  , 34.0511 , -118.2353 ,  Los Angeles  ,  CA  ,  United States , 1343
+USW00093193  ,  FRESNO YOSEMITE INTL AP  , 36.78 , -119.7194 ,  Fresno  ,  CA  ,  United States , 1296
+USW00093209  ,  PASO ROBLES MUNI AP  , 35.6697 , -120.6283 ,  Paso Robles  ,  CA  ,  United States , 1382

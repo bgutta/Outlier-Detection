@@ -1,0 +1,40 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00220488  ,  BATESVILLE 2 SW  , 34.3061 , -89.9806 ,  Batesville  ,  MS  ,  United States , 1195
+USC00220660  ,  BELZONI  , 33.1772 , -90.4919 ,  Belzoni  ,  MS  ,  United States , 917
+USC00220792  ,  BILOXI  , 30.3931 , -89.0008 ,  Biloxi  ,  MS  ,  United States , 1121
+USC00220955  ,  BOONEVILLE  , 34.6344 , -88.5622 ,  Booneville  ,  MS  ,  United States , 1201
+USC00221094  ,  BROOKHAVEN CITY  , 31.5447 , -90.4581 ,  Brookhaven  ,  MS  ,  United States , 1336
+USC00221389  ,  CANTON 4N  , 32.6714 , -90.0361 ,  Canton  ,  MS  ,  United States , 1144
+USC00221707  ,  CLARKSDALE  , 34.1864 , -90.5572 ,  Clarksdale  ,  MS  ,  United States , 1155
+USC00221852  ,  COLLINS  , 31.6419 , -89.5572 ,  Collins  ,  MS  ,  United States , 1290
+USC00221962  ,  CORINTH 7 SW  , 34.8792 , -88.6178 ,  Corinth  ,  MS  ,  United States , 1155
+USC00222094  ,  CRYSTAL SPGS EXP STN  , 31.9461 , -90.3775 ,  Crystal Springs  ,  MS  ,  United States , 687
+USC00222385  ,  D'LO 2 SW  , 31.9544 , -89.9328 ,  Mendenhall  ,  MS  ,  United States , 1293
+USC00222896  ,  EUPORA 2 E  , 33.5628 , -89.2358 ,  Eupora  ,  MS  ,  United States , 1293
+USC00223208  ,  FULTON 3 W  , 34.2614 , -88.4569 ,  Mantachie  ,  MS  ,  United States , 1385
+USC00223645  ,  GRENADA  , 33.7608 , -89.8136 ,  Grenada  ,  MS  ,  United States , 1196
+USC00223887  ,  HATTIESBURG 5SW  , 31.2547 , -89.3392 ,  Hattiesburg  ,  MS  ,  United States , 1328
+USC00223975  ,  HERNANDO  , 34.8039 , -90.0103 ,  Hernando  ,  MS  ,  United States , 1060
+USC00224001  ,  HICKORY FLAT  , 34.6189 , -89.1911 ,  Hickory Flat  ,  MS  ,  United States , 1211
+USC00224377  ,  INDEPENDENCE 1W  , 34.6989 , -89.8214 ,  Coldwater  ,  MS  ,  United States , 1380
+USC00224776  ,  KOSCIUSKO  , 33.0583 , -89.5797 ,  Kosciusko  ,  MS  ,  United States , 1334
+USC00224939  ,  LAUREL  , 31.6756 , -89.1236 ,  Laurel  ,  MS  ,  United States , 1334
+USC00225247  ,  LOUISVILLE  , 33.1356 , -89.0711 ,  Louisville  ,  MS  ,  United States , 1193
+USC00226177  ,  NATCHEZ  , 31.5889 , -91.3408 ,  Natchez  ,  MS  ,  United States , 1312
+USC00226308  ,  NEWTON EXP STN  , 32.3378 , -89.0817 ,  Newton  ,  MS  ,  United States , 1350
+USC00226718  ,  PASCAGOULA 3 NE  , 30.3961 , -88.4781 ,  Moss Point  ,  MS  ,  United States , 1113
+USC00226894  ,  PHILADELPHIA 1 WSW  , 32.7692 , -89.1303 ,  Philadelphia  ,  MS  ,  United States , 1387
+USC00227111  ,  PONTOTOC EXP STN  , 34.1381 , -88.9983 ,  Pontotoc  ,  MS  ,  United States , 1318
+USC00227128  ,  POPLARVILLE EXP STN  , 30.8408 , -89.5453 ,  Poplarville  ,  MS  ,  United States , 1400
+USC00227132  ,  PORT GIBSON 1 NE  , 31.985 , -90.9719 ,  Port Gibson  ,  MS  ,  United States , 1319
+USC00227840  ,  SAUCIER EXP FOREST  , 30.6264 , -89.055 ,  Saucier  ,  MS  ,  United States , 1394
+USC00228445  ,  STONEVILLE EXP STA  , 33.4311 , -90.9108 ,  Leland  ,  MS  ,  United States , 1312
+USC00228998  ,  TUNICA 2 N  , 34.7281 , -90.3683 ,  Tunica  ,  MS  ,  United States , 1212
+USC00229079  ,  UNIVERSITY  , 34.3725 , -89.5308 ,  Oxford  ,  MS  ,  United States , 1219
+USC00229439  ,  WAYNESBORO 2 W  , 31.6772 , -88.6708 ,  Waynesboro  ,  MS  ,  United States , 1196
+USC00229639  ,  WIGGINS  , 30.8714 , -89.1214 ,  Wiggins  ,  MS  ,  United States , 815
+USC00229743  ,  WINONA 5 E  , 33.4847 , -89.6244 ,  Kilmichael  ,  MS  ,  United States , 1383
+USC00229860  ,  YAZOO CITY 5 NNE  , 32.9028 , -90.3817 ,  Yazoo City  ,  MS  ,  United States , 1282
+USW00013865  ,  MERIDIAN KEY FLD  , 32.3347 , -88.7442 ,  Meridian  ,  MS  ,  United States , 1451
+USW00013978  ,  GREENWOOD LEFLORE AP  , 33.4964 , -90.0867 ,  Greenwood  ,  MS  ,  United States , 1368
+USW00093919  ,  MCCOMB/PIKE CO/JOHN E LEWIS AP  , 31.1828 , -90.4708 ,  McComb  ,  MS  ,  United States , 1415

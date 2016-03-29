@@ -1,0 +1,38 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00120177  ,  ANDERSON SEWAGE PLT  , 40.1117 , -85.7164 ,  Anderson  ,  IN  ,  United States , 1208
+USC00120676  ,  BERNE WWTP  , 40.6683 , -84.9305 ,  Berne  ,  IN  ,  United States , 1267
+USC00120784  ,  BLOOMINGTON IN UNIV  , 39.1742 , -86.5214 ,  Bloomington  ,  IN  ,  United States , 1137
+USC00122309  ,  DUBOIS S IN FORAGE FM  , 38.4558 , -86.6983 ,  Dubois  ,  IN  ,  United States , 1219
+USC00122638  ,  ELWOOD  , 40.2872 , -85.8453 ,  Elwood  ,  IN  ,  United States , 1087
+USC00122731  ,  EVANSVILLE MUSEUM  , 37.9647 , -87.5783 ,  Evansville  ,  IN  ,  United States , 929
+USC00122825  ,  FARMLAND 5 NNW  , 40.2539 , -85.1483 ,  Farmland  ,  IN  ,  United States , 1240
+USC00123082  ,  FRANKFORT DISPOSAL PLT  , 40.2986 , -86.5067 ,  Frankfort  ,  IN  ,  United States , 1264
+USC00123418  ,  GOSHEN 3SW  , 41.5575 , -85.8825 ,  Goshen  ,  IN  ,  United States , 1236
+USC00123513  ,  GREENCASTLE 1 W  , 39.6439 , -86.8767 ,  Greencastle  ,  IN  ,  United States , 1234
+USC00123777  ,  HARTFORD CITY 4 ESE  , 40.4356 , -85.2892 ,  Hartford City  ,  IN  ,  United States , 982
+USC00124272  ,  INDIANAPOLIS SE SIDE  , 39.7164 , -86.0678 ,  Indianapolis  ,  IN  ,  United States , 1125
+USC00124662  ,  KOKOMO 3 WSW  , 40.4583 , -86.1758 ,  Kokomo  ,  IN  ,  United States , 1138
+USC00124715  ,  LAFAYETTE 8 S  , 40.2964 , -86.9028 ,  Lafayette  ,  IN  ,  United States , 1233
+USC00125407  ,  MARTINSVILLE 2 SW  , 39.4039 , -86.453 ,  Martinsville  ,  IN  ,  United States , 1217
+USC00126164  ,  NEW CASTLE 3 SW  , 39.8942 , -85.3953 ,  New Castle  ,  IN  ,  United States , 1231
+USC00126435  ,  NORTH VERNON 2 ESE  , 39.0017 , -85.5997 ,  North Vernon  ,  IN  ,  United States , 1003
+USC00126580  ,  OOLITIC PURDUE EX FRM  , 38.8894 , -86.5519 ,  Bedford  ,  IN  ,  United States , 1356
+USC00126705  ,  PAOLI  , 38.5556 , -86.4858 ,  Paoli  ,  IN  ,  United States , 1288
+USC00127125  ,  PRINCETON 1 W  , 38.3567 , -87.5906 ,  Princeton  ,  IN  ,  United States , 1234
+USC00127522  ,  ROCKVILLE  , 39.7594 , -87.2269 ,  Rockville  ,  IN  ,  United States , 1194
+USC00127935  ,  SEYMOUR 2 N  , 38.9822 , -85.8989 ,  Seymour  ,  IN  ,  United States , 1312
+USC00127999  ,  SHELBYVILLE SEWAGE PLT  , 39.5283 , -85.7914 ,  Shelbyville  ,  IN  ,  United States , 1195
+USC00128036  ,  SHOALS 8 S  , 38.5528 , -86.7944 ,  Shoals  ,  IN  ,  United States , 1331
+USC00128698  ,  TELL CITY  , 37.9531 , -86.7747 ,  Tell City  ,  IN  ,  United States , 1259
+USC00128723  ,  TERRE HAUTE INDIANA ST  , 39.4708 , -87.4081 ,  Terre Haute  ,  IN  ,  United States , 909
+USC00129112  ,  VINCENNES 4 E  , 38.6786 , -87.4633 ,  Vincennes  ,  IN  ,  United States , 636
+USC00129240  ,  WARSAW  , 41.2633 , -85.8678 ,  Warsaw  ,  IN  ,  United States , 869
+USC00129253  ,  WASHINGTON 1 W  , 38.6489 , -87.1989 ,  Washington  ,  IN  ,  United States , 1124
+USC00129430  ,  WEST LAFAYETTE 6 NW  , 40.475 , -86.9919 ,  West Lafayette  ,  IN  ,  United States , 1202
+USC00129557  ,  WHITESTOWN  , 39.9961 , -86.3542 ,  Whitestown  ,  IN  ,  United States , 1237
+USC00129670  ,  WINAMAC 2SSE  , 41.0267 , -86.5867 ,  Winamac  ,  IN  ,  United States , 1189
+USW00014827  ,  FT WAYNE INTL AP  , 40.9706 , -85.2064 ,  Fort Wayne  ,  IN  ,  United States , 1255
+USW00014835  ,  LAFAYETTE PURDUE UNIV AP  , 40.4122 , -86.9369 ,  West Lafayette  ,  IN  ,  United States , 1150
+USW00014848  ,  SOUTH BEND MICHIANA RGNL AP  , 41.7072 , -86.3164 ,  South Bend  ,  IN  ,  United States , 1226
+USW00093817  ,  EVANSVILLE REGIONAL AP  , 38.0442 , -87.5206 ,  Evansville  ,  IN  ,  United States , 1365
+USW00093819  ,  INDIANAPOLIS  , 39.7075 , -86.2803 ,  Indianapolis  ,  IN  ,  United States , 1302

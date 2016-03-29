@@ -1,0 +1,49 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00010178  ,  ALICEVILLE  , 33.1272 , -88.155 ,  Aliceville  ,  AL  ,  United States , 957
+USC00010252  ,  ANDALUSIA 3 W  , 31.3072 , -86.5225 ,  Andalusia  ,  AL  ,  United States , 1213
+USC00010369  ,  ASHLAND 3 ENE  , 33.2942 , -85.7789 ,  Lineville  ,  AL  ,  United States , 1191
+USC00010402  ,  ATMORE  , 31.1819 , -87.4389 ,  Atmore  ,  AL  ,  United States , 751
+USC00010505  ,  BANKHEAD LOCK & DAM  , 33.4528 , -87.3572 ,  Northport  ,  AL  ,  United States , 1351
+USC00010583  ,  BAY MINETTE  , 30.8839 , -87.7853 ,  Bay Minette  ,  AL  ,  United States , 1245
+USC00010655  ,  BELLE MINA 2 N  , 34.6892 , -86.8819 ,  Madison  ,  AL  ,  United States , 1369
+USC00011084  ,  BREWTON 3 SSE  , 31.0583 , -87.055 ,  Brewton  ,  AL  ,  United States , 1294
+USC00011099  ,  BRIDGEPORT 5 NW  , 34.9786 , -85.8008 ,  Bridgeport  ,  AL  ,  United States , 877
+USC00011324  ,  CAMP HILL 2NW  , 32.8236 , -85.6561 ,  Camp Hill  ,  AL  ,  United States , 661
+USC00011566  ,  CHATOM  , 31.4714 , -88.2503 ,  Chatom  ,  AL  ,  United States , 1182
+USC00011620  ,  CHILDERSBURG WTR PL  , 33.285 , -86.3431 ,  Childersburg  ,  AL  ,  United States , 1329
+USC00011694  ,  CLANTON  , 32.8203 , -86.6522 ,  Clanton  ,  AL  ,  United States , 1232
+USC00011803  ,  CODEN  , 30.3875 , -88.2269 ,  Coden  ,  AL  ,  United States , 1096
+USC00012245  ,  DEMOPOLIS L&D  , 32.5192 , -87.88 ,  Demopolis  ,  AL  ,  United States , 1290
+USC00012813  ,  FAIRHOPE 2 NE  , 30.5467 , -87.8808 ,  Fairhope  ,  AL  ,  United States , 1306
+USC00013154  ,  GADSDEN  , 34.0219 , -85.9878 ,  Gadsden  ,  AL  ,  United States , 1137
+USC00013160  ,  GAINESVILLE LOCK  , 32.8347 , -88.1342 ,  Boligee  ,  AL  ,  United States , 1247
+USC00013573  ,  GUNTERSVILLE  , 34.3344 , -86.3297 ,  Guntersville  ,  AL  ,  United States , 1191
+USC00013620  ,  HALEYVILLE  , 34.2314 , -87.6353 ,  Haleyville  ,  AL  ,  United States , 1283
+USC00013761  ,  HEADLAND  , 31.3625 , -85.3397 ,  Headland  ,  AL  ,  United States , 1209
+USC00013775  ,  HEFLIN  , 33.6483 , -85.6006 ,  Heflin  ,  AL  ,  United States , 1117
+USC00014502  ,  LAFAYETTE 2W  , 32.9069 , -85.4336 ,  La Fayette  ,  AL  ,  United States , 1271
+USC00015121  ,  MARION JUNCTION 2 NE  , 32.4714 , -87.2314 ,  Marion Junction  ,  AL  ,  United States , 1347
+USC00015635  ,  MOULTON 2  , 34.4883 , -87.2989 ,  Moulton  ,  AL  ,  United States , 1339
+USC00016129  ,  OPELIKA  , 32.6592 , -85.4492 ,  Opelika  ,  AL  ,  United States , 1096
+USC00016478  ,  PINSON  , 33.6906 , -86.685 ,  Pinson  ,  AL  ,  United States , 1416
+USC00016988  ,  ROBERTSDALE  , 30.5653 , -87.7017 ,  Robertsdale  ,  AL  ,  United States , 1216
+USC00017020  ,  ROCKFORD 3 ESE  , 32.8711 , -86.1758 ,  Kellyton  ,  AL  ,  United States , 1095
+USC00017025  ,  ROCK MILLS  , 33.1581 , -85.2911 ,  Roanoke  ,  AL  ,  United States , 972
+USC00017131  ,  RUSSELLVILLE NO 2  , 34.51 , -87.7319 ,  Russellville  ,  AL  ,  United States , 1173
+USC00017157  ,  SAINT BERNARD  , 34.1736 , -86.8133 ,  Cullman  ,  AL  ,  United States , 1170
+USC00017207  ,  SAND MT SUBSTN  , 34.2878 , -85.9681 ,  Crossville  ,  AL  ,  United States , 1198
+USC00017304  ,  SCOTTSBORO  , 34.6736 , -86.0536 ,  Scottsboro  ,  AL  ,  United States , 1202
+USC00017999  ,  SYLACAUGA 4 NE  , 33.2053 , -86.2114 ,  Sylacauga  ,  AL  ,  United States , 1271
+USC00018024  ,  TALLADEGA  , 33.4164 , -86.135 ,  Talladega  ,  AL  ,  United States , 1240
+USC00018178  ,  THOMASVILLE  , 31.9172 , -87.7347 ,  Thomasville  ,  AL  ,  United States , 1283
+USC00018209  ,  THORSBY EXP STN  , 32.9206 , -86.6708 ,  Clanton  ,  AL  ,  United States , 1189
+USC00018438  ,  UNION SPRINGS 9 S  , 32.0142 , -85.7464 ,  Union Springs  ,  AL  ,  United States , 1319
+USC00018859  ,  WETUMPKA  , 32.5906 , -86.2103 ,  Wetumpka  ,  AL  ,  United States , 177
+USW00003856  ,  HUNTSVILLE INTL AP  , 34.6439 , -86.7861 ,  Madison  ,  AL  ,  United States , 1383
+USW00013838  ,  MOBILE DWTN AP  , 30.6264 , -88.0681 ,  Mobile  ,  AL  ,  United States , 508
+USW00013871  ,  ANNISTON METRO AP  , 33.5872 , -85.8556 ,  Oxford  ,  AL  ,  United States , 1473
+USW00013876  ,  BIRMINGHAM AP  , 33.5656 , -86.745 ,  Birmingham  ,  AL  ,  United States , 1479
+USW00013894  ,  MOBILE  , 30.6794 , -88.2397 ,    ,  AL  ,  United States , 1458
+USW00013895  ,  MONTGOMERY AP  , 32.2997 , -86.4075 ,  Hope Hull  ,  AL  ,  United States , 1461
+USW00013896  ,  MUSCLE SHOALS RGNL AP  , 34.7442 , -87.5997 ,  Muscle Shoals  ,  AL  ,  United States , 1321
+USW00093806  ,  TUSCALOOSA MUNI AP  , 33.2119 , -87.6161 ,  Tuscaloosa  ,  AL  ,  United States , 1173

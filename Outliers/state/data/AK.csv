@@ -1,0 +1,52 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00500363  ,  ANNEX CREEK  , 58.3183 , -134.1003 ,  Juneau  ,  AK  ,  United States , 868
+USC00500657  ,  BEAVER FALLS  , 55.38 , -131.4683 ,  Ketchikan  ,  AK  ,  United States , 1110
+USC00501987  ,  CIRCLE HOT SPRINGS  , 65.4939 , -144.6422 ,  Central  ,  AK  ,  United States , 404
+USC00502107  ,  COLLEGE OBSY  , 64.8603 , -147.8483 ,  Fairbanks  ,  AK  ,  United States , 1048
+USC00502173  ,  CORDOVA NORTH  , 60.5561 , -145.7531 ,  Cordova  ,  AK  ,  United States , 650
+USC00502587  ,  DUTCH HARBOR  , 53.895 , -166.5433 ,  Unalaska  ,  AK  ,  United States , 759
+USC00502607  ,  EAGLE  , 64.7856 , -141.2036 ,  Eagle  ,  AK  ,  United States , 1074
+USC00504812  ,  KITOI BAY  , 58.1914 , -152.3722 ,  Kodiak  ,  AK  ,  United States , 1199
+USC00505519  ,  LITTLE PORT WALTER  , 56.3831 , -134.6497 ,  Port Alexander  ,  AK  ,  United States , 1184
+USC00505644  ,  MANLEY HOT SPRINGS  , 64.9989 , -150.638 ,  Manley Hot Springs  ,  AK  ,  United States , 656
+USC00505733  ,  MATANUSKA EXPERIMENT FARM  , 61.5664 , -149.2542 ,  Palmer  ,  AK  ,  United States , 1225
+USC00505778  ,  MCKINLEY PARK  , 63.7175 , -148.9692 ,  Denali National Park and Preserve  ,  AK  ,  United States , 1050
+USC00505881  ,  MINCHUMINA  , 63.9033 , -152.2817 ,  Lake Minchumina  ,  AK  ,  United States , 495
+USC00506870  ,  PALMER JOB CORPS  , 61.5889 , -149.0992 ,  Palmer  ,  AK  ,  United States , 1115
+USC00507557  ,  PORT ALEXANDER  , 56.2472 , -134.6447 ,  Port Alexander  ,  AK  ,  United States , 729
+USC00507783  ,  PUNTILLA  , 62.0911 , -152.735 ,  Skwentna  ,  AK  ,  United States , 1114
+USC00509313  ,  TOK  , 63.3336 , -143.0372 ,  Tok  ,  AK  ,  United States , 1086
+USC00509641  ,  UNIVERSITY EXP STN  , 64.8569 , -147.8611 ,  Fairbanks  ,  AK  ,  United States , 1122
+USW00025308  ,  ANNETTE ISLAND AP  , 55.0389 , -131.5786 ,  Metlakatla  ,  AK  ,  United States , 1312
+USW00025309  ,  JUNEAU INTL AP  , 58.3567 , -134.5639 ,  Juneau  ,  AK  ,  United States , 1338
+USW00025322  ,  GUSTAVUS  , 58.4111 , -135.7089 ,  Gustavus  ,  AK  ,  United States , 690
+USW00025325  ,  KETCHIKAN INTL AP  , 55.3567 , -131.7117 ,  Ketchikan  ,  AK  ,  United States , 1165
+USW00025329  ,  PETERSBURG 1  , 56.8056 , -132.9372 ,  Petersburg  ,  AK  ,  United States , 983
+USW00025333  ,  SITKA AIRPORT  , 57.0481 , -135.3647 ,  Sitka  ,  AK  ,  United States , 1261
+USW00025339  ,  YAKUTAT STATE AP  , 59.5119 , -139.6711 ,  Yakutat  ,  AK  ,  United States , 1413
+USW00025501  ,  KODIAK AP  , 57.7511 , -152.4856 ,  Kodiak  ,  AK  ,  United States , 1413
+USW00025503  ,  KING SALMON  , 58.6794 , -156.6294 ,  King Salmon  ,  AK  ,  United States , 1379
+USW00025506  ,  ILIAMNA AP  , 59.7494 , -154.9089 ,  Iliamna  ,  AK  ,  United States , 1083
+USW00025507  ,  HOMER AP  , 59.6419 , -151.4908 ,  Homer  ,  AK  ,  United States , 1325
+USW00025624  ,  COLD BAY AP  , 55.2208 , -162.7325 ,  Cold Bay  ,  AK  ,  United States , 1378
+USW00025713  ,  ST PAUL ISLAND AP  , 57.1553 , -170.2222 ,  Saint Paul  ,  AK  ,  United States , 1623
+USW00026409  ,  ANCHORAGE MERRILL FLD  , 61.2169 , -149.855 ,  Anchorage  ,  AK  ,  United States , 422
+USW00026410  ,  CORDOVA M K SMITH AP  , 60.4889 , -145.4511 ,  Cordova  ,  AK  ,  United States , 1343
+USW00026411  ,  FAIRBANKS INTL AP  , 64.8039 , -147.8761 ,  Fairbanks  ,  AK  ,  United States , 1248
+USW00026412  ,  NORTHWAY AP  , 62.9614 , -141.9292 ,  Northway  ,  AK  ,  United States , 1200
+USW00026415  ,  BIG DELTA AP  , 63.9944 , -145.7214 ,  Fort Greely  ,  AK  ,  United States , 1138
+USW00026425  ,  GULKANA AP  , 62.1592 , -145.4589 ,  Glennallen  ,  AK  ,  United States , 1266
+USW00026435  ,  NENANA MUNI AP  , 64.55 , -149.0717 ,  Nenana  ,  AK  ,  United States , 769
+USW00026438  ,  SEWARD AP  , 60.1283 , -149.4167 ,  Seward  ,  AK  ,  United States , 1231
+USW00026442  ,  VALDEZ WSO  , 61.1303 , -146.3517 ,  Valdez  ,  AK  ,  United States , 1361
+USW00026451  ,  ANCHORAGE INTL AP  , 61.1689 , -150.0278 ,  Anchorage  ,  AK  ,  United States , 1340
+USW00026510  ,  MCGRATH AP  , 62.9575 , -155.6103 ,  McGrath  ,  AK  ,  United States , 1314
+USW00026514  ,  SKWENTNA  , 61.9772 , -151.2169 ,  Skwentna  ,  AK  ,  United States , 574
+USW00026523  ,  KENAI MUNI AP  , 60.5797 , -151.2392 ,  Kenai  ,  AK  ,  United States , 1267
+USW00026528  ,  TALKEETNA AP  , 62.32 , -150.095 ,  Talkeetna  ,  AK  ,  United States , 1315
+USW00026529  ,  TANANA CALHOUN MEM AP  , 65.1744 , -152.1069 ,  Tanana  ,  AK  ,  United States , 1132
+USW00026533  ,  BETTLES AP  , 66.9161 , -151.5089 ,  Bettles  ,  AK  ,  United States , 1219
+USW00026615  ,  BETHEL AP  , 60.785 , -161.8292 ,  Bethel  ,  AK  ,  United States , 1271
+USW00026616  ,  KOTZEBUE RALPH WEIN AP  , 66.8667 , -162.6333 ,  Kotzebue  ,  AK  ,  United States , 1160
+USW00026617  ,  NOME MUNI AP  , 64.5111 , -165.44 ,  Nome  ,  AK  ,  United States , 1172
+USW00027502  ,  BARROW POST ROGERS AP  , 71.2833 , -156.7814 ,  Barrow  ,  AK  ,  United States , 1192

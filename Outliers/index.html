@@ -1,0 +1,97 @@
+<!doctype html>
+<meta charset="utf-8">
+<!-- Bootstrap -->
+
+  <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+<style>
+
+body {
+    position: 80
+    margin: 0;
+    padding: 0;
+    background-color: #1f1f1f;
+    font-family: TisaWebPro;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    color: #c6c6c6
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #fff;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: steelblue;
+}
+.bar:hover {
+  fill: #fff ;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: #fff;
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+
+</style>
+<body>
+<div class="sidebar1">
+<ul class="nav nav-tabs">
+  <li role="presentation" class="active"><a href="#">Home</a></li>
+  <li role="presentation"><a href="animation.html">Animation</a></li>
+  <li role="presentation" class="dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown" href="analysis.html" role="button" aria-expanded="false">
+      Analysis <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu" role="menu">
+      <li role="presentation"><a href="analysis.html">Each State</a></li>
+      <li role="presentation"><a href="yearly.html">All States</a></li>
+    </ul>
+  </li>
+  <li role="presentation"><a href="help.html">How we did it?</a></li>
+</ul>
+</div>
+
+<div>
+<h1><center>Group 4 - Index Page</center></h1>
+</div>
+<div><center>
+<img src="Img/site_map.png" width="800" height="600" alt="site-map" />
+</center></div>
+
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+</body>
+</html>

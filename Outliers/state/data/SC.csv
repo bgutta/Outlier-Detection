@@ -1,0 +1,41 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00380448  ,  BAMBERG  , 33.3 , -81.0306 ,  Bamberg  ,  SC  ,  United States , 1334
+USC00380736  ,  BISHOPVILLE 1ENE  , 34.2169 , -80.2392 ,  Bishopville  ,  SC  ,  United States , 1255
+USC00381093  ,  BROOKGREEN GARDENS  , 33.5214 , -79.0975 ,  Pawleys Island  ,  SC  ,  United States , 1197
+USC00381277  ,  CALHOUN FALLS  , 34.0906 , -82.5883 ,  Calhoun Falls  ,  SC  ,  United States , 1113
+USC00381588  ,  CHERAW  , 34.7319 , -79.8833 ,  Cheraw  ,  SC  ,  United States , 1112
+USC00381633  ,  CHESTER 1 SE  , 34.6847 , -81.1958 ,  Chester  ,  SC  ,  United States , 1364
+USC00381726  ,  CLARKS HILL 1 W  , 33.6631 , -82.1897 ,  Clarks Hill  ,  SC  ,  United States , 1125
+USC00381770  ,  CLEMSON UNIV  , 34.6603 , -82.8236 ,  Clemson  ,  SC  ,  United States , 1432
+USC00381944  ,  COLUMBIA UNIV OF SC  , 33.9831 , -81.0167 ,  Columbia  ,  SC  ,  United States , 1196
+USC00381997  ,  CONWAY  , 33.8314 , -79.0558 ,  Conway  ,  SC  ,  United States , 1087
+USC00382386  ,  DILLON  , 34.4092 , -79.3564 ,  Dillon  ,  SC  ,  United States , 1228
+USC00382730  ,  EDISTO BEACH STATE PARK  , 32.505 , -80.2947 ,  Edisto Island  ,  SC  ,  United States , 834
+USC00383111  ,  FLORENCE 8 NE  , 34.2933 , -79.74 ,  Darlington  ,  SC  ,  United States , 1155
+USC00384607  ,  JOHNSTON 4 SW  , 33.7775 , -81.8467 ,  Johnston  ,  SC  ,  United States , 1311
+USC00384886  ,  LAKE CITY 2 SE  , 33.8642 , -79.7297 ,  Lake City  ,  SC  ,  United States , 835
+USC00385017  ,  LAURENS  , 34.4989 , -82.0219 ,  Laurens  ,  SC  ,  United States , 1253
+USC00385200  ,  LITTLE MTN  , 34.1942 , -81.415 ,  Little Mountain  ,  SC  ,  United States , 1264
+USC00385278  ,  LONG CREEK  , 34.7975 , -83.2678 ,  Mountain Rest  ,  SC  ,  United States , 790
+USC00385633  ,  MCCOLL 3 NNW  , 34.7056 , -79.5683 ,  McColl  ,  SC  ,  United States , 1146
+USC00386209  ,  NEWBERRY  , 34.2978 , -81.6236 ,  Newberry  ,  SC  ,  United States , 1133
+USC00386527  ,  ORANGEBURG 2  , 33.4886 , -80.8733 ,  Orangeburg  ,  SC  ,  United States , 1305
+USC00386688  ,  PARR  , 34.2931 , -81.3181 ,  Jenkinsville  ,  SC  ,  United States , 900
+USC00386831  ,  PICKENS  , 34.8814 , -82.7189 ,  Pickens  ,  SC  ,  United States , 1395
+USC00387666  ,  SANDHILL RSCH ELGIN  , 34.1419 , -80.87 ,  Columbia  ,  SC  ,  United States , 1215
+USC00387722  ,  SANTUCK  , 34.635 , -81.5206 ,  Union  ,  SC  ,  United States , 1386
+USC00388405  ,  SULLIVANS ISLAND  , 32.76 , -79.8489 ,  Sullivan's Island  ,  SC  ,  United States , 739
+USC00388426  ,  SUMMERVILLE 4W  , 33.0367 , -80.2325 ,  Summerville  ,  SC  ,  United States , 1085
+USC00388440  ,  SUMTER  , 33.9364 , -80.3569 ,  Sumter  ,  SC  ,  United States , 1336
+USC00388786  ,  UNION 8 S  , 34.6053 , -81.6628 ,  Union  ,  SC  ,  United States , 1172
+USC00388887  ,  WALHALLA  , 34.7544 , -83.075 ,  Walhalla  ,  SC  ,  United States , 1513
+USC00388922  ,  WALTERBORO 1 SW  , 32.8847 , -80.6761 ,  Walterboro  ,  SC  ,  United States , 1056
+USC00389327  ,  WINNSBORO  , 34.3739 , -81.0928 ,  Winnsboro  ,  SC  ,  United States , 1315
+USC00389350  ,  WINTHROP UNIV  , 34.9381 , -81.0317 ,  Rock Hill  ,  SC  ,  United States , 1375
+USC00389469  ,  YEMASSEE  , 32.6803 , -80.8419 ,  Yemassee  ,  SC  ,  United States , 1110
+USW00013744  ,  FLORENCE RGNL AP  , 34.1853 , -79.7239 ,  Florence  ,  SC  ,  United States , 1341
+USW00013782  ,  CHARLESTON CITY  , 32.78 , -79.9319 ,  Charleston  ,  SC  ,  United States , 1344
+USW00013880  ,  CHARLESTON INTL AP  , 32.8986 , -80.0403 ,  North Charleston  ,  SC  ,  United States , 1489
+USW00013883  ,  COLUMBIA  , 33.9486 , -81.1186 ,  West Columbia  ,  SC  ,  United States , 1377
+USW00093831  ,  BEAUFORT MCAS  , 32.4833 , -80.7167 ,  Beaufort  ,  SC  ,  United States , 1265
+USW00093846  ,  ANDERSON CO AP  , 34.4978 , -82.7097 ,  Anderson  ,  SC  ,  United States , 1380

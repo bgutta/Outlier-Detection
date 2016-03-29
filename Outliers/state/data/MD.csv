@@ -1,0 +1,15 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00180700  ,  BELTSVILLE  , 39.0303 , -76.9314 ,  Beltsville  ,  MD  ,  United States , 1080
+USC00182060  ,  CONOWINGO DAM  , 39.6556 , -76.1756 ,  Darlington  ,  MD  ,  United States , 1058
+USC00182906  ,  EMMITSBURG 2 SE  , 39.6811 , -77.2914 ,  Emmitsburg  ,  MD  ,  United States , 1303
+USC00185111  ,  LAUREL 3 W  , 39.0847 , -76.9003 ,  Laurel  ,  MD  ,  United States , 1050
+USC00186620  ,  OAKLAND 1 SE  , 39.4133 , -79.4 ,  Oakland  ,  MD  ,  United States , 1388
+USC00187806  ,  ROYAL OAK 2 SSW  , 38.7144 , -76.1897 ,  Royal Oak  ,  MD  ,  United States , 1333
+USC00188065  ,  SAVAGE RIVER DAM  , 39.5103 , -79.14 ,  Swanton  ,  MD  ,  United States , 1345
+USC00188380  ,  SNOW HILL 4 N  , 38.2364 , -75.3789 ,  Snow Hill  ,  MD  ,  United States , 1278
+USC00188405  ,  SOLOMONS  , 38.3197 , -76.4525 ,  Solomons  ,  MD  ,  United States , 489
+USC00189070  ,  UPPER MARLBORO 3 NNW  , 38.8519 , -76.7683 ,  Upper Marlboro  ,  MD  ,  United States , 1210
+USW00013701  ,  ABERDEEN PHILLIPS FLD  , 39.4717 , -76.1697 ,  Aberdeen Proving Ground  ,  MD  ,  United States , 615
+USW00013721  ,  PATUXENT RIVER NAS  , 38.3 , -76.4167 ,  Patuxent River  ,  MD  ,  United States , 1149
+USW00093720  ,  SALISBURY WICOMICO RGNL AP  , 38.3406 , -75.5103 ,  Salisbury  ,  MD  ,  United States , 1353
+USW00093721  ,  BALTIMORE WASH INTL AP  , 39.1667 , -76.6833 ,  Baltimore  ,  MD  ,  United States , 1328

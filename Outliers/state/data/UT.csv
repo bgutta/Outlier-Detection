@@ -1,0 +1,73 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00420074  ,  ALTAMONT  , 40.3561 , -110.2878 ,  Altamont  ,  UT  ,  United States , 1054
+USC00420086  ,  ALTON  , 37.4403 , -112.4819 ,  Alton  ,  UT  ,  United States , 1187
+USC00420730  ,  BLACK ROCK  , 38.7075 , -112.9539 ,  Milford  ,  UT  ,  United States , 1393
+USC00420738  ,  BLANDING  , 37.6131 , -109.4847 ,  Blanding  ,  UT  ,  United States , 1249
+USC00420788  ,  BLUFF  , 37.2825 , -109.5575 ,  Bluff  ,  UT  ,  United States , 1269
+USC00420849  ,  BOULDER  , 37.905 , -111.42 ,  Boulder  ,  UT  ,  United States , 1207
+USC00421008  ,  BRYCE CANYON NP HQRS  , 37.6411 , -112.1689 ,  Bryce  ,  UT  ,  United States , 1143
+USC00421214  ,  CASTLE DALE  , 39.2078 , -111.0125 ,  Castle Dale  ,  UT  ,  United States , 1360
+USC00421308  ,  CEDAR POINT  , 37.7158 , -109.0828 ,  Dove Creek  ,  UT  ,  United States , 1036
+USC00421759  ,  COTTONWOOD WEIR  , 40.6242 , -111.7869 ,  Cottonwood Heights  ,  UT  ,  United States , 1114
+USC00422057  ,  DEER CREEK DAM  , 40.4044 , -111.5289 ,  Wallsburg  ,  UT  ,  United States , 1414
+USC00422101  ,  DESERET  , 39.2872 , -112.6519 ,  Delta  ,  UT  ,  United States , 1271
+USC00422173  ,  DINOSAUR QUARRY AREA  , 40.4378 , -109.3045 ,  Vernal  ,  UT  ,  United States , 1165
+USC00422253  ,  DUCHESNE  , 40.1678 , -110.395 ,  Duchesne  ,  UT  ,  United States , 1092
+USC00422257  ,  DUGWAY  , 40.1839 , -112.9217 ,    ,  UT  ,  United States , 1331
+USC00422385  ,  ECHO DAM  , 40.9656 , -111.435 ,  Coalville  ,  UT  ,  United States , 1368
+USC00422578  ,  EPHRAIM  , 39.3583 , -111.5992 ,  Ephraim  ,  UT  ,  United States , 1354
+USC00422592  ,  ESCALANTE  , 37.7686 , -111.5978 ,  Escalante  ,  UT  ,  United States , 1367
+USC00422696  ,  FAIRFIELD  , 40.2703 , -112.0944 ,  Fairfield  ,  UT  ,  United States , 944
+USC00422798  ,  FERRON  , 39.0875 , -111.1325 ,  Ferron  ,  UT  ,  United States , 1175
+USC00422828  ,  FILLMORE  , 38.9664 , -112.3278 ,  Fillmore  ,  UT  ,  United States , 1088
+USC00422864  ,  FLAMING GORGE  , 40.9317 , -109.4117 ,    ,  UT  ,  United States , 1301
+USC00422996  ,  FT DUCHESNE  , 40.2842 , -109.8611 ,  Fort Duchesne  ,  UT  ,  United States , 1015
+USC00424100  ,  HOVENWEEP NM  , 37.3858 , -109.075 ,  Montezuma Creek  ,  UT  ,  United States , 1235
+USC00424174  ,  IBAPAH  , 40.0378 , -113.9886 ,  Ibapah  ,  UT  ,  United States , 1141
+USC00424342  ,  JENSEN  , 40.3611 , -109.3464 ,  Jensen  ,  UT  ,  United States , 1161
+USC00424467  ,  KAMAS  , 40.6439 , -111.2822 ,  Kamas  ,  UT  ,  United States , 1066
+USC00424508  ,  KANAB  , 37.0286 , -112.5367 ,  Kanab  ,  UT  ,  United States , 1261
+USC00424856  ,  LAKETOWN  , 41.825 , -111.3208 ,  Laketown  ,  UT  ,  United States , 1202
+USC00424968  ,  LA VERKIN  , 37.2008 , -113.2686 ,  La Verkin  ,  UT  ,  United States , 1306
+USC00425065  ,  LEVAN  , 39.5608 , -111.8653 ,  Levan  ,  UT  ,  United States , 1295
+USC00425148  ,  LOA  , 38.4058 , -111.6433 ,  Loa  ,  UT  ,  United States , 992
+USC00425182  ,  LOGAN RADIO KVNU  , 41.7353 , -111.8561 ,  Logan  ,  UT  ,  United States , 1135
+USC00425186  ,  LOGAN UTAH ST UNIV  , 41.7456 , -111.8033 ,  Logan  ,  UT  ,  United States , 1159
+USC00425377  ,  MANILA  , 40.99 , -109.7258 ,  Manila  ,  UT  ,  United States , 548
+USC00425402  ,  MANTI  , 39.2583 , -111.6306 ,  Manti  ,  UT  ,  United States , 1339
+USC00425582  ,  MEXICAN HAT  , 37.1497 , -109.8675 ,  Mexican Hat  ,  UT  ,  United States , 1216
+USC00425733  ,  MOAB  , 38.5744 , -109.5458 ,  Moab  ,  UT  ,  United States , 1278
+USC00425837  ,  MORONI  , 39.5267 , -111.5872 ,  Moroni  ,  UT  ,  United States , 933
+USC00425892  ,  MTN DELL DAM  , 40.7497 , -111.7222 ,  Salt Lake City  ,  UT  ,  United States , 1160
+USC00425969  ,  MYTON  , 40.1942 , -110.0617 ,  Myton  ,  UT  ,  United States , 587
+USC00426123  ,  NEOLA  , 40.4178 , -110.0511 ,  Neola  ,  UT  ,  United States , 1048
+USC00426135  ,  NEPHI  , 39.7122 , -111.8319 ,  Nephi  ,  UT  ,  United States , 1319
+USC00426181  ,  NEW HARMONY  , 37.4636 , -113.2897 ,  New Harmony  ,  UT  ,  United States , 1165
+USC00426357  ,  OAK CITY  , 39.3758 , -112.3342 ,  Oak City  ,  UT  ,  United States , 1237
+USC00426534  ,  ORDERVILLE  , 37.2722 , -112.6389 ,  Orderville  ,  UT  ,  United States , 1345
+USC00426568  ,  OURAY 4 NE  , 40.1342 , -109.6422 ,  Randlett  ,  UT  ,  United States , 957
+USC00426601  ,  PANGUITCH  , 37.8156 , -112.4386 ,  Panguitch  ,  UT  ,  United States , 1163
+USC00426708  ,  PARTOUN  , 39.6308 , -113.8858 ,  Wendover  ,  UT  ,  United States , 1255
+USC00426869  ,  PINE VIEW DAM  , 41.2578 , -111.8378 ,  Eden  ,  UT  ,  United States , 1228
+USC00426919  ,  PLEASANT GROVE  , 40.3675 , -111.7339 ,  Pleasant Grove  ,  UT  ,  United States , 1350
+USC00427260  ,  RICHFIELD RADIO KSVC  , 38.7619 , -112.0775 ,  Richfield  ,  UT  ,  United States , 1395
+USC00427271  ,  RICHMOND  , 41.9064 , -111.81 ,  Richmond  ,  UT  ,  United States , 1259
+USC00427395  ,  ROOSEVELT RADIO  , 40.2878 , -109.9586 ,  Ballard  ,  UT  ,  United States , 1383
+USC00427516  ,  ST GEORGE  , 37.1069 , -113.5611 ,  Saint George  ,  UT  ,  United States , 1041
+USC00427686  ,  SANTAQUIN CHLORINATOR  , 39.9578 , -111.7794 ,  Santaquin  ,  UT  ,  United States , 1102
+USC00427714  ,  SCIPIO  , 39.2453 , -112.1067 ,  Scipio  ,  UT  ,  United States , 1230
+USC00427846  ,  SILVER LAKE BRIGHTON  , 40.6008 , -111.5842 ,  Brighton  ,  UT  ,  United States , 1171
+USC00428119  ,  SPANISH FORK PWR HOUSE  , 40.0797 , -111.6044 ,  Spanish Fork  ,  UT  ,  United States , 1217
+USC00428733  ,  TIMPANOGOS CAVE  , 40.4447 , -111.7075 ,  American Fork  ,  UT  ,  United States , 936
+USC00428771  ,  TOOELE  , 40.5278 , -112.2975 ,  Tooele  ,  UT  ,  United States , 1248
+USC00428973  ,  UTAH LAKE LEHI  , 40.3603 , -111.8972 ,  Saratoga Springs  ,  UT  ,  United States , 1119
+USC00429111  ,  VERNAL 2SW  , 40.4269 , -109.5531 ,  Vernal  ,  UT  ,  United States , 1216
+USC00429136  ,  VEYO PWR HOUSE  , 37.3522 , -113.6667 ,  Veyo  ,  UT  ,  United States , 1063
+USC00429165  ,  WANSHIP DAM  , 40.7908 , -111.4078 ,  Coalville  ,  UT  ,  United States , 1295
+USC00429595  ,  WOODRUFF  , 41.525 , -111.1494 ,  Woodruff  ,  UT  ,  United States , 1314
+USC00429717  ,  ZION NP  , 37.2092 , -112.9814 ,  Hurricane  ,  UT  ,  United States , 1221
+USW00023159  ,  BRYCE CANYON AP  , 37.7064 , -112.1456 ,    ,  UT  ,  United States , 809
+USW00023162  ,  DELTA  , 39.3375 , -112.5858 ,  Delta  ,  UT  ,  United States , 1337
+USW00024127  ,  SALT LAKE CITY INTL AP  , 40.7781 , -111.9694 ,  Salt Lake City  ,  UT  ,  United States , 1377
+USW00024193  ,  WENDOVER AP AWOS  , 40.7206 , -114.0358 ,  Wendover  ,  UT  ,  United States , 1073
+USW00093129  ,  CEDAR CITY MUNI AP  , 37.7086 , -113.0944 ,  Cedar City  ,  UT  ,  United States , 1360

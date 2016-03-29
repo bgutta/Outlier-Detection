@@ -1,0 +1,57 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00090140  ,  ALBANY 3 SE  , 31.5339 , -84.1489 ,  Albany  ,  GA  ,  United States , 1396
+USC00090181  ,  ALLATOONA DAM 2  , 34.165 , -84.73 ,  Cartersville  ,  GA  ,  United States , 912
+USC00090406  ,  ASHBURN 3 ENE  , 31.7003 , -83.6231 ,  Ashburn  ,  GA  ,  United States , 969
+USC00090969  ,  BLAIRSVILLE EXP STN  , 34.8544 , -83.9444 ,  Blairsville  ,  GA  ,  United States , 1425
+USC00090979  ,  BLAKELY  , 31.2239 , -84.5553 ,  Colquitt  ,  GA  ,  United States , 833
+USC00091266  ,  BROOKLET 1 W  , 32.375 , -81.673 ,  Brooklet  ,  GA  ,  United States , 1357
+USC00091463  ,  CAIRO 1SW  , 30.8697 , -84.2175 ,  Cairo  ,  GA  ,  United States , 407
+USC00091500  ,  CAMILLA 3SE  , 31.1903 , -84.2036 ,  Camilla  ,  GA  ,  United States , 1357
+USC00091665  ,  CARTERSVILLE  , 34.2042 , -84.7925 ,  Cartersville  ,  GA  ,  United States , 1169
+USC00091732  ,  CEDARTOWN  , 34.0589 , -85.2339 ,  Cedartown  ,  GA  ,  United States , 1308
+USC00091982  ,  CLAYTON 1 SSW  , 34.8483 , -83.4233 ,  Tiger  ,  GA  ,  United States , 1427
+USC00092153  ,  COLQUITT 2 W  , 31.1681 , -84.7664 ,  Colquitt  ,  GA  ,  United States , 884
+USC00092180  ,  COMMERCE 4 NNW  , 34.2625 , -83.4894 ,  Commerce  ,  GA  ,  United States , 1223
+USC00092266  ,  CORDELE  , 31.985 , -83.7747 ,  Cordele  ,  GA  ,  United States , 1207
+USC00092283  ,  CORNELIA  , 34.5181 , -83.5286 ,  Cornelia  ,  GA  ,  United States , 1437
+USC00092318  ,  COVINGTON  , 33.5972 , -83.8436 ,  Covington  ,  GA  ,  United States , 1245
+USC00092450  ,  CUTHBERT  , 31.7672 , -84.7931 ,  Cuthbert  ,  GA  ,  United States , 1260
+USC00092485  ,  DALLAS 7 NE  , 33.9881 , -84.7475 ,  Dallas  ,  GA  ,  United States , 1403
+USC00092783  ,  DOUGLAS  , 31.4889 , -82.8206 ,  Douglas  ,  GA  ,  United States , 1410
+USC00092966  ,  EASTMAN 1 W  , 32.2003 , -83.2058 ,  Eastman  ,  GA  ,  United States , 1415
+USC00093060  ,  ELBERTON 2 N  , 34.1406 , -82.855 ,  Elberton  ,  GA  ,  United States , 1389
+USC00093465  ,  FOLKSTON 9 SW  , 30.74 , -82.1278 ,  Folkston  ,  GA  ,  United States , 1223
+USC00093754  ,  GLENNVILLE 3NW  , 31.9881 , -81.9522 ,  Glennville  ,  GA  ,  United States , 1063
+USC00094133  ,  HARTWELL  , 34.3519 , -82.93 ,  Hartwell  ,  GA  ,  United States , 1092
+USC00094170  ,  HAWKINSVILLE  , 32.2842 , -83.4681 ,  Hawkinsville  ,  GA  ,  United States , 1233
+USC00094230  ,  HELEN  , 34.6997 , -83.7261 ,  Helen  ,  GA  ,  United States , 1151
+USC00094429  ,  HOMERVILLE 5 N  , 31.0767 , -82.8003 ,  Homerville  ,  GA  ,  United States , 1408
+USC00094648  ,  JASPER 1 NNW  , 34.4758 , -84.4461 ,  Jasper  ,  GA  ,  United States , 1289
+USC00094676  ,  JESUP 8 S  , 31.5075 , -81.8628 ,  Jesup  ,  GA  ,  United States , 992
+USC00094941  ,  LAFAYETTE 3SW  , 34.6639 , -85.3203 ,  LaFayette  ,  GA  ,  United States , 1172
+USC00094949  ,  LA GRANGE 1N  , 33.0536 , -85.0317 ,  LaGrange  ,  GA  ,  United States , 1063
+USC00095811  ,  METTER  , 32.3972 , -82.0819 ,  Metter  ,  GA  ,  United States , 881
+USC00095863  ,  MIDVILLE EXP STN  , 32.8753 , -82.2156 ,  Midville  ,  GA  ,  United States , 1177
+USC00095874  ,  MILLEDGEVILLE  , 33.0831 , -83.2497 ,  Milledgeville  ,  GA  ,  United States , 1129
+USC00096087  ,  MOULTRIE 2 ESE  , 31.1769 , -83.7492 ,  Moultrie  ,  GA  ,  United States , 1295
+USC00096219  ,  NAHUNTA 6NE  , 31.2739 , -81.9197 ,  Nahunta  ,  GA  ,  United States , 890
+USC00097087  ,  PLAINS SW GA EXP STN  , 32.0467 , -84.3711 ,  Plains  ,  GA  ,  United States , 1447
+USC00097777  ,  SANDERSVILLE  , 32.9744 , -82.8045 ,  Sandersville  ,  GA  ,  United States , 1293
+USC00097808  ,  SAPELO ISLAND  , 31.3972 , -81.2811 ,  Darien  ,  GA  ,  United States , 1069
+USC00098535  ,  TALBOTTON  , 32.6875 , -84.5197 ,  Talbotton  ,  GA  ,  United States , 1210
+USC00098666  ,  THOMASVILLE 7 NE  , 30.9139 , -83.8611 ,  Thomasville  ,  GA  ,  United States , 546
+USC00098703  ,  TIFTON  , 31.4461 , -83.4767 ,  Tifton  ,  GA  ,  United States , 1381
+USC00098740  ,  TOCCOA  , 34.5786 , -83.3319 ,  Toccoa  ,  GA  ,  United States , 1412
+USC00099141  ,  WARRENTON  , 33.4028 , -82.6222 ,  Warrenton  ,  GA  ,  United States , 1211
+USC00099157  ,  WASHINGTON 2 ESE  , 33.7264 , -82.7058 ,  Washington  ,  GA  ,  United States , 1364
+USC00099186  ,  WAYCROSS 4 NE  , 31.2514 , -82.3128 ,  Blackshear  ,  GA  ,  United States , 1392
+USC00099194  ,  WAYNESBORO 2 S  , 33.0725 , -82.0061 ,  Waynesboro  ,  GA  ,  United States , 1191
+USW00003813  ,  MACON MIDDLE GA RGNL AP  , 32.6847 , -83.6528 ,  Macon  ,  GA  ,  United States , 1440
+USW00003820  ,  AUGUSTA BUSH FLD AP  , 33.3644 , -81.9633 ,  Augusta  ,  GA  ,  United States , 1548
+USW00003822  ,  SAVANNAH INTL AP  , 32.13 , -81.21 ,  Savannah  ,  GA  ,  United States , 1476
+USW00013870  ,  ALMA BACON CO AP  , 31.5358 , -82.5067 ,  Alma  ,  GA  ,  United States , 1461
+USW00013873  ,  ATHENS BEN EPPS AP  , 33.9481 , -83.3275 ,  Athens  ,  GA  ,  United States , 1439
+USW00013874  ,  ATLANTA HARTSFIELD INTL AP  , 33.63 , -84.4417 ,  College Park  ,  GA  ,  United States , 1359
+USW00013878  ,  BRUNSWICK MALCOLM MCKINNON AP  , 31.1522 , -81.3908 ,  Saint Simons Island  ,  GA  ,  United States , 1330
+USW00093801  ,  ROME R B RUSSELL AP  , 34.3478 , -85.1611 ,  Rome  ,  GA  ,  United States , 948
+USW00093842  ,  COLUMBUS METRO AP  , 32.5161 , -84.9422 ,  Columbus  ,  GA  ,  United States , 1452

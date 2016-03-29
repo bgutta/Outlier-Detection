@@ -1,0 +1,70 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00250050  ,  AINSWORTH  , 42.5522 , -99.8556 ,  Ainsworth  ,  NE  ,  United States , 1276
+USC00250130  ,  ALLIANCE 1WNW  , 42.1103 , -102.8967 ,  Alliance  ,  NE  ,  United States , 817
+USC00250365  ,  ARTHUR  , 41.5697 , -101.6914 ,  Arthur  ,  NE  ,  United States , 1146
+USC00250375  ,  ASHLAND NO 2  , 41.0408 , -96.3811 ,  Ashland  ,  NE  ,  United States , 1183
+USC00250420  ,  ATKINSON 3SW  , 42.5136 , -99.0303 ,  Atkinson  ,  NE  ,  United States , 1189
+USC00250435  ,  AUBURN 5 ESE  , 40.3706 , -95.7469 ,  Brownville  ,  NE  ,  United States , 1347
+USC00250640  ,  BEAVER CITY  , 40.1306 , -99.8278 ,  Beaver City  ,  NE  ,  United States , 1408
+USC00250760  ,  BENKELMAN  , 40.0503 , -101.5325 ,  Benkelman  ,  NE  ,  United States , 1417
+USC00250865  ,  BIG SPRINGS  , 41.0469 , -102.1467 ,  Big Springs  ,  NE  ,  United States , 950
+USC00251200  ,  BROKEN BOW 2 W  , 41.4083 , -99.675 ,  Broken Bow  ,  NE  ,  United States , 1312
+USC00251345  ,  BURWELL  , 41.7769 , -99.1433 ,  Burwell  ,  NE  ,  United States , 1189
+USC00251560  ,  CENTRAL CITY  , 41.1222 , -98.0283 ,  Central City  ,  NE  ,  United States , 1295
+USC00251575  ,  CHADRON 3SW  , 42.8083 , -103.0533 ,  Chadron  ,  NE  ,  United States , 1091
+USC00251590  ,  CHAMBERS  , 42.2031 , -98.7467 ,  Chambers  ,  NE  ,  United States , 841
+USC00251825  ,  COLUMBUS 3 NE  , 41.4639 , -97.3278 ,  Columbus  ,  NE  ,  United States , 1277
+USC00252000  ,  CRESCENT LAKE NWR  , 41.7608 , -102.4372 ,  Lakeside  ,  NE  ,  United States , 1064
+USC00252020  ,  CRETE  , 40.6194 , -96.9469 ,  Crete  ,  NE  ,  United States , 1086
+USC00252065  ,  CULBERTSON  , 40.2333 , -100.8292 ,  Culbertson  ,  NE  ,  United States , 1326
+USC00252100  ,  CURTIS 3NNE  , 40.6742 , -100.4936 ,  Curtis  ,  NE  ,  United States , 1039
+USC00252205  ,  DAVID CITY  , 41.2492 , -97.1328 ,  David City  ,  NE  ,  United States , 1266
+USC00252741  ,  ENDERS LAKE  , 40.4181 , -101.5147 ,  Enders  ,  NE  ,  United States , 848
+USC00252805  ,  EWING  , 42.2611 , -98.3417 ,  Ewing  ,  NE  ,  United States , 1328
+USC00252820  ,  FAIRBURY 5S  , 40.0739 , -97.1669 ,  Fairbury  ,  NE  ,  United States , 1405
+USC00253015  ,  FT ROBINSON  , 42.6656 , -103.4617 ,  Harrison  ,  NE  ,  United States , 486
+USC00253175  ,  GENEVA  , 40.5314 , -97.5964 ,  Geneva  ,  NE  ,  United States , 1268
+USC00253185  ,  GENOA 2 W  , 41.4514 , -97.7644 ,  Genoa  ,  NE  ,  United States , 1428
+USC00253355  ,  GORDON 6N  , 42.8947 , -102.2036 ,  Gordon  ,  NE  ,  United States , 1049
+USC00253365  ,  GOTHENBURG  , 40.9394 , -100.1514 ,  Gothenburg  ,  NE  ,  United States , 1332
+USC00253425  ,  GREELEY  , 41.5461 , -98.5331 ,  Greeley  ,  NE  ,  United States , 1299
+USC00253630  ,  HARTINGTON  , 42.6167 , -97.2608 ,  Hartington  ,  NE  ,  United States , 1234
+USC00253660  ,  HASTINGS 4N  , 40.6472 , -98.3836 ,  Hastings  ,  NE  ,  United States , 1285
+USC00253910  ,  HOLDREGE  , 40.4517 , -99.3803 ,  Holdrege  ,  NE  ,  United States , 1336
+USC00254335  ,  KEARNEY 4 NE  , 40.7258 , -99.0133 ,  Kearney  ,  NE  ,  United States , 1307
+USC00254440  ,  KIMBALL 2NE  , 41.2453 , -103.6344 ,  Kimball  ,  NE  ,  United States , 1319
+USC00254455  ,  KINGSLEY DAM  , 41.2097 , -101.6706 ,  Ogallala  ,  NE  ,  United States , 1282
+USC00254900  ,  LODGEPOLE  , 41.1489 , -102.6361 ,  Lodgepole  ,  NE  ,  United States , 1275
+USC00255090  ,  MADRID  , 40.8508 , -101.5428 ,  Madrid  ,  NE  ,  United States , 1188
+USC00255310  ,  MC COOK  , 40.2156 , -100.6203 ,  McCook  ,  NE  ,  United States , 1165
+USC00255388  ,  MEDICINE CREEK DAM  , 40.3761 , -100.2228 ,  Cambridge  ,  NE  ,  United States , 1106
+USC00255590  ,  MITCHELL 5E  , 41.9481 , -103.7008 ,  Mitchell  ,  NE  ,  United States , 1101
+USC00256075  ,  NORTH PLATTE EXP FARM  , 41.0569 , -100.7494 ,  North Platte  ,  NE  ,  United States , 1220
+USC00256135  ,  OAKDALE  , 42.0644 , -97.9667 ,  Oakdale  ,  NE  ,  United States , 1358
+USC00256200  ,  OGALLALA  , 41.1275 , -101.7206 ,  Ogallala  ,  NE  ,  United States , 1230
+USC00256290  ,  O'NEILL  , 42.4594 , -98.6564 ,  O'Neill  ,  NE  ,  United States , 1226
+USC00256570  ,  PAWNEE CITY  , 40.1217 , -96.1558 ,  Pawnee City  ,  NE  ,  United States , 891
+USC00256970  ,  PURDUM  , 42.065 , -100.2472 ,  Purdum  ,  NE  ,  United States , 934
+USC00257040  ,  RAVENNA  , 41.0319 , -98.9214 ,  Ravenna  ,  NE  ,  United States , 1306
+USC00257070  ,  RED CLOUD  , 40.0978 , -98.5197 ,  Red Cloud  ,  NE  ,  United States , 1391
+USC00257715  ,  SEWARD  , 40.8997 , -97.0908 ,  Seward  ,  NE  ,  United States , 1311
+USC00257830  ,  SIDNEY 6 NNW  , 41.2294 , -103.0214 ,  Sidney  ,  NE  ,  United States , 1260
+USC00258090  ,  SPRINGVIEW  , 42.8222 , -99.7467 ,  Springview  ,  NE  ,  United States , 1071
+USC00258320  ,  SUPERIOR 4E  , 40.0314 , -97.9842 ,  Superior  ,  NE  ,  United States , 1343
+USC00258465  ,  TECUMSEH 1S  , 40.3544 , -96.1939 ,  Tecumseh  ,  NE  ,  United States , 1350
+USC00258480  ,  TEKAMAH  , 41.7767 , -96.2328 ,  Tekamah  ,  NE  ,  United States , 1038
+USC00258628  ,  TRENTON DAM  , 40.1739 , -101.0611 ,  Trenton  ,  NE  ,  United States , 1205
+USC00258755  ,  VALENTINE NWR  , 42.5711 , -100.6931 ,  Valentine  ,  NE  ,  United States , 977
+USC00258915  ,  WAKEFIELD  , 42.2647 , -96.8667 ,  Wakefield  ,  NE  ,  United States , 1401
+USC00258935  ,  WALTHILL 1E  , 42.1506 , -96.4756 ,  Walthill  ,  NE  ,  United States , 864
+USW00014935  ,  GRAND ISLAND AP  , 40.9611 , -98.3136 ,  Grand Island  ,  NE  ,  United States , 1301
+USW00014939  ,  LINCOLN MUNI AP  , 40.8508 , -96.7475 ,  Lincoln  ,  NE  ,  United States , 1098
+USW00014941  ,  NORFOLK KARL STEFAN AP  , 41.9856 , -97.4353 ,    ,  NE  ,  United States , 1332
+USW00014942  ,  OMAHA EPPLEY AIRFIELD  , 41.3103 , -95.8992 ,  Omaha  ,  NE  ,  United States , 1328
+USW00024020  ,  HAYES CENTER 1NW  , 40.5233 , -101.0344 ,  Hayes Center  ,  NE  ,  United States , 1223
+USW00024023  ,  NORTH PLATTE RGNL AP  , 41.1214 , -100.6694 ,  North Platte  ,  NE  ,  United States , 1352
+USW00024028  ,  SCOTTSBLUFF HEILIG AP  , 41.8706 , -103.5931 ,  Scottsbluff  ,  NE  ,  United States , 1340
+USW00024030  ,  SIDNEY MUNI AP  , 41.1014 , -102.9847 ,  Sidney  ,  NE  ,  United States , 986
+USW00024032  ,  VALENTINE MILLER FLD  , 42.8783 , -100.55 ,  Valentine  ,  NE  ,  United States , 1280
+USW00024091  ,  IMPERIAL MUNI AP  , 40.51 , -101.62 ,  Imperial  ,  NE  ,  United States , 568
+USW00094957  ,  FALLS CITY BRENNER FLD  , 40.0803 , -95.5919 ,  Falls City  ,  NE  ,  United States , 1266

@@ -1,0 +1,85 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00450176  ,  ANACORTES  , 48.5119 , -122.6136 ,  Anacortes  ,  WA  ,  United States , 1073
+USC00450482  ,  BATTLE GROUND  , 45.7717 , -122.5286 ,  Battle Ground  ,  WA  ,  United States , 1213
+USC00450668  ,  BICKLETON  , 45.9981 , -120.3006 ,  Bickleton  ,  WA  ,  United States , 806
+USC00450729  ,  BLAINE  , 48.9775 , -122.7928 ,  Blaine  ,  WA  ,  United States , 1263
+USC00450872  ,  BREMERTON  , 47.5689 , -122.6828 ,  Bremerton  ,  WA  ,  United States , 1203
+USC00451233  ,  CEDAR LAKE  , 47.4144 , -121.7561 ,  North Bend  ,  WA  ,  United States , 1149
+USC00451350  ,  CHELAN  , 47.8361 , -120.0381 ,  Chelan  ,  WA  ,  United States , 1223
+USC00451395  ,  CHEWELAH  , 48.2733 , -117.7408 ,  Chewelah  ,  WA  ,  United States , 1192
+USC00451400  ,  CHIEF JOSEPH DAM  , 47.9967 , -119.6483 ,  Bridgeport  ,  WA  ,  United States , 1246
+USC00451484  ,  CLEARBROOK  , 48.9672 , -122.3292 ,  Everson  ,  WA  ,  United States , 1329
+USC00451504  ,  CLE ELUM  , 47.1889 , -120.9131 ,  Cle Elum  ,  WA  ,  United States , 1206
+USC00451630  ,  COLVILLE  , 48.5472 , -117.9019 ,  Colville  ,  WA  ,  United States , 442
+USC00451666  ,  CONCONULLY  , 48.5558 , -119.7492 ,  Okanogan  ,  WA  ,  United States , 865
+USC00451679  ,  CONCRETE PPL FISH STN  , 48.5397 , -121.7422 ,  Concrete  ,  WA  ,  United States , 1320
+USC00451760  ,  COUGAR 6 E  , 46.0625 , -122.2042 ,  Ariel  ,  WA  ,  United States , 1100
+USC00451767  ,  COULEE DAM 1 SW  , 47.9544 , -118.9997 ,  Grand Coulee  ,  WA  ,  United States , 1106
+USC00451783  ,  COUPEVILLE 1 S  , 48.2072 , -122.6914 ,  Coupeville  ,  WA  ,  United States , 1307
+USC00451992  ,  DARRINGTON RS  , 48.26 , -121.6036 ,  Darrington  ,  WA  ,  United States , 627
+USC00452030  ,  DAYTON 1 WSW  , 46.3153 , -118.0022 ,  Dayton  ,  WA  ,  United States , 1114
+USC00452157  ,  DIABLO DAM  , 48.7142 , -121.1431 ,  Rockport  ,  WA  ,  United States , 1360
+USC00452505  ,  ELLENSBURG  , 46.9692 , -120.54 ,  Ellensburg  ,  WA  ,  United States , 1187
+USC00452531  ,  ELMA  , 47.0092 , -123.4008 ,  Elma  ,  WA  ,  United States , 1331
+USC00452548  ,  ELWHA RS  , 48.0164 , -123.5906 ,  Port Angeles  ,  WA  ,  United States , 879
+USC00452675  ,  EVERETT  , 47.9753 , -122.195 ,  Everett  ,  WA  ,  United States , 994
+USC00452914  ,  FORKS 1 E  , 47.9558 , -124.3539 ,  Forks  ,  WA  ,  United States , 1289
+USC00453222  ,  GOLDENDALE  , 45.8081 , -120.8428 ,  Goldendale  ,  WA  ,  United States , 642
+USC00453320  ,  GRAYLAND  , 46.8008 , -124.0864 ,  Grayland  ,  WA  ,  United States , 1180
+USC00453529  ,  HARTLINE  , 47.6856 , -119.1111 ,  Hartline  ,  WA  ,  United States , 916
+USC00453546  ,  HATTON 9 SE  , 46.7225 , -118.6525 ,  Lind  ,  WA  ,  United States , 896
+USC00453883  ,  ICE HARBOR DAM  , 46.2447 , -118.8786 ,  Burbank  ,  WA  ,  United States , 1200
+USC00454154  ,  KENNEWICK  , 46.2111 , -119.1011 ,  Kennewick  ,  WA  ,  United States , 1229
+USC00454169  ,  KENT  , 47.4172 , -122.2433 ,  Kent  ,  WA  ,  United States , 981
+USC00454338  ,  LACROSSE  , 46.8167 , -117.8831 ,  LaCrosse  ,  WA  ,  United States , 1057
+USC00454486  ,  LANDSBURG  , 47.3767 , -121.9614 ,  Maple Valley  ,  WA  ,  United States , 1221
+USC00454572  ,  LEAVENWORTH 3 S  , 47.5586 , -120.675 ,  Leavenworth  ,  WA  ,  United States , 965
+USC00454679  ,  LIND 3 NE  , 47.0022 , -118.5658 ,  Ritzville  ,  WA  ,  United States , 1230
+USC00454769  ,  LONGVIEW  , 46.1506 , -122.9164 ,  Kelso  ,  WA  ,  United States , 1259
+USC00455224  ,  MC MILLIN RSVR  , 47.1358 , -122.2558 ,  South Hill  ,  WA  ,  United States , 1190
+USC00455525  ,  MONROE  , 47.8453 , -121.9944 ,  Monroe  ,  WA  ,  United States , 1301
+USC00455659  ,  MT ADAMS RS  , 45.9997 , -121.5403 ,  Trout Lake  ,  WA  ,  United States , 745
+USC00455688  ,  MOXEE CITY 10 E  , 46.5053 , -120.1678 ,  Moxee  ,  WA  ,  United States , 1225
+USC00455704  ,  MUD MTN DAM  , 47.1414 , -121.9356 ,  Enumclaw  ,  WA  ,  United States , 1220
+USC00455840  ,  NEWHALEM  , 48.6758 , -121.2419 ,  Rockport  ,  WA  ,  United States , 1117
+USC00455946  ,  NORTHPORT  , 48.8742 , -117.8667 ,  Kettle Falls  ,  WA  ,  United States , 1263
+USC00456039  ,  ODESSA  , 47.3328 , -118.6944 ,  Odessa  ,  WA  ,  United States , 1296
+USC00456096  ,  OLGA 2 SE  , 48.6117 , -122.8064 ,  Olga  ,  WA  ,  United States , 1317
+USC00456262  ,  PACKWOOD  , 46.6092 , -121.6744 ,  Packwood  ,  WA  ,  United States , 1302
+USC00456295  ,  PALMER 3 ESE  , 47.3058 , -121.8514 ,  Ravensdale  ,  WA  ,  United States , 1093
+USC00456534  ,  PLAIN  , 47.785 , -120.6456 ,  Leavenworth  ,  WA  ,  United States , 1259
+USC00456610  ,  POMEROY  , 46.4672 , -117.5883 ,  Pomeroy  ,  WA  ,  United States , 978
+USC00456747  ,  PRIEST RAPIDS DAM  , 46.6461 , -119.9061 ,  Mattawa  ,  WA  ,  United States , 1149
+USC00456768  ,  PROSSER  , 46.2014 , -119.7581 ,  Prosser  ,  WA  ,  United States , 1089
+USC00456789  ,  PULLMAN 2 NW  , 46.7603 , -117.1861 ,  Pullman  ,  WA  ,  United States , 1315
+USC00456846  ,  QUILCENE 2 SW  , 47.8092 , -122.9136 ,  Quilcene  ,  WA  ,  United States , 778
+USC00456880  ,  QUINCY  , 47.2236 , -119.8525 ,  Quincy  ,  WA  ,  United States , 1255
+USC00456898  ,  RAINIER PARADISE RS  , 46.7858 , -121.7425 ,  Ashford  ,  WA  ,  United States , 924
+USC00456974  ,  REPUBLIC  , 48.6469 , -118.7314 ,  Republic  ,  WA  ,  United States , 1340
+USC00457015  ,  RICHLAND  , 46.3119 , -119.2633 ,  Richland  ,  WA  ,  United States , 1257
+USC00457059  ,  RITZVILLE 1 SSE  , 47.1178 , -118.3722 ,  Ritzville  ,  WA  ,  United States , 1228
+USC00457180  ,  ROSALIA  , 47.2325 , -117.3625 ,  Rosalia  ,  WA  ,  United States , 1224
+USC00457507  ,  SEDRO WOOLLEY  , 48.4958 , -122.2355 ,  Sedro-Woolley  ,  WA  ,  United States , 1145
+USC00458034  ,  STARTUP 1 E  , 47.8664 , -121.7175 ,  Sultan  ,  WA  ,  United States , 1214
+USC00458059  ,  STEHEKIN 4 NW  , 48.3508 , -120.7264 ,  Stehekin  ,  WA  ,  United States , 1227
+USC00458207  ,  SUNNYSIDE  , 46.3236 , -120.0103 ,  Sunnyside  ,  WA  ,  United States , 1261
+USC00458773  ,  VANCOUVER 4 NNE  , 45.6778 , -122.6511 ,  Vancouver  ,  WA  ,  United States , 1216
+USC00458959  ,  WAPATO  , 46.4353 , -120.4203 ,  Wapato  ,  WA  ,  United States , 1200
+USC00459012  ,  WATERVILLE  , 47.6497 , -120.08 ,  East Wenatchee  ,  WA  ,  United States , 1084
+USC00459074  ,  WENATCHEE  , 47.4289 , -120.31 ,  Wenatchee  ,  WA  ,  United States , 1275
+USC00459238  ,  WILBUR  , 47.7681 , -118.7239 ,  Wilbur  ,  WA  ,  United States , 1116
+USC00459376  ,  WINTHROP 1 WSW  , 48.4742 , -120.1886 ,  Winthrop  ,  WA  ,  United States , 1227
+USW00024110  ,  MOSES LAKE GRANT CO AP  , 47.2078 , -119.3192 ,  Moses Lake  ,  WA  ,  United States , 464
+USW00024141  ,  EPHRATA MUNI AP  , 47.3078 , -119.5153 ,  Ephrata  ,  WA  ,  United States , 1267
+USW00024157  ,  SPOKANE INTL AP  , 47.6217 , -117.5281 ,  Spokane  ,  WA  ,  United States , 1275
+USW00024160  ,  WALLA WALLA RGNL AP  , 46.0947 , -118.2869 ,  Walla Walla  ,  WA  ,  United States , 1146
+USW00024217  ,  BELLINGHAM INTL AP  , 48.7939 , -122.5372 ,  Bellingham  ,  WA  ,  United States , 1294
+USW00024219  ,  THE DALLES MUNI AP  , 45.6194 , -121.1661 ,  Dallesport  ,  WA  ,  United States , 1282
+USW00024227  ,  OLYMPIA AP  , 46.9733 , -122.9033 ,  Olympia  ,  WA  ,  United States , 1361
+USW00024233  ,  SEATTLE TACOMA INTL AP  , 47.4444 , -122.3139 ,  SeaTac  ,  WA  ,  United States , 1181
+USW00024237  ,  STAMPEDE PASS  , 47.2767 , -121.3372 ,  Easton  ,  WA  ,  United States , 965
+USW00024243  ,  YAKIMA AIR TERMINAL  , 46.5683 , -120.5428 ,  Yakima  ,  WA  ,  United States , 1334
+USW00024255  ,  WHIDBEY ISLAND NAS  , 48.35 , -122.6667 ,  Oak Harbor  ,  WA  ,  United States , 1265
+USW00094197  ,  OMAK AP  , 48.4608 , -119.5167 ,  Omak  ,  WA  ,  United States , 877
+USW00094225  ,  HOQUIAM BOWERMAN AP  , 46.9728 , -123.9303 ,  Hoquiam  ,  WA  ,  United States , 1284
+USW00094239  ,  WENATCHEE PANGBORN AP  , 47.3978 , -120.2014 ,  East Wenatchee  ,  WA  ,  United States , 1242

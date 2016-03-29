@@ -1,0 +1,38 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00260507  ,  AUSTIN #2  , 39.4931 , -117.0675 ,  Austin  ,  NV  ,  United States , 980
+USC00260795  ,  BEOWAWE  , 40.5903 , -116.475 ,  Crescent Valley  ,  NV  ,  United States , 1082
+USC00261485  ,  CARSON CITY  , 39.1253 , -119.7678 ,  Carson City  ,  NV  ,  United States , 1001
+USC00262229  ,  DENIO  , 41.9892 , -118.6339 ,  Denio  ,  NV  ,  United States , 1124
+USC00262243  ,  DESERT NWR  , 36.4381 , -115.36 ,  Las Vegas  ,  NV  ,  United States , 987
+USC00262431  ,  DYER  , 37.615 , -118.0106 ,  Dyer  ,  NV  ,  United States , 1125
+USC00262780  ,  FALLON EXP STN  , 39.4572 , -118.7811 ,  Fallon  ,  NV  ,  United States , 1272
+USC00263090  ,  GERLACH  , 40.655 , -119.3514 ,  Gerlach  ,  NV  ,  United States , 896
+USC00263205  ,  GLENBROOK  , 39.0753 , -119.9411 ,  Glenbrook  ,  NV  ,  United States , 1034
+USC00263957  ,  IMLAY  , 40.6564 , -118.1631 ,  Imlay  ,  NV  ,  United States , 791
+USC00264349  ,  LAHONTAN DAM  , 39.4689 , -119.0644 ,  Fallon  ,  NV  ,  United States , 588
+USC00264527  ,  LEONARD CREEK RCH  , 41.5167 , -118.7192 ,  Winnemucca  ,  NV  ,  United States , 1113
+USC00264698  ,  LOVELOCK  , 40.1906 , -118.4767 ,  Lovelock  ,  NV  ,  United States , 1157
+USC00264950  ,  MCGILL  , 39.4136 , -114.7733 ,  McGill  ,  NV  ,  United States , 1216
+USC00265168  ,  MINA  , 38.3844 , -118.1056 ,  Mina  ,  NV  ,  United States , 1099
+USC00265191  ,  MINDEN  , 38.9547 , -119.7758 ,  Minden  ,  NV  ,  United States , 1230
+USC00265352  ,  MONTELLO 2NE  , 41.2783 , -114.1708 ,  Montello  ,  NV  ,  United States , 1061
+USC00265818  ,  OROVADA 3 W  , 41.5683 , -117.8389 ,  Winnemucca  ,  NV  ,  United States , 1219
+USC00266252  ,  PIOCHE  , 37.9344 , -114.45 ,  Pioche  ,  NV  ,  United States , 1155
+USC00267123  ,  RUBY LAKE NWR  , 40.2022 , -115.493 ,  Ruby Valley  ,  NV  ,  United States , 1099
+USC00267175  ,  RUTH  , 39.2764 , -114.9911 ,  Ruth  ,  NV  ,  United States , 884
+USC00267192  ,  RYE PATCH DAM  , 40.4661 , -118.3047 ,  Lovelock  ,  NV  ,  United States , 1359
+USC00267369  ,  SEARCHLIGHT  , 35.4661 , -114.9217 ,  Searchlight  ,  NV  ,  United States , 1181
+USC00267620  ,  SMOKEY VALLEY - CARVERS  , 38.7839 , -117.1739 ,  Round Mountain  ,  NV  ,  United States , 1044
+USC00268186  ,  TOPAZ LAKE  , 38.6944 , -119.5453 ,  Gardnerville  ,  NV  ,  United States , 621
+USC00268346  ,  TUSCARORA  , 41.3144 , -116.2225 ,  Tuscarora  ,  NV  ,  United States , 813
+USC00268761  ,  VIRGINIA CITY  , 39.3128 , -119.6483 ,  Virginia City  ,  NV  ,  United States , 904
+USC00269229  ,  YERINGTON  , 38.9992 , -119.1575 ,  Yerington  ,  NV  ,  United States , 989
+USW00023153  ,  TONOPAH  , 38.0511 , -117.0903 ,  Tonopah  ,  NV  ,  United States , 1259
+USW00023154  ,  ELY YELLAND FLD AP  , 39.2953 , -114.8467 ,  Ely  ,  NV  ,  United States , 1399
+USW00023169  ,  LAS VEGAS MCCARRAN AP  , 36.0719 , -115.1633 ,  Las Vegas  ,  NV  ,  United States , 1353
+USW00023185  ,  RENO TAHOE INTL AP  , 39.4839 , -119.7711 ,  Reno  ,  NV  ,  United States , 1419
+USW00024119  ,  BATTLE MOUNTAIN 4SE  , 40.6117 , -116.8917 ,  Battle Mountain  ,  NV  ,  United States , 1328
+USW00024121  ,  ELKO RGNL AP  , 40.8289 , -115.7886 ,  Elko  ,  NV  ,  United States , 1416
+USW00024128  ,  WINNEMUCCA MUNI AP  , 40.9017 , -117.8081 ,  Winnemucca  ,  NV  ,  United States , 1469
+USW00024172  ,  LOVELOCK DERBY FLD  , 40.0681 , -118.5692 ,  Lovelock  ,  NV  ,  United States , 1231
+USW00093102  ,  FALLON NAAS  , 39.4167 , -118.7167 ,  Fallon  ,  NV  ,  United States , 1036

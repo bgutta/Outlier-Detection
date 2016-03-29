@@ -1,0 +1,78 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00290041  ,  ABIQUIU DAM  , 36.2403 , -106.4278 ,  Gallina  ,  NM  ,  United States , 1200
+USC00290245  ,  ALCALDE  , 36.0908 , -106.0567 ,  Ohkay Owingeh  ,  NM  ,  United States , 1113
+USC00290377  ,  AMISTAD 5 SSW  , 35.8742 , -103.1819 ,  Amistad  ,  NM  ,  United States , 1201
+USC00290417  ,  ANIMAS 3ESE  , 31.9381 , -108.7689 ,  Animas  ,  NM  ,  United States , 1188
+USC00290600  ,  ARTESIA 6S  , 32.7547 , -104.3836 ,  Artesia  ,  NM  ,  United States , 1341
+USC00290640  ,  AUGUSTINE 2E  , 34.075 , -107.6211 ,  Magdalena  ,  NM  ,  United States , 895
+USC00290692  ,  AZTEC RUINS NM  , 36.835 , -108.0006 ,  Aztec  ,  NM  ,  United States , 1117
+USC00290983  ,  BINGHAM 2 NE  , 33.9114 , -106.3494 ,  San Antonio  ,  NM  ,  United States , 812
+USC00290992  ,  BITTER LAKES WR  , 33.4594 , -104.4042 ,  Roswell  ,  NM  ,  United States , 824
+USC00291063  ,  BLOOMFIELD 3 SE  , 36.6669 , -107.9603 ,  Bloomfield  ,  NM  ,  United States , 980
+USC00291138  ,  BOSQUE DEL APACHE  , 33.8044 , -106.8908 ,  San Antonio  ,  NM  ,  United States , 707
+USC00291469  ,  CARLSBAD  , 32.3478 , -104.2225 ,  Carlsbad  ,  NM  ,  United States , 987
+USC00291480  ,  CARLSBAD CAVERNS  , 32.1783 , -104.4433 ,  Carlsbad  ,  NM  ,  United States , 949
+USC00291630  ,  CERRO  , 36.7408 , -105.5956 ,  Questa  ,  NM  ,  United States , 968
+USC00291664  ,  CHAMA  , 36.9178 , -106.5781 ,  Chama  ,  NM  ,  United States , 1377
+USC00291813  ,  CIMARRON 4 SW  , 36.4661 , -104.9456 ,  Cimarron  ,  NM  ,  United States , 1315
+USC00291963  ,  CLOVIS 13 N  , 34.5989 , -103.2161 ,  Clovis  ,  NM  ,  United States , 1244
+USC00292030  ,  CONCHAS DAM  , 35.4072 , -104.1906 ,  Conchas  ,  NM  ,  United States , 1290
+USC00292510  ,  DILIA  , 35.1842 , -105.0569 ,  La Loma  ,  NM  ,  United States , 1355
+USC00292608  ,  DULCE  , 36.9358 , -107 ,  Dulce  ,  NM  ,  United States , 1395
+USC00292785  ,  EL MORRO NATL MON  , 35.0381 , -108.3492 ,  Ramah  ,  NM  ,  United States , 1317
+USC00292837  ,  EL VADO DAM  , 36.5928 , -106.73 ,  Tierra Amarilla  ,  NM  ,  United States , 1361
+USC00292854  ,  ELIDA  , 33.9403 , -103.6572 ,  Elida  ,  NM  ,  United States , 1198
+USC00293060  ,  ESTANCIA 4N  , 34.8242 , -106.0344 ,  Moriarty  ,  NM  ,  United States , 1097
+USC00293488  ,  GASCON  , 35.8917 , -105.4481 ,  Rociada  ,  NM  ,  United States , 1341
+USC00293530  ,  GILA HOT SPRINGS  , 33.1975 , -108.2075 ,  Mimbres  ,  NM  ,  United States , 1083
+USC00293649  ,  GRAN QUIVIRA NATL MON  , 34.2594 , -106.0931 ,  Claunch  ,  NM  ,  United States , 1084
+USC00293706  ,  GRENVILLE  , 36.5939 , -103.6192 ,  Grenville  ,  NM  ,  United States , 1102
+USC00293775  ,  HACHITA  , 31.9175 , -108.3247 ,  Hachita  ,  NM  ,  United States , 845
+USC00294026  ,  HOBBS  , 32.7264 , -103.1314 ,  Hobbs  ,  NM  ,  United States , 1161
+USC00294346  ,  JAL  , 32.1103 , -103.1872 ,  Jal  ,  NM  ,  United States , 1103
+USC00294369  ,  JEMEZ SPRINGS  , 35.7783 , -106.6872 ,  Jemez Springs  ,  NM  ,  United States , 982
+USC00294426  ,  JORNADA EXP RANGE  , 32.6161 , -106.7403 ,  Las Cruces  ,  NM  ,  United States , 770
+USC00294742  ,  LAKE MALOYA  , 36.9825 , -104.3753 ,  Raton  ,  NM  ,  United States , 1386
+USC00295084  ,  LOS ALAMOS  , 35.8644 , -106.3214 ,  Los Alamos  ,  NM  ,  United States , 1352
+USC00295150  ,  LOS LUNAS 3 SSW  , 34.7675 , -106.7611 ,  Los Lunas  ,  NM  ,  United States , 1309
+USC00295273  ,  LUNA RS  , 33.8225 , -108.9417 ,  Luna  ,  NM  ,  United States , 1175
+USC00295490  ,  MAXWELL 3 NW  , 36.5697 , -104.5867 ,  Maxwell  ,  NM  ,  United States , 1108
+USC00295560  ,  MCGAFFEY 5 SE  , 35.3364 , -108.4447 ,  Fort Wingate  ,  NM  ,  United States , 987
+USC00295617  ,  MELROSE  , 34.4278 , -103.625 ,  Melrose  ,  NM  ,  United States , 1335
+USC00295937  ,  MOSQUERO 1 NE  , 35.8022 , -103.9439 ,  Mosquero  ,  NM  ,  United States , 1258
+USC00295960  ,  MTN PARK  , 32.9539 , -105.8225 ,  High Rolls  ,  NM  ,  United States , 1066
+USC00295965  ,  MOUNTAINAIR  , 34.5208 , -106.2606 ,  Mountainair  ,  NM  ,  United States , 1188
+USC00296435  ,  OROGRANDE  , 32.3789 , -106.0925 ,  Orogrande  ,  NM  ,  United States , 1004
+USC00296465  ,  OTIS  , 36.3339 , -107.8408 ,  Bloomfield  ,  NM  ,  United States , 800
+USC00296619  ,  PASAMONTE  , 36.2994 , -103.7408 ,  Grenville  ,  NM  ,  United States , 1265
+USC00296676  ,  PECOS NM  , 35.5489 , -105.6886 ,  Pecos  ,  NM  ,  United States , 1018
+USC00296687  ,  PEDERNAL 9 E  , 34.6153 , -105.4739 ,  Encino  ,  NM  ,  United States , 1269
+USC00297008  ,  PORTALES  , 34.1742 , -103.3519 ,  Portales  ,  NM  ,  United States , 1389
+USC00297180  ,  QUEMADO  , 34.3447 , -108.4922 ,  Quemado  ,  NM  ,  United States , 842
+USC00297226  ,  RAGLAND 3 SSW  , 34.78 , -103.7492 ,  McAlister  ,  NM  ,  United States , 1177
+USC00297279  ,  RATON FLTR PLT  , 36.9194 , -104.4325 ,  Raton  ,  NM  ,  United States , 1246
+USC00297323  ,  RED RIVER  , 36.71 , -105.4164 ,  Red River  ,  NM  ,  United States , 1380
+USC00297340  ,  REDROCK 1 NNE  , 32.7047 , -108.7281 ,  Redrock  ,  NM  ,  United States , 1480
+USC00297386  ,  RESERVE RS  , 33.7158 , -108.7769 ,  Reserve  ,  NM  ,  United States , 816
+USC00297649  ,  RUIDOSO  , 33.3678 , -105.6611 ,  Ruidoso  ,  NM  ,  United States , 1083
+USC00297867  ,  SAN JON  , 35.1086 , -103.3283 ,  San Jon  ,  NM  ,  United States , 1265
+USC00298501  ,  SPRINGER  , 36.3628 , -104.585 ,  Springer  ,  NM  ,  United States , 1062
+USC00298518  ,  STANLEY 2 NNE  , 35.1767 , -105.9439 ,    ,  NM  ,  United States , 1259
+USC00298535  ,  STATE UNIV  , 32.2822 , -106.7597 ,  Las Cruces  ,  NM  ,  United States , 1380
+USC00298713  ,  TATUM  , 33.2422 , -103.3611 ,  McDonald  ,  NM  ,  United States , 1103
+USC00299156  ,  TUCUMCARI 4 NE  , 35.2006 , -103.6867 ,  Tucumcari  ,  NM  ,  United States , 1277
+USC00299330  ,  VALMORA  , 35.8167 , -104.9244 ,  Valmora  ,  NM  ,  United States , 1117
+USC00299686  ,  WHITE SANDS NATL MON  , 32.7822 , -106.1758 ,  Tularosa  ,  NM  ,  United States , 1301
+USC00299806  ,  WINSTON  , 33.3497 , -107.6492 ,  Winston  ,  NM  ,  United States , 634
+USC00299820  ,  WOLF CANYON  , 35.9478 , -106.7469 ,  Jemez Springs  ,  NM  ,  United States , 1283
+USW00023009  ,  ROSWELL IND AIR PK  , 33.3075 , -104.5083 ,  Roswell  ,  NM  ,  United States , 1267
+USW00023048  ,  TUCUMCARI MUNI AP  , 35.1822 , -103.6031 ,  Tucumcari  ,  NM  ,  United States , 846
+USW00023050  ,  ALBUQUERQUE INTL AP  , 35.0419 , -106.6156 ,  Albuquerque  ,  NM  ,  United States , 1399
+USW00023051  ,  CLAYTON MUNI AIR PK  , 36.4486 , -103.1539 ,  Clayton  ,  NM  ,  United States , 1188
+USW00023052  ,  RATON MUNI CREWS AP  , 36.7414 , -104.5022 ,  Raton  ,  NM  ,  United States , 527
+USW00023054  ,  LAS VEGAS MUNI AP  , 35.6542 , -105.1419 ,  Las Vegas  ,  NM  ,  United States , 1330
+USW00023090  ,  FARMINGTON RGNL AP  , 36.7436 , -108.2292 ,  Farmington  ,  NM  ,  United States , 568
+USW00093033  ,  CARLSBAD CAVERN CITY AP  , 32.3336 , -104.2581 ,  Carlsbad  ,  NM  ,  United States , 1387
+USW00093044  ,  ZUNI  , 35.0706 , -108.8389 ,  Zuni  ,  NM  ,  United States , 1025
+USW00093045  ,  TRUTH OR CONSEQUENCE AP  , 33.2367 , -107.2681 ,  Elephant Butte  ,  NM  ,  United States , 906
+USW00093057  ,  GRANTS MILAN MUNI AP  , 35.1664 , -107.8992 ,  Milan  ,  NM  ,  United States , 1191

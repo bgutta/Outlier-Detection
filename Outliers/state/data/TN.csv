@@ -1,0 +1,53 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00400081  ,  ALLARDT  , 36.3806 , -84.8744 ,  Jamestown  ,  TN  ,  United States , 1237
+USC00400876  ,  BOLIVAR WTR WKS  , 35.2622 , -88.9892 ,  Bolivar  ,  TN  ,  United States , 1380
+USC00401790  ,  CLARKSVILLE WWTP  , 36.5472 , -87.3353 ,  Clarksville  ,  TN  ,  United States , 1291
+USC00401808  ,  CLEVELAND FLTR PLT  , 35.2203 , -84.7981 ,  Cleveland  ,  TN  ,  United States , 1300
+USC00401957  ,  COLUMBIA 3 WNW  , 35.6381 , -87.0864 ,  Columbia  ,  TN  ,  United States , 1209
+USC00402009  ,  COOKEVILLE  , 36.1075 , -85.5033 ,  Cookeville  ,  TN  ,  United States , 1349
+USC00402108  ,  COVINGTON 3 SW  , 35.5497 , -89.7 ,  Brighton  ,  TN  ,  United States , 1346
+USC00402202  ,  CROSSVILLE ED & RESEARCH  , 36.0147 , -85.1314 ,  Crossville  ,  TN  ,  United States , 1304
+USC00402360  ,  DAYTON 2SE  , 35.4717 , -84.9947 ,  Dayton  ,  TN  ,  United States , 1209
+USC00402489  ,  DICKSON  , 36.075 , -87.3958 ,  Dickson  ,  TN  ,  United States , 1340
+USC00402589  ,  DOVER 1 W  , 36.4819 , -87.8628 ,  Dover  ,  TN  ,  United States , 1119
+USC00402600  ,  DRESDEN  , 36.2836 , -88.7064 ,  Dresden  ,  TN  ,  United States , 1271
+USC00403074  ,  FAYETTEVILLE WTP  , 35.15 , -86.5411 ,  Fayetteville  ,  TN  ,  United States , 1220
+USC00403280  ,  FRANKLIN SEWAGE PLT  , 35.9417 , -86.8686 ,  Franklin  ,  TN  ,  United States , 1291
+USC00403420  ,  GATLINBURG 2 SW  , 35.6878 , -83.5369 ,  Gatlinburg  ,  TN  ,  United States , 1254
+USC00403679  ,  GREENEVILLE EXP STN  , 36.1056 , -82.8436 ,  Greeneville  ,  TN  ,  United States , 1348
+USC00404561  ,  JACKSON EXP STN  , 35.6214 , -88.8456 ,  Jackson  ,  TN  ,  United States , 1314
+USC00404858  ,  KINGSPORT  , 36.5194 , -82.5275 ,  Kingsport  ,  TN  ,  United States , 1299
+USC00404987  ,  LAFAYETTE  , 36.5192 , -86.03 ,  Lafayette  ,  TN  ,  United States , 1272
+USC00405089  ,  LAWRENCEBURG FILT PLT  , 35.2436 , -87.3508 ,  Lawrenceburg  ,  TN  ,  United States , 1347
+USC00405187  ,  LEWISBURG EXP STN  , 35.4139 , -86.8086 ,  Lewisburg  ,  TN  ,  United States , 1426
+USC00405681  ,  MARTIN U OF T BRANCH E  , 36.3444 , -88.8636 ,  Martin  ,  TN  ,  United States , 1247
+USC00405882  ,  MC MINNVILLE  , 35.6722 , -85.7811 ,  McMinnville  ,  TN  ,  United States , 1407
+USC00406012  ,  MILAN EXP STN  , 35.9328 , -88.7267 ,  Milan  ,  TN  ,  United States , 1264
+USC00406162  ,  MONTEAGLE  , 35.2244 , -85.8417 ,  Monteagle  ,  TN  ,  United States , 1311
+USC00406292  ,  MTN CITY 2  , 36.4739 , -81.8033 ,  Mountain City  ,  TN  ,  United States , 825
+USC00406340  ,  MT PLEASANT 1N  , 35.5572 , -87.2019 ,  Mount Pleasant  ,  TN  ,  United States , 1143
+USC00406371  ,  MURFREESBORO 5 N  , 35.9203 , -86.3728 ,  Murfreesboro  ,  TN  ,  United States , 1342
+USC00406534  ,  NEWPORT 1 NW  , 35.9833 , -83.2008 ,  Newport  ,  TN  ,  United States , 1452
+USC00406619  ,  NORRIS  , 36.2131 , -84.0603 ,  Andersonville  ,  TN  ,  United States , 1228
+USC00406829  ,  ONEIDA  , 36.5028 , -84.5308 ,  Oneida  ,  TN  ,  United States , 1024
+USC00406977  ,  PARIS 2 SE  , 36.2872 , -88.2958 ,  Paris  ,  TN  ,  United States , 1313
+USC00407359  ,  PORTLAND SEWAGE PLT  , 36.5875 , -86.5258 ,  Portland  ,  TN  ,  United States , 1255
+USC00407459  ,  PULASKI WWTP  , 35.1842 , -87.0422 ,  Pulaski  ,  TN  ,  United States , 1319
+USC00407884  ,  ROGERSVILLE 1 NE  , 36.4161 , -82.9839 ,  Rogersville  ,  TN  ,  United States , 1310
+USC00408065  ,  SAMBURG WR  , 36.4528 , -89.3028 ,  Union City  ,  TN  ,  United States , 932
+USC00408108  ,  SAVANNAH 6 SW  , 35.1525 , -88.3214 ,  Shiloh  ,  TN  ,  United States , 1278
+USC00408160  ,  SELMER  , 35.1647 , -88.5994 ,  Selmer  ,  TN  ,  United States , 1354
+USC00408179  ,  SEVIERVILLE  , 35.9297 , -83.5983 ,  Sevierville  ,  TN  ,  United States , 1223
+USC00408246  ,  SHELBYVILLE WATER DEPT  , 35.4922 , -86.4775 ,  Shelbyville  ,  TN  ,  United States , 1198
+USC00408562  ,  SPRINGFIELD EXP STN  , 36.4711 , -86.8414 ,  Springfield  ,  TN  ,  United States , 1217
+USC00409155  ,  TULLAHOMA  , 35.3453 , -86.2089 ,  Tullahoma  ,  TN  ,  United States , 1347
+USC00409866  ,  WOODBURY 1 WNW  , 35.8375 , -86.0894 ,  Woodbury  ,  TN  ,  United States , 1525
+USW00003809  ,  DYERSBURG III GOLF  , 36.0003 , -89.41 ,  Dyersburg  ,  TN  ,  United States , 942
+USW00003811  ,  JACKSON MCKELLAR AP  , 35.5931 , -88.9167 ,  Denmark  ,  TN  ,  United States , 1369
+USW00003841  ,  OAK RIDGE ATDD  , 36.0028 , -84.2486 ,  Oak Ridge  ,  TN  ,  United States , 1413
+USW00003847  ,  CROSSVILLE MEM AP  , 35.9508 , -85.0814 ,  Crossville  ,  TN  ,  United States , 1399
+USW00013877  ,  BRISTOL TRI CITY AP  , 36.4731 , -82.4044 ,  Blountville  ,  TN  ,  United States , 1380
+USW00013882  ,  CHATTANOOGA LOVELL AP  , 35.0311 , -85.2014 ,  Chattanooga  ,  TN  ,  United States , 1451
+USW00013891  ,  KNOXVILLE MCGHEE TYSON AP  , 35.8181 , -83.9858 ,  Alcoa  ,  TN  ,  United States , 1421
+USW00013893  ,  MEMPHIS INTL AP  , 35.0564 , -89.9864 ,  Memphis  ,  TN  ,  United States , 1344
+USW00013897  ,  NASHVILLE INTL AP  , 36.1189 , -86.6892 ,  Nashville  ,  TN  ,  United States , 1411

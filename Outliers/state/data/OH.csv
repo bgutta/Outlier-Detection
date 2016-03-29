@@ -1,0 +1,60 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00330563  ,  BELLEFONTAINE  , 40.3533 , -83.7747 ,  Bellefontaine  ,  OH  ,  United States , 1230
+USC00330862  ,  BOWLING GREEN WWTP  , 41.3831 , -83.6111 ,  Bowling Green  ,  OH  ,  United States , 1224
+USC00331072  ,  BUCYRUS  , 40.8128 , -83.6111 ,  Dunkirk  ,  OH  ,  United States , 1220
+USC00331390  ,  CELINA 3 NE  , 40.5694 , -84.5364 ,  Celina  ,  OH  ,  United States , 1265
+USC00331404  ,  CENTERBURG 2 SE  , 40.2914 , -82.6547 ,  Centerburg  ,  OH  ,  United States , 988
+USC00331458  ,  CHARDON  , 41.5833 , -81.1833 ,  Chardon  ,  OH  ,  United States , 1366
+USC00331541  ,  CHIPPEWA LAKE  , 41.0517 , -81.9361 ,  Medina  ,  OH  ,  United States , 1204
+USC00331783  ,  COLUMBUS-VALLEY CROSSING  , 39.9047 , -82.92 ,  Columbus  ,  OH  ,  United States , 1105
+USC00331905  ,  COSHOCTON AG RSCH STN  , 40.3708 , -81.7908 ,  Fresno  ,  OH  ,  United States , 1192
+USC00332067  ,  DAYTON-MCD  , 39.7633 , -84.1911 ,  Dayton  ,  OH  ,  United States , 1210
+USC00332098  ,  DEFIANCE  , 41.2783 , -84.3847 ,  Defiance  ,  OH  ,  United States , 1192
+USC00332251  ,  DORSET  , 41.6833 , -80.6667 ,  Dorset  ,  OH  ,  United States , 1256
+USC00332485  ,  EATON  , 39.7347 , -84.6336 ,  Eaton  ,  OH  ,  United States , 1247
+USC00332599  ,  ELYRIA 3 E  , 41.3814 , -82.0558 ,  North Ridgeville  ,  OH  ,  United States , 1345
+USC00332791  ,  FINDLAY WPCC  , 41.0461 , -83.6622 ,  Findlay  ,  OH  ,  United States , 1269
+USC00332974  ,  FREMONT  , 41.3331 , -83.1189 ,  Fremont  ,  OH  ,  United States , 1100
+USC00333029  ,  GALLIPOLIS  , 38.8203 , -82.1822 ,  Gallipolis  ,  OH  ,  United States , 1149
+USC00333375  ,  GREENVILLE WTP  , 40.1 , -84.65 ,  Greenville  ,  OH  ,  United States , 1250
+USC00333780  ,  HIRAM  , 41.3072 , -81.0133 ,  Garrettsville  ,  OH  ,  United States , 1146
+USC00334004  ,  JACKSON 3 NW  , 39.08 , -82.7078 ,  Jackson  ,  OH  ,  United States , 1120
+USC00334551  ,  LIMA WWTP  , 40.7247 , -84.1294 ,  Lima  ,  OH  ,  United States , 1168
+USC00334681  ,  LONDON STATE FISH HATCHERY  , 39.8972 , -83.5097 ,  London  ,  OH  ,  United States , 1015
+USC00334874  ,  MANSFIELD 5 W  , 40.7667 , -82.6167 ,  Ontario  ,  OH  ,  United States , 1063
+USC00334942  ,  MARION 2 N  , 40.6167 , -83.1333 ,  Marion  ,  OH  ,  United States , 1280
+USC00334979  ,  MARYSVILLE  , 40.2411 , -83.3669 ,  Marysville  ,  OH  ,  United States , 1261
+USC00335297  ,  MILLERSBURG  , 40.5375 , -81.9197 ,  Millersburg  ,  OH  ,  United States , 1099
+USC00335315  ,  MILLPORT 4 NE  , 40.7692 , -80.8561 ,  Lisbon  ,  OH  ,  United States , 1300
+USC00335747  ,  NEWARK WATER WKS  , 40.0875 , -82.4128 ,  Newark  ,  OH  ,  United States , 1366
+USC00335857  ,  NEW LEXINGTON 2 NW  , 39.7333 , -82.2156 ,  New Lexington  ,  OH  ,  United States , 1227
+USC00336118  ,  NORWALK WWTP  , 41.2667 , -82.6167 ,  Norwalk  ,  OH  ,  United States , 1170
+USC00336389  ,  PAINESVILLE 4 NW  , 41.7525 , -81.2956 ,  Mentor  ,  OH  ,  United States , 1253
+USC00336405  ,  PANDORA  , 40.9461 , -83.9614 ,  Pandora  ,  OH  ,  United States , 1286
+USC00336465  ,  PAULDING  , 41.1247 , -84.5919 ,  Paulding  ,  OH  ,  United States , 1068
+USC00336600  ,  PHILO 3 SW  , 39.8386 , -81.9167 ,  Philo  ,  OH  ,  United States , 1255
+USC00336781  ,  PORTSMOUTH-SCIOTOVILLE  , 38.7569 , -82.8872 ,  Portsmouth  ,  OH  ,  United States , 1243
+USC00337559  ,  SENECAVILLE LAKE  , 39.9222 , -81.4347 ,  Senecaville  ,  OH  ,  United States , 588
+USC00338025  ,  STEUBENVILLE  , 40.3764 , -80.6283 ,  Steubenville  ,  OH  ,  United States , 1207
+USC00338534  ,  UPPER SANDUSKY  , 40.8333 , -83.2833 ,  Upper Sandusky  ,  OH  ,  United States , 1152
+USC00338552  ,  URBANA WWTP  , 40.0986 , -83.7822 ,  Urbana  ,  OH  ,  United States , 1211
+USC00338609  ,  VAN WERT 1 S  , 40.8494 , -84.5808 ,  Van Wert  ,  OH  ,  United States , 1153
+USC00338769  ,  WARREN 3 S  , 41.2019 , -80.8106 ,  Warren  ,  OH  ,  United States , 1293
+USC00338794  ,  WASHINGTON COURT HOUSE WWTP  , 39.5353 , -83.4239 ,  Washington Court House  ,  OH  ,  United States , 1056
+USC00338822  ,  WAUSEON WTP  , 41.5183 , -84.1453 ,  Wauseon  ,  OH  ,  United States , 1210
+USC00338951  ,  WESTERVILLE  , 40.1264 , -82.9433 ,  Westerville  ,  OH  ,  United States , 1186
+USC00339219  ,  WILMINGTON 3 N  , 39.4833 , -83.85 ,  Wilmington  ,  OH  ,  United States , 1235
+USC00339312  ,  WOOSTER EXP STATION  , 40.7833 , -81.9167 ,  Wooster  ,  OH  ,  United States , 1268
+USC00339361  ,  XENIA 6 SSE  , 39.6167 , -83.9 ,  Xenia  ,  OH  ,  United States , 1287
+USC00466442  ,  NEW CUMBERLAND L/D  , 40.5261 , -80.6275 ,  Toronto  ,  OH  ,  United States , 889
+USW00014820  ,  CLEVELAND  , 41.4131 , -81.86 ,  Cleveland  ,  OH  ,  United States , 1291
+USW00014821  ,  COLUMBUS PORT COLUMBUS INTL AP  , 39.9914 , -82.8808 ,  Columbus  ,  OH  ,  United States , 1339
+USW00014825  ,  FINDLAY AP  , 41.0136 , -83.6686 ,  Findlay  ,  OH  ,  United States , 1288
+USW00014846  ,  SANDUSKY  , 41.45 , -82.7167 ,  Sandusky  ,  OH  ,  United States , 1003
+USW00014852  ,  YOUNGSTOWN RGNL AP  , 41.2544 , -80.6739 ,  Vienna Center  ,  OH  ,  United States , 1289
+USW00014891  ,  MANSFIELD LAHM MUNI AP  , 40.8203 , -82.5178 ,  Mansfield  ,  OH  ,  United States , 1288
+USW00014895  ,  AKRON CANTON RGNL AP  , 40.9167 , -81.4333 ,  North Canton  ,  OH  ,  United States , 1279
+USW00093812  ,  CINCINNATI LUNKEN AP  , 39.1033 , -84.4189 ,  Cincinnati  ,  OH  ,  United States , 1356
+USW00093815  ,  DAYTON INTL AP  , 39.9061 , -84.2186 ,  Vandalia  ,  OH  ,  United States , 1312
+USW00093824  ,  ZANESVILLE MUNI AP  , 39.9444 , -81.8922 ,  Zanesville  ,  OH  ,  United States , 1360
+USW00094830  ,  TOLEDO EXPRESS AP  , 41.5886 , -83.8014 ,  Swanton  ,  OH  ,  United States , 1332

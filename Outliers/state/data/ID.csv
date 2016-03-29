@@ -1,0 +1,62 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00100010  ,  ABERDEEN EXP STN  , 42.9536 , -112.8253 ,  Aberdeen  ,  ID  ,  United States , 1268
+USC00100282  ,  ANDERSON DAM  , 43.3572 , -115.4522 ,  Mountain Home  ,  ID  ,  United States , 692
+USC00100375  ,  ARCO  , 43.6356 , -113.2989 ,  Arco  ,  ID  ,  United States , 964
+USC00100448  ,  ARROWROCK DAM  , 43.5936 , -115.9236 ,  Boise  ,  ID  ,  United States , 1032
+USC00100470  ,  ASHTON 1N  , 44.0425 , -111.2739 ,  Ashton  ,  ID  ,  United States , 1220
+USC00100667  ,  BAYVIEW MODEL BASIN  , 47.9803 , -116.5594 ,  Bayview  ,  ID  ,  United States , 1226
+USC00100915  ,  BLACKFOOT FIRE DEPT  , 43.1969 , -112.3531 ,  Blackfoot  ,  ID  ,  United States , 764
+USC00101018  ,  BOISE LUCKY PEAK DAM  , 43.5253 , -116.0542 ,  Boise  ,  ID  ,  United States , 690
+USC00101079  ,  BONNERS FERRY  , 48.6928 , -116.3103 ,  Bonners Ferry  ,  ID  ,  United States , 1063
+USC00101363  ,  CABINET GORGE  , 48.0864 , -116.0572 ,  Clark Fork  ,  ID  ,  United States , 1407
+USC00101514  ,  CASCADE 1 NW  , 44.5228 , -116.0481 ,  Cascade  ,  ID  ,  United States , 1271
+USC00101671  ,  CHILLY BARTON FLAT  , 43.9772 , -113.8289 ,  Mackay  ,  ID  ,  United States , 1146
+USC00101956  ,  COEUR D'ALENE  , 47.6822 , -116.7967 ,  Coeur d'Alene  ,  ID  ,  United States , 896
+USC00102260  ,  CRATERS OF THE MOON  , 43.465 , -113.5581 ,  Moore  ,  ID  ,  United States , 943
+USC00102444  ,  DEER FLAT DAM  , 43.5764 , -116.7475 ,  Caldwell  ,  ID  ,  United States , 1119
+USC00102676  ,  DRIGGS  , 43.7306 , -111.1125 ,  Driggs  ,  ID  ,  United States , 1170
+USC00102707  ,  DUBOIS EXP STN  , 44.2436 , -112.2006 ,  Dubois  ,  ID  ,  United States , 1188
+USC00102875  ,  ELK CITY 1NE  , 45.8356 , -115.4611 ,  Elk City  ,  ID  ,  United States , 1091
+USC00102942  ,  EMMETT 2 E  , 43.8544 , -116.4664 ,  Emmett  ,  ID  ,  United States , 1124
+USC00103143  ,  FENN RS  , 46.0931 , -115.5356 ,  Kooskia  ,  ID  ,  United States , 1108
+USC00103297  ,  FT HALL 1 NNE  , 43.0428 , -112.4133 ,  Pocatello  ,  ID  ,  United States , 1185
+USC00103448  ,  GARDEN VALLEY  , 44.1011 , -115.9694 ,  Garden Valley  ,  ID  ,  United States , 1154
+USC00103732  ,  GRACE  , 42.5872 , -111.7275 ,  Grace  ,  ID  ,  United States , 1132
+USC00103771  ,  GRANGEVILLE  , 45.9414 , -116.1175 ,  Grangeville  ,  ID  ,  United States , 1261
+USC00103882  ,  GROUSE  , 43.7186 , -113.5472 ,  Lost River  ,  ID  ,  United States , 1120
+USC00103964  ,  HAMER 4 NW  , 43.9664 , -112.2642 ,  Hamer  ,  ID  ,  United States , 898
+USC00104442  ,  IDAHO CITY  , 43.8383 , -115.8319 ,  Idaho City  ,  ID  ,  United States , 1044
+USC00104455  ,  IDAHO FALLS - KIFI  , 43.5139 , -112.0125 ,  Idaho Falls  ,  ID  ,  United States , 1148
+USC00104670  ,  JEROME  , 42.7325 , -114.5192 ,  Jerome  ,  ID  ,  United States , 1289
+USC00105275  ,  LIFTON PUMPING STN  , 42.1231 , -111.3133 ,  Saint Charles  ,  ID  ,  United States , 1319
+USC00105462  ,  MACKAY LOST RIVER RS  , 43.9181 , -113.6317 ,  Mackay  ,  ID  ,  United States , 1016
+USC00105685  ,  MAY 2SSE  , 44.5664 , -113.8953 ,  May  ,  ID  ,  United States , 1000
+USC00105708  ,  MC CALL  , 44.8872 , -116.1047 ,  McCall  ,  ID  ,  United States , 1299
+USC00105716  ,  MCCAMMON  , 42.6447 , -112.1919 ,  McCammon  ,  ID  ,  United States , 644
+USC00105980  ,  MINIDOKA DAM  , 42.6767 , -113.5003 ,  Rupert  ,  ID  ,  United States , 1262
+USC00106152  ,  MOSCOW U OF I  , 46.7281 , -116.9558 ,  Moscow  ,  ID  ,  United States , 1257
+USC00106388  ,  NEW MEADOWS RS  , 44.9714 , -116.2933 ,  New Meadows  ,  ID  ,  United States , 872
+USC00106424  ,  NEZPERCE  , 46.2325 , -116.243 ,  Nezperce  ,  ID  ,  United States , 1188
+USC00106542  ,  OAKLEY  , 42.2342 , -113.8981 ,  Oakley  ,  ID  ,  United States , 1337
+USC00106764  ,  PALISADES  , 43.35 , -111.2167 ,  Irwin  ,  ID  ,  United States , 898
+USC00106877  ,  PAUL 1ENE  , 42.6283 , -113.7622 ,  Paul  ,  ID  ,  United States , 1301
+USC00106891  ,  PAYETTE  , 44.0764 , -116.9311 ,  Payette  ,  ID  ,  United States , 1125
+USC00107040  ,  PICABO  , 43.3086 , -114.0667 ,  Bellevue  ,  ID  ,  United States , 1334
+USC00107208  ,  POCATELLO 2 NE  , 42.8917 , -112.4086 ,  Pocatello  ,  ID  ,  United States , 581
+USC00107264  ,  PORTHILL  , 48.9994 , -116.4992 ,  Bonners Ferry  ,  ID  ,  United States , 1142
+USC00107301  ,  POTLATCH 3 NNE  , 46.9603 , -116.855 ,  Potlatch  ,  ID  ,  United States , 1132
+USC00107386  ,  PRIEST RIVER EXP STN  , 48.3511 , -116.8353 ,  Priest River  ,  ID  ,  United States , 1368
+USC00108022  ,  SAINT ANTHONY  , 43.9517 , -111.6789 ,  Saint Anthony  ,  ID  ,  United States , 1101
+USC00108062  ,  SAINT MARIES  , 47.3164 , -116.5789 ,  Saint Maries  ,  ID  ,  United States , 1198
+USC00108137  ,  SANDPOINT EXP STN  , 48.2942 , -116.5628 ,  Sandpoint  ,  ID  ,  United States , 1186
+USC00108380  ,  SHOSHONE 1 WNW  , 42.9383 , -114.4169 ,  Shoshone  ,  ID  ,  United States , 1078
+USC00108818  ,  SUGAR CITY  , 43.8867 , -111.7367 ,  Sugar City  ,  ID  ,  United States , 419
+USC00108928  ,  SWAN FALLS P H  , 43.2436 , -116.3783 ,  Murphy  ,  ID  ,  United States , 1066
+USC00109065  ,  TETONIA EXP STN  , 43.8564 , -111.2769 ,  Newdale  ,  ID  ,  United States , 693
+USW00024131  ,  BOISE AIR TERMINAL  , 43.5667 , -116.2406 ,  Boise  ,  ID  ,  United States , 1294
+USW00024133  ,  BURLEY MUNI AP  , 42.5417 , -113.7661 ,  Burley  ,  ID  ,  United States , 1432
+USW00024145  ,  IDAHO FALLS FANNING FLD  , 43.5164 , -112.0672 ,  Idaho Falls  ,  ID  ,  United States , 1265
+USW00024149  ,  LEWISTON NEZ PERCE CO AP  , 46.3747 , -117.0156 ,  Lewiston  ,  ID  ,  United States , 1254
+USW00024151  ,  MALAD CITY  , 42.1492 , -112.2872 ,  Malad City  ,  ID  ,  United States , 1168
+USW00024156  ,  POCATELLO RGNL AP  , 42.9203 , -112.5711 ,  Pocatello  ,  ID  ,  United States , 1371
+USW00094143  ,  IDAHO FALLS 46 W  , 43.5317 , -112.9422 ,    ,  ID  ,  United States , 1345

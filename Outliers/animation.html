@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Animation</title>
+    <link href="css/mapbox.css" rel='stylesheet' />
+    <link type="text/css" rel="stylesheet" href="css/min.css"/>
+    <script type="text/javascript" src="css/mapbox.css"></script>
+  </head>
+  <!-- Bootstrap -->
+  <link href="../css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.css' rel='stylesheet' />
+  
+  <body>
+    <div id="topbar">
+      <div class="topbar-left">
+          <a href="index.html">Home</a>
+          <a href="#">Animation</a>
+          <a href="analysis.html">Analysis </a>
+        <h2>U.S. Daily Temperature Anomalies 1964-2013</h2>
+      </div>
+      <div class="topbar-right">
+        <h2>FE550 Final Project Team-4</h2>
+      </div>
+    </div>
+    <div id='legend' style='display:none'>
+      <strong>Anomlies by Type</strong>
+      <nav class='legend clearfix'>
+        <span style='background:#FF9900;'></span>
+        <span style='background:#5CA2D1;'></span>
+        <span style='background:#FF2900;'></span>
+        <span style='background:#0F3B82;'></span>
+        <span style='background:#0F3B82;'></span>
+        <label>Week Hot</label>
+        <label>Week Cold</label>
+        <label>Strong Hot</label>
+        <label>Stronh Cold</label>
+        <label></label>
+        <small>Source: <a href="#link to source">Name of source</a></small>
+      </div>
+      <div id='map'></div>
+      <!--
+      torque is a library that works with Leaflet & Mapbox.js, and displays
+      temporal data from CartoDB.
+      See the full documentation at https://github.com/CartoDB/torque
+      -->
+      <script src='//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js'></script>
+      <script src='https://cartodb-libs.global.ssl.fastly.net/torque.full.js'></script>
+      <script>
+      L.mapbox.accessToken = 'pk.eyJ1IjoibWdoYW5lbTk5IiwiYSI6Il9QbXFBZTAifQ.hotMuPhaIS1xLKFDWPuGtQ';
+      var map = L.mapbox.map('map', 'examples.map-y7l23tes')
+      .setView([31.8086, -95.1428], 4);
+      map.legendControl.addLegend(document.getElementById('legend').innerHTML);
+      //var featureLayer = L.mapbox.featureLayer().addTo(map);
+      // Torque uses CartoCSS styles, similar to those in TileMill,
+      // but with a few extra keywords prefixed by -torque and the
+      // extra filter, frame-offset.
+      var style =
+      'Map {' +
+      '-torque-time-attribute: "date_str";' +
+      '-torque-aggregation-function: "count(cartodb_id)";' +
+      '-torque-frame-count: 128;' +
+      '-torque-animation-duration: 30;' +
+      '-torque-resolution: 2' +
+      '-torque-aggregation-function:"CDB_Math_Mode(torque_category)";'+
+      '}' +
+      '#layer {' +
+      '  marker-width: 3;' +
+      '  marker-fill-opacity: 4;' +
+      '  marker-fill: #77B2FF; ' +
+      '  comp-op: "lighten";' +
+      '  #outliers[value=1] { marker-fill: #FF9900; }' +
+      '  #outliers[value=2] { marker-fill: #5CA2D1; }' +
+      '  #outliers[value=3] { marker-fill: #FF2900; }' +
+      '  #outliers[value=4] { marker-fill: #0F3B82; }' +
+      '  [frame-offset = 1] { marker-width: 10; marker-fill-opacity: 0.05;}' +
+      '  [frame-offset = 2] { marker-width: 20; marker-fill-opacity: 0.02;}' +
+      '}';
+      var torqueLayer = new L.TorqueLayer({
+      user: 'mghanem99',
+      table: 'outliers',
+      cartocss: style,
+      blendmode: 'lighter',
+      // All Mapbox resources use HTTPS when available, so we'll need
+      // to make torque do the same.
+      tiler_protocol: 'https',
+      tiler_port: 443
+      });
+      // This example autoplays: there are other options available:
+      // https://github.com/CartoDB/torque/blob/master/doc/API.md
+      torqueLayer.addTo(map);
+      torqueLayer.play();
+      </script>
+      
+      <div id="maplapse-controls">
+        <div class="maplapse-play-pause">
+          <img src="img/pause.png?5adac3bb16df7e41" width="44" height="44" alt="" />
+        </div>
+        <div class="maplapse-control-label">Speed</div>
+        <div class="maplapse-speed">
+          <span class="maplapse-speed-down">&ndash;</span> /
+          <span class="maplapse-speed-up">+</span>
+        </div>
+      </div>
+    </div>
+    =================================
+    <div id="content">
+      <div class="what-is-it content-section">
+        <h3>Project Overview</h3>
+        <div class="content-columns">
+          <div class="content-column">
+            <p> Enigma.io has a large dataset from the <a href="http://www.ncdc.noaa.gov/oa/climate/ghcn-daily/" target="_blank">Global Historical Climatology Network</a>. The Dataset has daily temperatures reading from 90,000 weather stations around the country, the records set selected has data from 1963-2013
+          provide an incredible source of insight into our changing climate.</p>
+          <p>Using this data, we were are able to classify the upromal weather event <b>(Anomalies)</b></p>
+        </div>
+        <div class="content-column">
+          <h3>Types of Anomalies</h3>
+          <p>Using the last 50 years of temperature and define the following  four categorize, we are able to determine the overall wather patterns.</p>
+          <p class="light"><span class="inline-anomaly-label" style="color:rgb(52, 129, 132);" >COLD</span> anomalies occur on days when the daily high or low temperature falls <i>below</i> its expected range.</p>
+          <p class="light"><span class="inline-anomaly-label" style="color: rgb(141, 51, 51);">WARM</span> anomalies occur when the high or low temperature falls <i>above</i> its expected range.</p>
+          <p class="light"><span class="inline-anomaly-label" style="color:rgb(97, 230, 238);">STRONG COLD</span> anomalies occur on days when the daily low temperature falls <i> far below</i> its expected range.</p>
+          <p class="light"><span class="inline-anomaly-label" style="color: rgb(233, 76, 76);">STRONG WARM</span> anomalies occur when the high temperature falls <i> vfar above</i> its expected range.</p>
+        
+        </div>
+      </div>
+    </div>
+    <div class="content-section">
+      <h3>Observations and trend</h3>
+      <div class="content-columns">
+        <div class="content-column">
+          <p>Since 1964, the proportion of <span class="inline-anomaly-label" style="color: rgb(141, 51, 51);">&nbsp;WARM Days&nbsp;</span> and <span class="inline-anomaly-label" style="color: rgb(233, 76, 76);">&nbsp;STRONG WARM&nbsp;</span> anomalies
+          has risen from about 42% of the total to almost 67% of the total &ndash; an average increase of 0.5% per year. This trend, fitted with a generalized linear model, accounts for 40% of the year-to-year variation in warm versus
+          cold anomalies, and is highly significant with a p-value approaching 0.0. Though we remain cautious about making predictions based on this model, it suggests that this yearly proportion of warm anomalies will regularly fall
+        above 70% in the 2030's.</p>
+      </div>
+      <div class="content-column">
+        <p>Yet despite the clarity of this trend, it is difficult to detect on a day-to-day basis. This past winter's <a href="http://en.wikipedia.org/wiki/Early_2014_North_American_cold_wave" target="_blank">polar vortex</a>, for example,
+        prompted some pundits to claim that <a href="http://www.weather.com/news/science/environment/climate-change-skeptics-winter-cold-global-warming-still-real-20140107" target="_blank"> global warming is a "hoax"</a>. But while
+      daily and even annual weather trends may be subject to severe fluctuations, climate change shifts starkly into focus when viewed through a historical lens.</p>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,22 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00170480  ,  BELFAST  , 44.4394 , -68.9892 ,  Belfast  ,  ME  ,  United States , 1331
+USC00170814  ,  BRASSUA DAM  , 45.6603 , -69.812 ,  Rockwood  ,  ME  ,  United States , 1350
+USC00170844  ,  BRIDGTON 3 NW  , 44.07 , -70.7467 ,  Bridgton  ,  ME  ,  United States , 1165
+USC00171628  ,  CORINNA  , 44.9197 , -69.2417 ,  Corinna  ,  ME  ,  United States , 1226
+USC00172426  ,  EASTPORT  , 44.9067 , -66.9919 ,  Eastport  ,  ME  ,  United States , 1083
+USC00172878  ,  FT KENT  , 47.2386 , -68.6136 ,  Fort Kent  ,  ME  ,  United States , 1134
+USC00174086  ,  JACKMAN  , 45.6275 , -70.2583 ,  Jackman  ,  ME  ,  United States , 1262
+USC00174183  ,  JONESBORO  , 44.6453 , -67.6494 ,  Jonesboro  ,  ME  ,  United States , 1041
+USC00174781  ,  LONG FALLS DAM  , 45.2219 , -70.1983 ,  New Portland  ,  ME  ,  United States , 1307
+USC00175261  ,  MIDDLE DAM  , 44.7786 , -70.9211 ,  Errol  ,  ME  ,  United States , 1308
+USC00176937  ,  PRESQUE ISLE  , 46.6539 , -68.0089 ,  Presque Isle  ,  ME  ,  United States , 1178
+USC00177174  ,  RIPOGENUS DAM  , 45.8833 , -69.1833 ,  Millinocket  ,  ME  ,  United States , 999
+USC00177479  ,  SANFORD 2 NNW  , 43.4569 , -70.7803 ,  Sanford  ,  ME  ,  United States , 1252
+USC00179151  ,  WATERVILLE TRTMT PLT  , 44.5272 , -69.6544 ,  Waterville  ,  ME  ,  United States , 1254
+USC00179891  ,  WOODLAND  , 45.1569 , -67.4044 ,  Baileyville  ,  ME  ,  United States , 1035
+USW00014605  ,  AUGUSTA STATE AP  , 44.3206 , -69.7972 ,  Augusta  ,  ME  ,  United States , 1291
+USW00014606  ,  BANGOR INTL AP  , 44.7978 , -68.8186 ,  Bangor  ,  ME  ,  United States , 1248
+USW00014607  ,  CARIBOU MUNI AP  , 46.8706 , -68.0172 ,  Caribou  ,  ME  ,  United States , 1328
+USW00014609  ,  HOULTON INTL AP  , 46.1236 , -67.7928 ,  Houlton  ,  ME  ,  United States , 1319
+USW00014610  ,  MILLINOCKET MUNI AP  , 45.6478 , -68.6925 ,  Millinocket  ,  ME  ,  United States , 653
+USW00014764  ,  PORTLAND INTL JETPORT  , 43.6497 , -70.3003 ,  Portland  ,  ME  ,  United States , 1323

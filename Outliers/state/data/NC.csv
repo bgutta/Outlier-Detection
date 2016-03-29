@@ -1,0 +1,78 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00310090  ,  ALBEMARLE  , 35.3992 , -80.1994 ,  Albemarle  ,  NC  ,  United States , 1200
+USC00310286  ,  ASHEBORO 2 W  , 35.7044 , -79.8378 ,  Asheboro  ,  NC  ,  United States , 1420
+USC00310506  ,  BANNER ELK  , 36.1617 , -81.8742 ,  Banner Elk  ,  NC  ,  United States , 1196
+USC00310724  ,  BENT CREEK  , 35.5044 , -82.5967 ,  Asheville  ,  NC  ,  United States , 1473
+USC00311055  ,  BREVARD  , 35.2283 , -82.7358 ,  Brevard  ,  NC  ,  United States , 1204
+USC00311239  ,  BURLINGTON FIRE STN #5  , 36.0603 , -79.4481 ,  Burlington  ,  NC  ,  United States , 1106
+USC00311606  ,  CEDAR ISLAND  , 34.9833 , -76.3 ,  Cedar Island  ,  NC  ,  United States , 1258
+USC00311624  ,  CELO 2 S  , 35.8297 , -82.1769 ,  Burnsville  ,  NC  ,  United States , 1405
+USC00311677  ,  CHAPEL HILL 2 W  , 35.9086 , -79.0794 ,  Carrboro  ,  NC  ,  United States , 1275
+USC00311820  ,  CLAYTON WTP  , 35.6408 , -78.4633 ,  Clayton  ,  NC  ,  United States , 1113
+USC00311975  ,  CONCORD  , 35.4111 , -80.5833 ,  Concord  ,  NC  ,  United States , 1380
+USC00312102  ,  COWEETA EXP STN  , 35.0592 , -83.4314 ,  Otto  ,  NC  ,  United States , 1351
+USC00312200  ,  CULLOWHEE  , 35.3117 , -83.1747 ,  Sylva  ,  NC  ,  United States , 1365
+USC00312515  ,  DURHAM  , 36.0425 , -78.9625 ,  Durham  ,  NC  ,  United States , 1015
+USC00312635  ,  EDENTON  , 36.0164 , -76.5517 ,  Edenton  ,  NC  ,  United States , 1239
+USC00312719  ,  ELIZABETH CITY  , 36.3097 , -76.205 ,  Elizabeth City  ,  NC  ,  United States , 1125
+USC00312732  ,  ELIZABETHTOWN 3 SW  , 34.6044 , -78.6481 ,  Elizabethtown  ,  NC  ,  United States , 818
+USC00312837  ,  ENKA  , 35.5406 , -82.6531 ,  Candler  ,  NC  ,  United States , 590
+USC00313017  ,  FAYETTEVILLE PWC  , 35.0583 , -78.8583 ,  Fayetteville  ,  NC  ,  United States , 1221
+USC00313106  ,  FLETCHER 3 W  , 35.4267 , -82.5575 ,  Mills River  ,  NC  ,  United States , 1339
+USC00313356  ,  GASTONIA  , 35.2656 , -81.1433 ,  Gastonia  ,  NC  ,  United States , 1264
+USC00313565  ,  GRANDFATHER MTN  , 36.0956 , -81.8311 ,  Linville  ,  NC  ,  United States , 1135
+USC00313625  ,  GREENSBORO WTP  , 36.0811 , -79.8047 ,  Greensboro  ,  NC  ,  United States , 588
+USC00313784  ,  HAMLET  , 34.8872 , -79.6922 ,  Hamlet  ,  NC  ,  United States , 1401
+USC00313969  ,  HENDERSON 2 NNW  , 36.3481 , -78.4119 ,  Henderson  ,  NC  ,  United States , 1035
+USC00313976  ,  HENDERSONVILLE 1 NE  , 35.3297 , -82.4492 ,  Hendersonville  ,  NC  ,  United States , 1305
+USC00314055  ,  HIGHLANDS  , 35.0567 , -83.1983 ,  Highlands  ,  NC  ,  United States , 1273
+USC00314063  ,  HIGH POINT  , 35.9672 , -79.9722 ,  High Point  ,  NC  ,  United States , 1292
+USC00314464  ,  JACKSON SPRINGS 5 WNW  , 35.1858 , -79.6772 ,  Jackson Springs  ,  NC  ,  United States , 1251
+USC00314496  ,  JEFFERSON 2 E  , 36.4161 , -81.4286 ,  Jefferson  ,  NC  ,  United States , 1309
+USC00314684  ,  KINSTON 7 SE  , 35.1967 , -77.5433 ,  Kinston  ,  NC  ,  United States , 1212
+USC00314860  ,  LAURINBURG  , 34.7508 , -79.4664 ,  Laurinburg  ,  NC  ,  United States , 1276
+USC00314938  ,  LENOIR  , 35.915 , -81.5378 ,  Lenoir  ,  NC  ,  United States , 1149
+USC00314996  ,  LINCOLNTON 4 W  , 35.4606 , -81.3289 ,  Lincolnton  ,  NC  ,  United States , 1247
+USC00315123  ,  LOUISBURG  , 36.1028 , -78.3039 ,  Louisburg  ,  NC  ,  United States , 1110
+USC00315340  ,  MARION 2 NW  , 35.7072 , -82.0289 ,  Marion  ,  NC  ,  United States , 1156
+USC00315771  ,  MONROE 2 SE  , 34.9797 , -80.5233 ,  Monroe  ,  NC  ,  United States , 1242
+USC00315830  ,  MOREHEAD CITY 2 WNW  , 34.7336 , -76.7358 ,  Morehead City  ,  NC  ,  United States , 1348
+USC00315838  ,  MORGANTON  , 35.7297 , -81.6728 ,  Morganton  ,  NC  ,  United States , 1550
+USC00315890  ,  MT AIRY 2 W  , 36.4992 , -80.6508 ,  Mount Airy  ,  NC  ,  United States , 1467
+USC00316256  ,  NORTH WILKESBORO  , 36.1631 , -81.1494 ,  North Wilkesboro  ,  NC  ,  United States , 1407
+USC00316341  ,  OCONALUFTEE  , 35.5158 , -83.3056 ,  Cherokee  ,  NC  ,  United States , 1130
+USC00316349  ,  OCRACOKE  , 35.1075 , -75.9872 ,  Ocracoke  ,  NC  ,  United States , 727
+USC00316805  ,  PISGAH FOREST 3 NE  , 35.2719 , -82.6475 ,  Pisgah Forest  ,  NC  ,  United States , 1293
+USC00316853  ,  PLYMOUTH 5 E  , 35.8722 , -76.6592 ,  Roper  ,  NC  ,  United States , 1386
+USC00317079  ,  RALEIGH STATE UNIV  , 35.7944 , -78.6989 ,  Raleigh  ,  NC  ,  United States , 1273
+USC00317400  ,  ROCKY MT 8 ESE  , 35.8936 , -77.6805 ,  Rocky Mount  ,  NC  ,  United States , 795
+USC00317615  ,  SALISBURY  , 35.6836 , -80.4822 ,  Salisbury  ,  NC  ,  United States , 1273
+USC00317845  ,  SHELBY 2 NNE  , 35.3253 , -81.5325 ,  Shelby  ,  NC  ,  United States , 1401
+USC00317924  ,  SILER CITY 2 N  , 35.7606 , -79.4622 ,  Siler City  ,  NC  ,  United States , 1260
+USC00318113  ,  SOUTHPORT 5 N  , 33.9947 , -78.0078 ,  Southport  ,  NC  ,  United States , 1021
+USC00318292  ,  STATESVILLE 2 NNE  , 35.81 , -80.8808 ,  Statesville  ,  NC  ,  United States , 1402
+USC00318492  ,  TAPOCO  , 35.4478 , -83.9389 ,  Robbinsville  ,  NC  ,  United States , 1324
+USC00318500  ,  TARBORO 1 S  , 35.8847 , -77.5386 ,  Tarboro  ,  NC  ,  United States , 1285
+USC00318694  ,  TRANSOU  , 36.3919 , -81.3039 ,  Laurel Springs  ,  NC  ,  United States , 1288
+USC00318744  ,  TRYON  , 35.2058 , -82.2517 ,  Tryon  ,  NC  ,  United States , 1400
+USC00318964  ,  WADESBORO  , 34.9603 , -80.0772 ,  Wadesboro  ,  NC  ,  United States , 1309
+USC00319123  ,  WATERVILLE 2  , 35.7742 , -83.0981 ,  Newport  ,  NC  ,  United States , 1367
+USC00319147  ,  WAYNESVILLE 1 E  , 35.4867 , -82.9683 ,  Waynesville  ,  NC  ,  United States , 1373
+USC00319357  ,  WHITEVILLE 7 NW  , 34.4094 , -78.7914 ,  Whiteville  ,  NC  ,  United States , 1434
+USC00319440  ,  WILLIAMSTON 1 E  , 35.8528 , -77.0306 ,  Williamston  ,  NC  ,  United States , 1306
+USC00319467  ,  WILMINGTON 7 N  , 34.3208 , -77.9206 ,  Castle Hayne  ,  NC  ,  United States , 1401
+USC00319476  ,  WILSON 3 SW  , 35.6939 , -77.9456 ,  Wilson  ,  NC  ,  United States , 1333
+USC00319675  ,  YADKINVILLE 6 E  , 36.1306 , -80.5481 ,  Yadkinville  ,  NC  ,  United States , 1377
+USW00003810  ,  HICKORY FAA AP  , 35.7425 , -81.3819 ,  Hickory  ,  NC  ,  United States , 1370
+USW00003812  ,  ASHEVILLE RGNL AP  , 35.4319 , -82.5375 ,  Fletcher  ,  NC  ,  United States , 1441
+USW00013722  ,  RALEIGH DURHAM INTL AP  , 35.8922 , -78.7819 ,  Morrisville  ,  NC  ,  United States , 1359
+USW00013723  ,  PIEDMONT TRIAD INTL AP  , 36.0969 , -79.9433 ,  Greensboro  ,  NC  ,  United States , 1410
+USW00013748  ,  WILMINGTON INTL AP  , 34.2675 , -77.8997 ,  Wilmington  ,  NC  ,  United States , 1379
+USW00013754  ,  CHERRY POINT MCAS  , 34.9 , -76.8833 ,  Havelock  ,  NC  ,  United States , 1308
+USW00013786  ,  ELIZABETH CITY CGAS  , 36.2606 , -76.175 ,  Elizabeth City  ,  NC  ,  United States , 906
+USW00013872  ,  ASHEVILLE  , 35.5953 , -82.5567 ,  Asheville  ,  NC  ,  United States , 1422
+USW00013881  ,  CHARLOTTE DOUGLAS AP  , 35.2236 , -80.9553 ,  Charlotte  ,  NC  ,  United States , 1356
+USW00093719  ,  NEW BERN CRAVEN CO AP  , 35.0678 , -77.0481 ,  New Bern  ,  NC  ,  United States , 1249
+USW00093727  ,  NEW RIVER MCAF  , 34.7 , -77.3833 ,  Camp Lejeune  ,  NC  ,  United States , 1300
+USW00093729  ,  CAPE HATTERAS AP  , 35.2325 , -75.6219 ,  Buxton  ,  NC  ,  United States , 1300
+USW00093807  ,  WINSTON SALEM RYNLDS AP  , 36.1336 , -80.2222 ,  Winston-Salem  ,  NC  ,  United States , 410

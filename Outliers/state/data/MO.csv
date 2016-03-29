@@ -1,0 +1,58 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00230143  ,  AMITY 4 NE  , 39.8914 , -94.36 ,  Maysville  ,  MO  ,  United States , 1146
+USC00230204  ,  APPLETON CITY  , 38.1869 , -94.0281 ,  Appleton City  ,  MO  ,  United States , 1264
+USC00230789  ,  BOLIVAR 1 NE  , 37.6167 , -93.3911 ,  Bolivar  ,  MO  ,  United States , 1241
+USC00231037  ,  BRUNSWICK  , 39.4247 , -93.1331 ,  Brunswick  ,  MO  ,  United States , 1117
+USC00231087  ,  BUFFALO 2N  , 37.6667 , -93.1067 ,  Buffalo  ,  MO  ,  United States , 1101
+USC00231145  ,  BUTLER 4W  , 38.2611 , -94.405 ,  Butler  ,  MO  ,  United States , 1229
+USC00231189  ,  CALIFORNIA  , 38.6278 , -92.5545 ,  California  ,  MO  ,  United States , 984
+USC00231275  ,  CANTON L&D 20  , 40.1433 , -91.5158 ,  Canton  ,  MO  ,  United States , 1191
+USC00231340  ,  CARROLLTON  , 39.3594 , -93.4886 ,  Carrollton  ,  MO  ,  United States , 1147
+USC00231674  ,  CLEARWATER DAM  , 37.1319 , -90.7756 ,  Piedmont  ,  MO  ,  United States , 983
+USC00231822  ,  CONCEPTION  , 40.2394 , -94.6833 ,  Conception  ,  MO  ,  United States , 1200
+USC00232289  ,  DONIPHAN  , 36.6206 , -90.8125 ,  Doniphan  ,  MO  ,  United States , 1380
+USC00232503  ,  ELDON  , 38.3486 , -92.5808 ,  Eldon  ,  MO  ,  United States , 972
+USC00232591  ,  ELSBERRY 1 S  , 39.1506 , -90.7847 ,  Elsberry  ,  MO  ,  United States , 1271
+USC00233568  ,  HAMILTON 2W  , 39.7425 , -94.0347 ,  Hamilton  ,  MO  ,  United States , 1262
+USC00233601  ,  HANNIBAL WTR WKS  , 39.7233 , -91.3719 ,  Hannibal  ,  MO  ,  United States , 1206
+USC00234271  ,  JEFFERSON CITY WTP  , 38.5853 , -92.1825 ,  Jefferson City  ,  MO  ,  United States , 1072
+USC00234417  ,  KENNETT RADIO KBOA  , 36.2253 , -90.075 ,  Kennett  ,  MO  ,  United States , 1042
+USC00234544  ,  KIRKSVILLE  , 40.2058 , -92.5747 ,  Kirksville  ,  MO  ,  United States , 1108
+USC00234705  ,  LAMAR 2W  , 37.4933 , -94.3147 ,  Lamar  ,  MO  ,  United States , 1315
+USC00234825  ,  LEBANON 2W  , 37.685 , -92.6936 ,  Lebanon  ,  MO  ,  United States , 1216
+USC00234919  ,  LICKING 4N  , 37.5544 , -91.8831 ,  Licking  ,  MO  ,  United States , 1256
+USC00235027  ,  LOCKWOOD  , 37.3908 , -93.9489 ,  Lockwood  ,  MO  ,  United States , 1296
+USC00235253  ,  MARBLE HILL  , 37.3036 , -89.9664 ,  Marble Hill  ,  MO  ,  United States , 1274
+USC00235340  ,  MARYVILLE 2E  , 40.3458 , -94.8342 ,  Maryville  ,  MO  ,  United States , 1222
+USC00235541  ,  MEXICO  , 39.1756 , -91.8861 ,  Mexico  ,  MO  ,  United States , 1142
+USC00235671  ,  MOBERLY  , 39.4194 , -92.4369 ,  Moberly  ,  MO  ,  United States , 1251
+USC00235834  ,  MTN GROVE 2 N  , 37.1542 , -92.2617 ,  Mountain Grove  ,  MO  ,  United States , 1232
+USC00235976  ,  NEOSHO  , 36.8639 , -94.36 ,  Neosho  ,  MO  ,  United States , 1202
+USC00235987  ,  NEVADA WTP  , 37.8394 , -94.3736 ,  Nevada  ,  MO  ,  United States , 1301
+USC00236012  ,  NEW FRANKLIN 1W  , 39.0172 , -92.7558 ,  New Franklin  ,  MO  ,  United States , 1175
+USC00236357  ,  OREGON  , 39.9808 , -95.1464 ,  Oregon  ,  MO  ,  United States , 920
+USC00236460  ,  OZARK BEACH  , 36.6597 , -93.1261 ,  Forsyth  ,  MO  ,  United States , 1352
+USC00236791  ,  POPLAR BLUFF  , 36.7578 , -90.4056 ,  Poplar Bluff  ,  MO  ,  United States , 1168
+USC00237263  ,  ROLLA MISSOURI S&T  , 37.9572 , -91.7758 ,  Rolla  ,  MO  ,  United States , 1048
+USC00237397  ,  ST CHARLES ELM POINT  , 38.8147 , -90.5169 ,  Saint Charles  ,  MO  ,  United States , 1075
+USC00237578  ,  SAVERTON LOCK AND DAM 22  , 39.6361 , -91.2494 ,  New London  ,  MO  ,  United States , 1120
+USC00237632  ,  SEDALIA WTP  , 38.6753 , -93.2228 ,  Sedalia  ,  MO  ,  United States , 1256
+USC00237720  ,  SHELBINA  , 39.6828 , -92.0467 ,  Shelbina  ,  MO  ,  United States , 1129
+USC00237772  ,  SIKESTON PWR STN  , 36.8775 , -89.6231 ,  Sikeston  ,  MO  ,  United States , 903
+USC00237963  ,  SPICKARD 7 W  , 40.2472 , -93.7158 ,  Spickard  ,  MO  ,  United States , 1251
+USC00238051  ,  STEFFENVILLE  , 39.9714 , -91.8872 ,  La Belle  ,  MO  ,  United States , 1131
+USC00238223  ,  SWEET SPRINGS  , 38.9664 , -93.4194 ,  Sweet Springs  ,  MO  ,  United States , 1187
+USC00238700  ,  WAPPAPELLO DAM  , 36.9231 , -90.2836 ,  Wappapello  ,  MO  ,  United States , 1005
+USC00238712  ,  WARRENSBURG 4NW  , 38.7842 , -93.8008 ,  Warrensburg  ,  MO  ,  United States , 850
+USC00238725  ,  WARRENTON 1 N  , 38.835 , -91.1386 ,  Warrenton  ,  MO  ,  United States , 761
+USC00238754  ,  WASOLA 5N  , 36.8581 , -92.5875 ,  Ava  ,  MO  ,  United States , 937
+USC00238777  ,  WAYNESVILLE 5 W  , 37.7822 , -92.2689 ,  Waynesville  ,  MO  ,  United States , 1245
+USC00238805  ,  WELDON SPRING NWS  , 38.6989 , -90.6828 ,  Lake Saint Louis  ,  MO  ,  United States , 787
+USC00238880  ,  WEST PLAINS  , 36.7425 , -91.8347 ,  West Plains  ,  MO  ,  United States , 1364
+USW00013987  ,  JOPLIN REGIONAL AIRPORT  , 37.1467 , -94.5022 ,  Webb City  ,  MO  ,  United States , 1308
+USW00013988  ,  KANSAS CITY DOWNTOWN AP  , 39.1208 , -94.5969 ,  North Kansas City  ,  MO  ,  United States , 1048
+USW00013991  ,  MARSHALL  , 39.1342 , -93.2225 ,  Marshall  ,  MO  ,  United States , 1109
+USW00013993  ,  ST JOSEPH ROSECRANS AP  , 39.7736 , -94.9233 ,  Saint Joseph  ,  MO  ,  United States , 888
+USW00013994  ,  ST LOUIS LAMBERT INTL AP  , 38.7525 , -90.3736 ,  Bridgeton  ,  MO  ,  United States , 1319
+USW00013997  ,  VICHY ROLLA NATIONAL AP  , 38.1311 , -91.7683 ,  Vichy  ,  MO  ,  United States , 1090
+USW00014938  ,  KIRKSVILLE RGNL AP  , 40.0972 , -92.5433 ,  Kirksville  ,  MO  ,  United States , 573

@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<!-- this file was created by Mohamed Ghanem for FE550 Spring term 2015-->
+	<head>
+		<title>FE550_HW Set 5 M.Ghanem</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.js'></script>
+		<link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.css' rel='stylesheet' />
+		<style type="text/css">
+		@import url("css/layout-1.css");
+		@import url("css/navigation.css");
+		</style>
+	</head>
+	<body>
+	</head>
+	<body>
+		<style>
+		.legend label,
+		.legend span {
+		display:block;
+		float:left;
+		height:15px;
+		width:20%;
+		text-align:center;
+		font-size:9px;
+		color:#808080;
+		}
+		.search-ui {
+		position:absolute;
+		top:10px;
+		right:10px;
+		z-index:1000;
+		}
+		</style>
+		<!-- Set the display of this container to none so we can
+		add it programmatically to `legendControl` -->
+		<div id='legend' style='display:none;'>
+			<strong>racial disparities & arrest rates </strong>
+			<nav class='legend clearfix'>
+				<span style='background:#ff8888;'></span>
+				<span style='background:#BDC9E1;'></span>
+				<span style='background:#74A9CF;'></span>
+				<span style='background:#2B8CBE;'></span>
+				<span style='background:#045A8D;'></span>
+				<label>> 4%</label>
+				<label></label>
+				<label></label>
+				<label>< 4%</label>
+				<label></label>
+				<small>Source: <a href="http://www.usatoday.com">Data by USAToday</a></small>
+			</div>
+			<div id="maincontainer">
+				<div id="headline1">
+					<div class="title"><em>Sprint 2015</em>FE550</div>
+					<span class="subtitle">Ferguson is Not Alone Data Visualization by Mo Ghanem</span> </div>
+					<div id="contentwrapper">
+						<div class="text">
+							<h2>Load Data Marker from CSV</h2>
+					</div>
+				</div>
+				
+				<div>
+					<div class="text">
+						<br>
+						<H2> New Jersey's racial disparities</h2>
+						<p></p>
+					</Div>
+				</div>
+				<script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
+				<div id='map'style="position: relative; width: 1000px; height: 700px;"></div>
+				<input id='search' class='search-ui' placeholder='Enter state code' />
+				<script>
+				L.mapbox.accessToken = 'pk.eyJ1IjoibWdoYW5lbTk5IiwiYSI6InhJcWkyTjAifQ.NJIhiKOEL5HAs6VoAxdxeg';
+				var map = L.mapbox.map('map', 'examples.map-i86nkdio')
+				.setView([35.8578, -98.4139], 7);
+				map.legendControl.addLegend(document.getElementById('legend').innerHTML);
+				// Omnivore will AJAX-request this file behind the scenes and parse it:
+				// note that there are considerations:
+				// - The CSV file must contain latitude and longitude values, in column
+				//   named roughly latitude and longitude
+				// - The file must either be on the same domain as the page that requests it,
+				//   or both the server it is requested from and the user's browser must
+				//   support CORS.
+				omnivore.csv('data/stations-pt1-by-state.csv').addTo(map)
+				.on('ready', function(layer) {
+				// customizing marker styles based on an attribute.
+				//  'disproportion' >=4
+				// with values referring to states. Your data might have different
+				// values, so adjust to fit.
+				//var filters = document.getElementById('state');
+				this.eachLayer(function(marker) {
+				if (marker.toGeoJSON().properties.state === ' NJ ') {
+				// The argument to L.mapbox.marker.icon is based on the
+				// simplestyle-spec: see that specification for a full
+				// description of options.
+				marker.setIcon(L.mapbox.marker.icon({
+				'marker-color': '#ff8888',
+				'marker-size': 'large'
+				}));
+				}
+				// Bind a popup to each icon based on the same properties
+				marker.bindPopup('<h3>'+ marker.toGeoJSON().properties.name + '</h3><br><b>Station Name <font color="red">'+ marker.toGeoJSON().properties.locality+ '</font><br>' +
+				'State <font color="red">' + marker.toGeoJSON().properties.state + '</font><br>ID: ' + marker.toGeoJSON().properties.id);
+				});
+				})
+				.addTo(map);
+				L.marker([40.7242204,-74.1725735]).addTo(map)
+					.bindPopup('Newark,NJ')
+					.openPopup();
+				var circle = L.circle([40.7242204,-74.1725735], 2000, {
+					color: 'red',
+					fillColor: '#f03',
+					fillOpacity: 0.5
+					}).addTo(map);
+				function search() {
+				// get the value of the search input field
+				var searchString = $('#search').val().toLowerCase();
+				csvLayer.setFilter(showState);
+				// here we're simply comparing the 'state' property of each marker
+				// to the search string, seeing whether the former contains the latter.
+				function showState(feature) {
+				return feature.properties.state
+				.toLowerCase()
+				.indexOf(searchString) !== -1;
+				}
+				}
+				</script>
+				
+				
+			</div>
+		</HTML>

@@ -1,0 +1,10 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00431243  ,  CAVENDISH  , 43.3847 , -72.5989 ,  Cavendish  ,  VT  ,  United States , 1285
+USC00431580  ,  CORNWALL  , 43.9572 , -73.2106 ,  Cornwall  ,  VT  ,  United States , 1147
+USC00432769  ,  ENOSBURG FALLS  , 44.9094 , -72.8083 ,  Enosburg  ,  VT  ,  United States , 1159
+USC00435416  ,  MT MANSFIELD  , 44.5247 , -72.8153 ,  Stowe  ,  VT  ,  United States , 1085
+USC00435733  ,  NORTHFIELD  , 44.1647 , -72.6567 ,    ,  VT  ,  United States , 638
+USC00436995  ,  RUTLAND  , 43.6253 , -72.9781 ,  Rutland  ,  VT  ,  United States , 1322
+USC00439984  ,  WOODSTOCK  , 43.6303 , -72.5072 ,  Woodstock  ,  VT  ,  United States , 866
+USW00014742  ,  BURLINGTON INTL AP  , 44.4683 , -73.15 ,  South Burlington  ,  VT  ,  United States , 1255
+USW00094705  ,  BARRE MONTPELIER AP  , 44.2033 , -72.5794 ,  Berlin  ,  VT  ,  United States , 1289

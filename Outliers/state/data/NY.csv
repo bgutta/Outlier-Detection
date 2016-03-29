@@ -1,0 +1,59 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00300023  ,  ADDISON  , 42.1014 , -77.2344 ,  Addison  ,  NY  ,  United States , 743
+USC00300055  ,  ALBION 2 NE  , 43.2722 , -78.1664 ,  Albion  ,  NY  ,  United States , 1094
+USC00300063  ,  ALCOVE DAM  , 42.4697 , -73.9267 ,  Coeymans Hollow  ,  NY  ,  United States , 1160
+USC00300085  ,  ALFRED  , 42.2497 , -77.7583 ,  Alfred Station  ,  NY  ,  United States , 1247
+USC00300093  ,  ALLEGANY SP  , 42.1003 , -78.7497 ,  Salamanca  ,  NY  ,  United States , 1193
+USC00300183  ,  ANGELICA  , 42.3108 , -78.0231 ,  Angelica  ,  NY  ,  United States , 1278
+USC00300331  ,  AURORA RSCH FARM  , 42.7339 , -76.6592 ,  Aurora  ,  NY  ,  United States , 1200
+USC00300443  ,  BATAVIA  , 43.0303 , -78.1692 ,  Batavia  ,  NY  ,  United States , 1218
+USC00300785  ,  BOONVILLE 4 SSW  , 43.4361 , -75.3697 ,  Boonville  ,  NY  ,  United States , 1190
+USC00300889  ,  BRIDGEHAMPTON  , 40.9461 , -72.3069 ,  Bridgehampton  ,  NY  ,  United States , 1332
+USC00301152  ,  CANANDAIGUA 3 S  , 42.8453 , -77.2808 ,  Canandaigua  ,  NY  ,  United States , 1193
+USC00301966  ,  DANNEMORA  , 44.7192 , -73.7206 ,  Saranac  ,  NY  ,  United States , 1189
+USC00301974  ,  DANSVILLE  , 42.5656 , -77.7175 ,  Dansville  ,  NY  ,  United States , 1177
+USC00302169  ,  DOWNSVILLE DAM  , 42.0769 , -74.9825 ,  Downsville  ,  NY  ,  United States , 714
+USC00302610  ,  ELMIRA  , 42.0997 , -76.8358 ,  Elmira  ,  NY  ,  United States , 1226
+USC00303025  ,  FRANKLINVILLE  , 42.3297 , -78.4633 ,  Franklinville  ,  NY  ,  United States , 1282
+USC00303284  ,  GLENS FALLS FARM  , 43.3247 , -73.6781 ,  Queensbury  ,  NY  ,  United States , 1238
+USC00303346  ,  GOUVERNEUR 3 NW  , 44.3539 , -75.5122 ,  Gouverneur  ,  NY  ,  United States , 1285
+USC00303464  ,  GREENPORT PWR HOUSE  , 41.1019 , -72.3731 ,  Greenport  ,  NY  ,  United States , 858
+USC00303773  ,  HEMLOCK  , 42.7742 , -77.6083 ,  Hemlock  ,  NY  ,  United States , 1106
+USC00304025  ,  HUDSON COR.FACILITY  , 42.25 , -73.8 ,  Hudson  ,  NY  ,  United States , 1248
+USC00304102  ,  INDIAN LAKE 2SW  , 43.755 , -74.2692 ,  Indian Lake  ,  NY  ,  United States , 1272
+USC00304174  ,  ITHACA CORNELL UNIV  , 42.4492 , -76.4492 ,  Ithaca  ,  NY  ,  United States , 1281
+USC00304555  ,  LAKE PLACID 2 S  , 44.2489 , -73.985 ,  Lake Placid  ,  NY  ,  United States , 1124
+USC00304731  ,  LIBERTY 1 NE  , 41.8017 , -74.74 ,  Liberty  ,  NY  ,  United States , 1140
+USC00304791  ,  LITTLE FALLS CITY RES  , 43.0603 , -74.8686 ,  Little Falls  ,  NY  ,  United States , 677
+USC00304912  ,  LOWVILLE  , 43.7975 , -75.4817 ,  Lowville  ,  NY  ,  United States , 1180
+USC00305334  ,  MILLBROOK  , 41.8553 , -73.67 ,  Stanfordville  ,  NY  ,  United States , 686
+USC00305426  ,  MOHONK LAKE  , 41.7681 , -74.155 ,  New Paltz  ,  NY  ,  United States , 1157
+USC00305512  ,  MORRISVILLE 6 SW  , 42.8417 , -75.7264 ,  Erieville  ,  NY  ,  United States , 766
+USC00306164  ,  OGDENSBURG 4 NE  , 44.7281 , -75.4442 ,  Ogdensburg  ,  NY  ,  United States , 1002
+USC00306184  ,  OLD FORGE  , 43.7025 , -74.9839 ,  Old Forge  ,  NY  ,  United States , 1187
+USC00306314  ,  OSWEGO EAST  , 43.4622 , -76.4933 ,  Oswego  ,  NY  ,  United States , 1241
+USC00306538  ,  PERU 2 WSW  , 44.5658 , -73.57 ,  Peru  ,  NY  ,  United States , 1206
+USC00306774  ,  PORT JERVIS  , 41.38 , -74.6847 ,  Port Jervis  ,  NY  ,  United States , 1267
+USC00307134  ,  RIVERHEAD RSCH FM  , 40.9619 , -72.7158 ,  Riverhead  ,  NY  ,  United States , 1277
+USC00307484  ,  SARATOGA SPRINGS 4 SW  , 43.0333 , -73.8167 ,  Saratoga Springs  ,  NY  ,  United States , 1275
+USC00307842  ,  SODUS CTR  , 43.2078 , -77.0128 ,  Sodus  ,  NY  ,  United States , 1098
+USC00308248  ,  STILLWATER RSVR  , 43.9 , -75.0367 ,  Lowville  ,  NY  ,  United States , 977
+USC00308600  ,  TROY L&D  , 42.75 , -73.6833 ,  Troy  ,  NY  ,  United States , 1158
+USC00308631  ,  TUPPER LAKE SUNMOUNT  , 44.2308 , -74.4383 ,  Tupper Lake  ,  NY  ,  United States , 1080
+USC00308962  ,  WARSAW 6 SW  , 42.6856 , -78.2203 ,  Warsaw  ,  NY  ,  United States , 1051
+USC00309389  ,  WHITEHALL  , 43.5575 , -73.4011 ,  Whitehall  ,  NY  ,  United States , 1163
+USW00004725  ,  BINGHAMTON  , 42.1997 , -75.985 ,  Binghamton  ,  NY  ,  United States , 1210
+USW00014719  ,  WESTHAMPTN GABRESKI AP  , 40.8436 , -72.6322 ,  Westhampton  ,  NY  ,  United States , 543
+USW00014732  ,  NEW YORK LAGUARDIA AP  , 40.7794 , -73.8803 ,    ,  NY  ,  United States , 1145
+USW00014733  ,  BUFFALO  , 42.9486 , -78.7369 ,  Cheektowaga  ,  NY  ,  United States , 1273
+USW00014735  ,  ALBANY AP  , 42.7431 , -73.8092 ,  Latham  ,  NY  ,  United States , 1280
+USW00014743  ,  CANTON 4 SE  , 44.5772 , -75.1097 ,  Canton  ,  NY  ,  United States , 1124
+USW00014750  ,  GLENS FALLS AP  , 43.35 , -73.6167 ,  Queensbury  ,  NY  ,  United States , 1303
+USW00014757  ,  POUGHKEEPSIE DUTCHESS CO AP  , 41.6267 , -73.8842 ,  Wappingers Falls  ,  NY  ,  United States , 1135
+USW00014768  ,  ROCHESTER GTR INTL AP  , 43.1167 , -77.6767 ,  Rochester  ,  NY  ,  United States , 1301
+USW00014771  ,  SYRACUSE HANCOCK INTL AP  , 43.1111 , -76.1039 ,  Syracuse  ,  NY  ,  United States , 1293
+USW00094725  ,  MASSENA INTL AP  , 44.9358 , -74.8458 ,  Massena  ,  NY  ,  United States , 1277
+USW00094728  ,  NEW YORK CNTRL PK TWR  , 40.7789 , -73.9692 ,  New York  ,  NY  ,  United States , 1211
+USW00094745  ,  WESTCHESTER CO AP  , 41.0669 , -73.7075 ,  Rye Brook  ,  NY  ,  United States , 1221
+USW00094789  ,  NEW YORK JFK INTL AP  , 40.6386 , -73.7622 ,    ,  NY  ,  United States , 1264
+USW00094790  ,  WATERTOWN INTL AP  , 43.9922 , -76.0217 ,  Dexter  ,  NY  ,  United States , 1236

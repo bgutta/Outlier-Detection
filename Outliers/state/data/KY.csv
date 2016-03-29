@@ -1,0 +1,24 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00150381  ,  BARBOURVILLE  , 36.8825 , -83.8819 ,  Heidrick  ,  KY  ,  United States , 1159
+USC00150397  ,  BARDSTOWN 5E  , 37.8194 , -85.3847 ,  Bardstown  ,  KY  ,  United States , 1113
+USC00150450  ,  BAXTER  , 36.8583 , -83.3303 ,  Baxter  ,  KY  ,  United States , 1344
+USC00150619  ,  BEREA COLLEGE  , 37.5733 , -84.2908 ,  Berea  ,  KY  ,  United States , 1027
+USC00152791  ,  CAVE RUN LAKE  , 38.1228 , -83.5328 ,  Morehead  ,  KY  ,  United States , 1332
+USC00153762  ,  HENDERSON 8 SSW  , 37.7558 , -87.6456 ,  Corydon  ,  KY  ,  United States , 1229
+USC00153994  ,  HOPKINSVILLE  , 36.8492 , -87.5206 ,  Hopkinsville  ,  KY  ,  United States , 1078
+USC00154703  ,  LEITCHFIELD 2 N  , 37.5108 , -86.2892 ,  Leitchfield  ,  KY  ,  United States , 1120
+USC00155097  ,  MAMMOTH CAVE  , 37.1317 , -86.1481 ,  Smiths Grove  ,  KY  ,  United States , 1197
+USC00155243  ,  MAYSVILLE SEWAGE PLT  , 38.6869 , -83.7872 ,  Maysville  ,  KY  ,  United States , 1084
+USC00155524  ,  MONTICELLO 3 NE  , 36.8667 , -84.8275 ,  Monticello  ,  KY  ,  United States , 1329
+USC00155640  ,  MT STERLING  , 38.0583 , -83.9333 ,  Mount Sterling  ,  KY  ,  United States , 914
+USC00157049  ,  RUSSELLVILLE  , 36.855 , -86.8883 ,  Russellville  ,  KY  ,  United States , 871
+USC00157510  ,  SOMERSET 2 N  , 37.1167 , -84.6167 ,  Somerset  ,  KY  ,  United States , 1056
+USC00157677  ,  STEARNS 2S  , 36.6736 , -84.4792 ,    ,  KY  ,  United States , 889
+USC00158446  ,  WARSAW MARKLAND DAM  , 38.7744 , -84.9672 ,  Warsaw  ,  KY  ,  United States , 1256
+USC00158551  ,  WEST LIBERTY 3NW  , 37.9414 , -83.3017 ,  West Liberty  ,  KY  ,  United States , 1241
+USW00003816  ,  PADUCAH  , 37.0683 , -88.7719 ,  West Paducah  ,  KY  ,  United States , 1370
+USW00003849  ,  LONDON CORBIN AP  , 37.0872 , -84.0769 ,  London  ,  KY  ,  United States , 1347
+USW00093808  ,  BOWLING GREEN WARREN CO AP  , 36.9647 , -86.4239 ,  Bowling Green  ,  KY  ,  United States , 1287
+USW00093814  ,  CINCINNATI NORTHERN KY AP  , 39.0431 , -84.6717 ,  Burlington  ,  KY  ,  United States , 1368
+USW00093820  ,  LEXINGTON BLUEGRASS AP  , 38.0408 , -84.6058 ,  Lexington  ,  KY  ,  United States , 1392
+USW00093821  ,  LOUISVILLE INTL AP  , 38.1811 , -85.7392 ,  Louisville  ,  KY  ,  United States , 1318

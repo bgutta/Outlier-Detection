@@ -1,0 +1,10 @@
+body { 
+    background: url(/img/sos.png) repeat 0 0;
+}
+    
+h1 { 
+    text-shadow: 1px 1px 1px #ccc;
+}
+.shadow { 
+    box-shadow: 0 0 1em 1em #ccc;
+}

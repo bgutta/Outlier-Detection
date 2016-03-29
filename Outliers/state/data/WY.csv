@@ -1,0 +1,57 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00480027  ,  AFTON  , 42.7292 , -110.9297 ,  Afton  ,  WY  ,  United States , 846
+USC00480140  ,  ALTA 1 NNW  , 43.7728 , -111.0339 ,  Moose  ,  WY  ,  United States , 1265
+USC00480540  ,  BASIN  , 44.38 , -108.035 ,  Basin  ,  WY  ,  United States , 1198
+USC00480865  ,  BONDURANT  , 43.2278 , -110.4358 ,  Bondurant  ,  WY  ,  United States , 1049
+USC00481000  ,  BOYSEN DAM  , 43.4053 , -108.1633 ,  Shoshoni  ,  WY  ,  United States , 999
+USC00481175  ,  BUFFALO BILL DAM  , 44.5075 , -109.1675 ,  Cody  ,  WY  ,  United States , 732
+USC00481730  ,  CHUGWATER  , 41.7594 , -104.8222 ,  Chugwater  ,  WY  ,  United States , 1350
+USC00481736  ,  CHURCH BUTTES GAS PLT  , 41.3975 , -110.0856 ,    ,  WY  ,  United States , 946
+USC00481816  ,  CLEARMONT 5 SW  , 44.5781 , -106.4472 ,  Clearmont  ,  WY  ,  United States , 1147
+USC00481840  ,  CODY  , 44.5147 , -109.045 ,  Cody  ,  WY  ,  United States , 1239
+USC00482135  ,  CRANDALL CREEK  , 44.8675 , -109.6436 ,  Cody  ,  WY  ,  United States , 521
+USC00482415  ,  DEAVER  , 44.8919 , -108.5931 ,  Deaver  ,  WY  ,  United States , 1117
+USC00482466  ,  DEVILS TWR #2  , 44.5833 , -104.7147 ,  Devils Tower  ,  WY  ,  United States , 1029
+USC00482580  ,  DILLINGER  , 44.0992 , -105.1175 ,  Rozet  ,  WY  ,  United States , 1235
+USC00482685  ,  DOUGLAS 1 SE  , 42.7467 , -105.3603 ,  Douglas  ,  WY  ,  United States , 393
+USC00482725  ,  DULL CTR 1SE  , 43.4117 , -104.9614 ,  Douglas  ,  WY  ,  United States , 984
+USC00482995  ,  ELK MTN  , 41.6878 , -106.4136 ,  Elk Mountain  ,  WY  ,  United States , 1258
+USC00483031  ,  EMBLEM  , 44.4972 , -108.3906 ,  Emblem  ,  WY  ,  United States , 1093
+USC00483100  ,  EVANSTON 1 E  , 41.265 , -110.9508 ,  Evanston  ,  WY  ,  United States , 1114
+USC00483170  ,  FARSON 5N  , 42.1867 , -109.4453 ,  Farson  ,  WY  ,  United States , 587
+USC00483855  ,  GILLETTE 4SE  , 44.2644 , -105.4919 ,  Gillette  ,  WY  ,  United States , 1233
+USC00483950  ,  GLENROCK 5 ESE  , 42.8267 , -105.7878 ,  Glenrock  ,  WY  ,  United States , 1009
+USC00484065  ,  GREEN RIVER  , 41.5167 , -109.4703 ,  Green River  ,  WY  ,  United States , 976
+USC00484760  ,  HULETT  , 44.6856 , -104.6028 ,  Hulett  ,  WY  ,  United States , 680
+USC00485055  ,  KAYCEE  , 43.7144 , -106.6375 ,  Kaycee  ,  WY  ,  United States , 1245
+USC00485105  ,  KEMMERER 2N  , 41.8172 , -110.5328 ,  Frontier  ,  WY  ,  United States , 1207
+USC00485345  ,  LAKE YELLOWSTONE  , 44.5619 , -110.3986 ,  Yellowstone National Park  ,  WY  ,  United States , 884
+USC00485770  ,  LOVELL  , 44.8375 , -108.4042 ,  Lovell  ,  WY  ,  United States , 1208
+USC00486120  ,  MEDICINE BOW  , 41.8969 , -106.2061 ,  Medicine Bow  ,  WY  ,  United States , 951
+USC00486195  ,  MIDWEST  , 43.4131 , -106.2772 ,  Midwest  ,  WY  ,  United States , 1037
+USC00486428  ,  MOOSE  , 43.6536 , -110.7169 ,  Moose  ,  WY  ,  United States , 1119
+USC00486440  ,  MORAN 5WNW  , 43.8567 , -110.5889 ,  Alta  ,  WY  ,  United States , 1339
+USC00486660  ,  NEWCASTLE  , 43.8497 , -104.1886 ,  Newcastle  ,  WY  ,  United States , 1197
+USC00487105  ,  PATHFINDER DAM  , 42.4717 , -106.8528 ,  Alcova  ,  WY  ,  United States , 598
+USC00487115  ,  PAVILLION  , 43.2458 , -108.6942 ,  Pavillion  ,  WY  ,  United States , 810
+USC00487200  ,  PHILLIPS  , 41.6264 , -104.4936 ,  La Grange  ,  WY  ,  United States , 1309
+USC00487260  ,  PINEDALE  , 42.8747 , -109.8592 ,  Pinedale  ,  WY  ,  United States , 1243
+USC00487555  ,  REDBIRD  , 43.245 , -104.2881 ,  Lusk  ,  WY  ,  United States , 1347
+USC00488160  ,  SHERIDAN FLD STA  , 44.8406 , -106.8383 ,  Sheridan  ,  WY  ,  United States , 1112
+USC00488315  ,  SNAKE RIVER  , 44.1333 , -110.6658 ,  Moran  ,  WY  ,  United States , 1002
+USC00488705  ,  SUNDANCE  , 44.4122 , -104.3567 ,  Sundance  ,  WY  ,  United States , 1158
+USC00488858  ,  TENSLEEP 16SSE  , 43.8111 , -107.3653 ,    ,  WY  ,  United States , 1180
+USC00488875  ,  THERMOPOLIS  , 43.6483 , -108.2036 ,  Thermopolis  ,  WY  ,  United States , 600
+USC00489025  ,  TOWER FALLS  , 44.9167 , -110.4203 ,  Yellowstone National Park  ,  WY  ,  United States , 950
+USC00489205  ,  UPTON  , 44.0928 , -104.6114 ,  Upton  ,  WY  ,  United States , 1109
+USC00489604  ,  WHALEN DAM USBR  , 42.2494 , -104.6281 ,  Fort Laramie  ,  WY  ,  United States , 836
+USC00489615  ,  WHEATLAND 4 N  , 42.1106 , -104.9492 ,  Wheatland  ,  WY  ,  United States , 1245
+USC00489905  ,  YELLOWSTONE PK MAMMOTH  , 44.9767 , -110.6964 ,  Yellowstone National Park  ,  WY  ,  United States , 1080
+USW00024018  ,  CHEYENNE  , 41.1519 , -104.8061 ,  Cheyenne  ,  WY  ,  United States , 1326
+USW00024021  ,  LANDER HUNT FLD AP  , 42.8153 , -108.7261 ,  Lander  ,  WY  ,  United States , 1164
+USW00024022  ,  LARAMIE RGNL AP  , 41.3119 , -105.6747 ,  Laramie  ,  WY  ,  United States , 1341
+USW00024027  ,  ROCK SPRINGS AP  , 41.5944 , -109.0528 ,  Rock Springs  ,  WY  ,  United States , 1249
+USW00024029  ,  SHERIDAN CO AP  , 44.7694 , -106.9689 ,  Sheridan  ,  WY  ,  United States , 1325
+USW00024057  ,  RAWLINS MUNI AP  , 41.8056 , -107.1997 ,  Rawlins  ,  WY  ,  United States , 1417
+USW00024089  ,  CASPER NATRONA CO AP  , 42.8975 , -106.4636 ,  Casper  ,  WY  ,  United States , 1247
+USW00024164  ,  BIG PINEY MARBLETON AP  , 42.5844 , -110.1075 ,  Big Piney  ,  WY  ,  United States , 938

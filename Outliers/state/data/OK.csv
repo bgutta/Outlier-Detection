@@ -1,0 +1,46 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00340184  ,  ALTUS DAM  , 34.8847 , -99.2964 ,  Lone Wolf  ,  OK  ,  United States , 1294
+USC00340224  ,  ANADARKO 3 E  , 35.0619 , -98.1989 ,  Anadarko  ,  OK  ,  United States , 714
+USC00340256  ,  ANTLERS  , 34.2208 , -95.615 ,  Antlers  ,  OK  ,  United States , 1120
+USC00340755  ,  BILLINGS  , 36.5297 , -97.4472 ,  Billings  ,  OK  ,  United States , 1103
+USC00340830  ,  BLANCHARD 2 SSW  , 35.1183 , -97.67 ,  Blanchard  ,  OK  ,  United States , 1137
+USC00340908  ,  BOISE CITY 2 E  , 36.7236 , -102.4806 ,  Boise City  ,  OK  ,  United States , 1285
+USC00341828  ,  CLAREMORE 2 ENE  , 36.3225 , -95.5808 ,  Claremore  ,  OK  ,  United States , 1348
+USC00342318  ,  CUSHING  , 35.9803 , -96.7758 ,  Cushing  ,  OK  ,  United States , 1008
+USC00342912  ,  ENID  , 36.4194 , -97.8747 ,  Enid  ,  OK  ,  United States , 1277
+USC00343286  ,  FT GIBSON DAM  , 35.8667 , -95.2333 ,  Wagoner  ,  OK  ,  United States , 683
+USC00343358  ,  FREEDOM  , 36.7647 , -99.1128 ,  Freedom  ,  OK  ,  United States , 1256
+USC00343489  ,  GATE  , 36.85 , -100.0569 ,  Gate  ,  OK  ,  United States , 1107
+USC00343628  ,  GOODWELL RSCH STN  , 36.5914 , -101.6181 ,  Goodwell  ,  OK  ,  United States , 1263
+USC00343821  ,  GUTHRIE 5S  , 35.8161 , -97.395 ,  Guthrie  ,  OK  ,  United States , 1253
+USC00344001  ,  HEALDTON 3 E  , 34.2333 , -97.4203 ,  Wilson  ,  OK  ,  United States , 1273
+USC00344019  ,  HELENA 1 SSE  , 36.5381 , -98.2661 ,  Helena  ,  OK  ,  United States , 1357
+USC00344298  ,  HOOKER  , 36.865 , -101.2103 ,  Hooker  ,  OK  ,  United States , 1165
+USC00344393  ,  HULAH DAM  , 36.9167 , -96.1 ,    ,  OK  ,  United States , 688
+USC00344451  ,  IDABEL  , 33.9336 , -94.8278 ,  Idabel  ,  OK  ,  United States , 1274
+USC00345468  ,  MADILL  , 34.0919 , -96.7708 ,  Madill  ,  OK  ,  United States , 1294
+USC00345563  ,  MARIETTA 5SW  , 33.8761 , -97.1642 ,  Marietta  ,  OK  ,  United States , 1400
+USC00345779  ,  MEEKER 5 W  , 35.505 , -96.9772 ,  Meeker  ,  OK  ,  United States , 1074
+USC00346130  ,  MUSKOGEE  , 35.7781 , -95.3339 ,  Muskogee  ,  OK  ,  United States , 1112
+USC00346139  ,  MUTUAL  , 36.2283 , -99.17 ,  Mutual  ,  OK  ,  United States , 1331
+USC00346386  ,  NORMAN 3SSE  , 35.1808 , -97.4378 ,  Norman  ,  OK  ,  United States , 708
+USC00346729  ,  OOLOGAH DAM  , 36.4333 , -95.6833 ,  Oologah  ,  OK  ,  United States , 617
+USC00346935  ,  PAWHUSKA  , 36.6692 , -96.3472 ,  Pawhuska  ,  OK  ,  United States , 1296
+USC00347390  ,  RALSTON  , 36.5044 , -96.7439 ,  Ralston  ,  OK  ,  United States , 1416
+USC00347862  ,  SALLISAW 2 NW  , 35.4572 , -94.8047 ,  Sallisaw  ,  OK  ,  United States , 1219
+USC00348380  ,  SPAVINAW  , 36.3894 , -95.0597 ,  Spavinaw  ,  OK  ,  United States , 1147
+USC00348708  ,  TALOGA  , 36.0381 , -98.9592 ,  Taloga  ,  OK  ,  United States , 1313
+USC00348769  ,  TENKILLER FERRY DAM  , 35.6 , -95.05 ,  Gore  ,  OK  ,  United States , 622
+USC00348879  ,  TIPTON 4S MESONET  , 34.4397 , -99.1375 ,  Frederick  ,  OK  ,  United States , 533
+USC00349023  ,  TUSKAHOMA  , 34.6147 , -95.2803 ,  Clayton  ,  OK  ,  United States , 1118
+USC00349278  ,  WALTERS  , 34.3603 , -98.3006 ,  Walters  ,  OK  ,  United States , 1102
+USC00349364  ,  WATONGA  , 35.8578 , -98.4139 ,  Watonga  ,  OK  ,  United States , 1320
+USC00349404  ,  WAYNOKA  , 36.5758 , -98.8797 ,  Waynoka  ,  OK  ,  United States , 1223
+USC00349724  ,  WISTER 3S  , 34.9417 , -94.7039 ,  Howe  ,  OK  ,  United States , 531
+USW00003959  ,  BARTLESVILLE F P FLD  , 36.7683 , -96.0261 ,  Bartlesville  ,  OK  ,  United States , 1324
+USW00013967  ,  OKLAHOMA CITY WILL ROGERS AP  , 35.3889 , -97.6006 ,  Oklahoma City  ,  OK  ,  United States , 1351
+USW00013968  ,  TULSA INTL AP  , 36.1994 , -95.8872 ,  Tulsa  ,  OK  ,  United States , 1340
+USW00013969  ,  PONCA CITY MUNI AP  , 36.7367 , -97.1019 ,  Ponca City  ,  OK  ,  United States , 1353
+USW00013975  ,  GAGE AP  , 36.2967 , -99.7689 ,  Gage  ,  OK  ,  United States , 1339
+USW00093950  ,  MCALESTER RGNL AP  , 34.8822 , -95.7831 ,  McAlester  ,  OK  ,  United States , 1416
+USW00093986  ,  HOBART MUNI AP  , 34.9894 , -99.0525 ,  Hobart  ,  OK  ,  United States , 1376

@@ -1,0 +1,54 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00020060  ,  AGUILA  , 33.9433 , -113.1875 ,  Aguila  ,  AZ  ,  United States , 973
+USC00020080  ,  AJO  , 32.3697 , -112.86 ,  Ajo  ,  AZ  ,  United States , 654
+USC00020586  ,  BAGDAD  , 34.5972 , -113.1739 ,  Bagdad  ,  AZ  ,  United States , 932
+USC00020632  ,  BARTLETT DAM  , 33.8097 , -111.6497 ,    ,  AZ  ,  United States , 810
+USC00020750  ,  BETATAKIN  , 36.6778 , -110.5411 ,  Kayenta  ,  AZ  ,  United States , 966
+USC00020808  ,  BLACK RIVER PUMPS  , 33.4783 , -109.7517 ,    ,  AZ  ,  United States , 1295
+USC00020949  ,  BOUSE  , 33.9431 , -114.0242 ,  Bouse  ,  AZ  ,  United States , 1397
+USC00021001  ,  BRIGHT ANGEL RS  , 36.2147 , -112.062 ,  North Rim  ,  AZ  ,  United States , 789
+USC00021314  ,  CASA GRANDE NM  , 32.9947 , -111.5367 ,  Coolidge  ,  AZ  ,  United States , 1427
+USC00021353  ,  CASTLE HOT SPRINGS  , 33.9825 , -112.3617 ,  Morristown  ,  AZ  ,  United States , 1223
+USC00021654  ,  CHINO VALLEY  , 34.7569 , -112.4567 ,  Chino Valley  ,  AZ  ,  United States , 712
+USC00022109  ,  CORDES  , 34.305 , -112.165 ,  Mayer  ,  AZ  ,  United States , 1202
+USC00023160  ,  FT VALLEY  , 35.2681 , -111.7428 ,  Flagstaff  ,  AZ  ,  United States , 1304
+USC00023303  ,  GANADO  , 35.7164 , -109.5661 ,  Ganado  ,  AZ  ,  United States , 746
+USC00023393  ,  GILA BEND  , 32.9481 , -112.7131 ,  Gila Bend  ,  AZ  ,  United States , 1300
+USC00023961  ,  HEBER BLACK MESA RS  , 34.3925 , -110.5581 ,  Heber-Overgaard  ,  AZ  ,  United States , 713
+USC00024702  ,  KOFA MINE  , 33.2742 , -113.9653 ,  Yuma  ,  AZ  ,  United States , 1097
+USC00024829  ,  LAVEEN 3 SSE  , 33.3369 , -112.1472 ,    ,  AZ  ,  United States , 1313
+USC00024977  ,  LITCHFIELD PARK  , 33.4992 , -112.3631 ,  Litchfield Park  ,  AZ  ,  United States , 1164
+USC00025412  ,  MC NARY 2N  , 34.1142 , -109.8589 ,    ,  AZ  ,  United States , 1344
+USC00025635  ,  MONTEZUMA CASTLE NM  , 34.6106 , -111.8381 ,  Camp Verde  ,  AZ  ,  United States , 1344
+USC00025700  ,  MORMON FLAT  , 33.5544 , -111.4425 ,  Mesa  ,  AZ  ,  United States , 701
+USC00025825  ,  NATURAL BRG  , 34.3222 , -111.4533 ,  Pine  ,  AZ  ,  United States , 375
+USC00025924  ,  NOGALES 6 N  , 31.4553 , -110.9681 ,  Rio Rico  ,  AZ  ,  United States , 1319
+USC00026132  ,  ORGAN PIPE CACTUS NM  , 31.9556 , -112.8003 ,  Ajo  ,  AZ  ,  United States , 1172
+USC00026353  ,  PEARCE - SUNSITES  , 31.9356 , -109.8378 ,    ,  AZ  ,  United States , 1153
+USC00026468  ,  PETRIFIED FOREST NP  , 34.7994 , -109.885 ,  Holbrook  ,  AZ  ,  United States , 1276
+USC00026796  ,  PRESCOTT  , 34.5706 , -112.4322 ,  Prescott  ,  AZ  ,  United States , 1239
+USC00026865  ,  QUARTZSITE  , 33.665 , -114.2272 ,  Quartzsite  ,  AZ  ,  United States , 855
+USC00027281  ,  ROOSEVELT 1 WNW  , 33.6731 , -111.1508 ,  Apache Junction  ,  AZ  ,  United States , 1306
+USC00027390  ,  SAFFORD AGRICULTRL CTR  , 32.815 , -109.6808 ,  Safford  ,  AZ  ,  United States , 1462
+USC00027480  ,  SAN CARLOS RESERVOIR  , 33.1819 , -110.5261 ,  Peridot  ,  AZ  ,  United States , 1168
+USC00027488  ,  SANDERS  , 35.2239 , -109.3222 ,  Sanders  ,  AZ  ,  United States , 951
+USC00028012  ,  SNOWFLAKE  , 34.5081 , -110.0839 ,  Snowflake  ,  AZ  ,  United States , 1423
+USC00028162  ,  SPRINGERVILLE  , 34.1311 , -109.275 ,  Springerville  ,  AZ  ,  United States , 1107
+USC00028499  ,  TEMPE ASU  , 33.4258 , -111.9217 ,  Tempe  ,  AZ  ,  United States , 1147
+USC00028619  ,  TOMBSTONE  , 31.7119 , -110.0686 ,  Tombstone  ,  AZ  ,  United States , 1335
+USC00028792  ,  TUBA CITY  , 36.1306 , -111.2436 ,  Tuba City  ,  AZ  ,  United States , 668
+USC00028865  ,  TUMACACORI NM  , 31.5678 , -111.0497 ,  Tumacacori-Carmen  ,  AZ  ,  United States , 1173
+USC00029158  ,  WALNUT CREEK  , 34.9281 , -112.8097 ,  Prescott  ,  AZ  ,  United States , 1416
+USC00029287  ,  WICKENBURG  , 33.9792 , -112.7403 ,  Wickenburg  ,  AZ  ,  United States , 1360
+USC00029309  ,  WIKIEUP  , 34.7061 , -113.6136 ,  Wikieup  ,  AZ  ,  United States , 1018
+USC00029334  ,  WILLCOX  , 32.2553 , -109.8369 ,  Willcox  ,  AZ  ,  United States , 1421
+USC00029542  ,  WUPATKI NM  , 35.5247 , -111.3703 ,  Cameron  ,  AZ  ,  United States , 1081
+USC00029645  ,  YUCCA 1 NNE  , 34.8775 , -114.1344 ,  Yucca  ,  AZ  ,  United States , 1185
+USW00003103  ,  FLAGSTAFF PULLIAM AP  , 35.1442 , -111.6664 ,  Flagstaff  ,  AZ  ,  United States , 1395
+USW00003125  ,  YUMA PROVING GROUND  , 32.8356 , -114.3942 , Yuma ,  AZ  ,  United States , 1474
+USW00023160  ,  TUCSON INTL AP  , 32.1314 , -110.9553 ,  Tucson  ,  AZ  ,  United States , 1416
+USW00023183  ,  PHOENIX SKY HARBOR INTL AP  , 33.4278 , -112.0039 ,  Phoenix  ,  AZ  ,  United States , 1380
+USW00023184  ,  PRESCOTT LOVE FLD  , 34.6517 , -112.4208 ,  Prescott  ,  AZ  ,  United States , 1401
+USW00023194  ,  WINSLOW MUNI AP  , 35.0281 , -110.7208 ,  Winslow  ,  AZ  ,  United States , 1398
+USW00093026  ,  DOUGLAS BISBEE INL AP  , 31.4583 , -109.6061 ,  Mc Neal  ,  AZ  ,  United States , 1501
+USW00093139  ,  PAYSON  , 34.2325 , -111.3447 ,  Payson  ,  AZ  ,  United States , 1430

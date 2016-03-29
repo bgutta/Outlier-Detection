@@ -1,0 +1,91 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00350036  ,  ADEL  , 42.1761 , -119.8961 ,  Adel  ,  OR  ,  United States , 798
+USC00350197  ,  ANTELOPE 6 SSW  , 44.8197 , -120.7533 ,  Ashwood  ,  OR  ,  United States , 959
+USC00350471  ,  BANDON 2 NNE  , 43.1497 , -124.4019 ,  Bandon  ,  OR  ,  United States , 1249
+USC00350694  ,  BEND  , 44.0569 , -121.285 ,  Bend  ,  OR  ,  United States , 1313
+USC00350723  ,  BEULAH  , 43.9092 , -118.1522 ,  Juntura  ,  OR  ,  United States , 851
+USC00350897  ,  BONNEVILLE DAM  , 45.6361 , -121.9519 ,  Cascade Locks  ,  OR  ,  United States , 1192
+USC00351546  ,  CHEMULT  , 43.2292 , -121.7894 ,  Chemult  ,  OR  ,  United States , 989
+USC00351643  ,  CLATSKANIE  , 46.1081 , -123.2058 ,  Clatskanie  ,  OR  ,  United States , 1373
+USC00351682  ,  CLOVERDALE  , 45.205 , -123.8925 ,  Cloverdale  ,  OR  ,  United States , 1279
+USC00351765  ,  CONDON  , 45.2325 , -120.1817 ,  Condon  ,  OR  ,  United States , 1196
+USC00351862  ,  CORVALLIS STATE UNIV  , 44.6342 , -123.19 ,  Corvallis  ,  OR  ,  United States , 1306
+USC00351897  ,  COTTAGE GROVE 2E  , 43.7917 , -123.0275 ,  Cottage Grove  ,  OR  ,  United States , 1306
+USC00351902  ,  COTTAGE GROVE DAM  , 43.7178 , -123.0578 ,  Cottage Grove  ,  OR  ,  United States , 1005
+USC00351926  ,  COVE 1 E  , 45.2964 , -117.7903 ,  Cove  ,  OR  ,  United States , 589
+USC00351946  ,  CRATER LAKE NPS HQ  , 42.8967 , -122.1328 ,  CRATER LAKE  ,  OR  ,  United States , 1242
+USC00352112  ,  DALLAS 2 NE  , 44.9464 , -123.2911 ,  Dallas  ,  OR  ,  United States , 1251
+USC00352135  ,  DANNER  , 42.9447 , -117.3389 ,  Jordan Valley  ,  OR  ,  United States , 694
+USC00352292  ,  DETROIT DAM  , 44.7242 , -122.2547 ,  Gates  ,  OR  ,  United States , 1278
+USC00352374  ,  DORENA  , 43.7822 , -122.9631 ,  Cottage Grove  ,  OR  ,  United States , 1325
+USC00352406  ,  DRAIN  , 43.6656 , -123.3275 ,  Drain  ,  OR  ,  United States , 1275
+USC00352440  ,  DUFUR  , 45.4539 , -121.1303 ,  The Dalles  ,  OR  ,  United States , 1290
+USC00352693  ,  ESTACADA 2 SE  , 45.2689 , -122.3186 ,  Estacada  ,  OR  ,  United States , 1227
+USC00352800  ,  FALLS CITY 2 SSW  , 44.8358 , -123.4525 ,  Dallas  ,  OR  ,  United States , 271
+USC00352867  ,  FERN RIDGE-VENETA  , 44.0494 , -123.3703 ,  Veneta  ,  OR  ,  United States , 752
+USC00352997  ,  FOREST GROVE  , 45.5247 , -123.1025 ,  Forest Grove  ,  OR  ,  United States , 1288
+USC00353038  ,  FOSSIL  , 44.9983 , -120.2175 ,  Fossil  ,  OR  ,  United States , 1125
+USC00353356  ,  GOLD BEACH RS  , 42.4036 , -124.4242 ,  Gold Beach  ,  OR  ,  United States , 950
+USC00353402  ,  GOVERNMENT CAMP  , 45.3014 , -121.7417 ,  Government Camp  ,  OR  ,  United States , 1295
+USC00353445  ,  GRANTS PASS  , 42.4244 , -123.3236 ,  Grants Pass  ,  OR  ,  United States , 1374
+USC00353542  ,  GRIZZLY  , 44.5175 , -120.9389 ,  Madras  ,  OR  ,  United States , 708
+USC00353604  ,  HALFWAY  , 44.8772 , -117.1094 ,  Halfway  ,  OR  ,  United States , 1373
+USC00353692  ,  HART MTN REFUGE  , 42.5483 , -119.6556 ,    ,  OR  ,  United States , 782
+USC00353770  ,  HEADWORKS PORTLAND WTR  , 45.4486 , -122.1547 ,  Sandy  ,  OR  ,  United States , 1218
+USC00353827  ,  HEPPNER  , 45.3653 , -119.5639 ,  Heppner  ,  OR  ,  United States , 1226
+USC00353847  ,  HERMISTON 1 SE  , 45.8289 , -119.2636 ,  Hermiston  ,  OR  ,  United States , 999
+USC00354003  ,  HOOD RIVER EXP STN  , 45.6847 , -121.5175 ,  Hood River  ,  OR  ,  United States , 1319
+USC00354098  ,  HUNTINGTON  , 44.3564 , -117.255 ,  Huntington  ,  OR  ,  United States , 1160
+USC00354291  ,  JOHN DAY  , 44.4233 , -118.9594 ,  John Day  ,  OR  ,  United States , 1227
+USC00354811  ,  LEABURG 1 SW  , 44.1014 , -122.6886 ,  Springfield  ,  OR  ,  United States , 1362
+USC00355050  ,  LOOKOUT POINT DAM  , 43.9144 , -122.76 ,  Lowell  ,  OR  ,  United States , 1180
+USC00355139  ,  MADRAS  , 44.6167 , -121.0011 ,  Madras  ,  OR  ,  United States , 1217
+USC00355142  ,  MADRAS 2 N  , 44.6633 , -121.1461 ,  Madras  ,  OR  ,  United States , 823
+USC00355160  ,  MALHEUR BRANCH EXP STN  , 43.9794 , -117.0247 ,  Ontario  ,  OR  ,  United States , 1218
+USC00355162  ,  MALHEUR REFUGE HQ  , 43.265 , -118.8447 ,  Princeton  ,  OR  ,  United States , 753
+USC00355221  ,  MARION FRKS FISH HATCH  , 44.6125 , -121.9486 ,    ,  OR  ,  United States , 1276
+USC00355362  ,  MCKENZIE BRG RS  , 44.1792 , -122.1164 ,    ,  OR  ,  United States , 698
+USC00355593  ,  MILTON FREEWATER  , 45.9428 , -118.4089 ,  Milton-Freewater  ,  OR  ,  United States , 1194
+USC00355734  ,  MORO  , 45.4825 , -120.7236 ,  Moro  ,  OR  ,  United States , 1173
+USC00356179  ,  NYSSA  , 43.8764 , -116.9903 ,  Nyssa  ,  OR  ,  United States , 1095
+USC00356213  ,  OAKRIDGE FISH HATCHERY  , 43.7428 , -122.4433 ,  Oakridge  ,  OR  ,  United States , 1227
+USC00356243  ,  OCHOCO RS  , 44.3964 , -120.4264 ,  Prineville  ,  OR  ,  United States , 1183
+USC00356294  ,  ONTARIO KSRV  , 44.0439 , -116.9717 ,  Ontario  ,  OR  ,  United States , 1306
+USC00356334  ,  OREGON CITY  , 45.3558 , -122.6047 ,  Oregon City  ,  OR  ,  United States , 831
+USC00356366  ,  OTIS 2 NE  , 45.0333 , -123.9239 ,  Otis  ,  OR  ,  United States , 1327
+USC00356405  ,  OWYHEE DAM  , 43.65 , -117.2467 ,  Nyssa  ,  OR  ,  United States , 1330
+USC00356426  ,  PAISLEY  , 42.6922 , -120.5403 ,  Paisley  ,  OR  ,  United States , 952
+USC00356532  ,  PELTON DAM  , 44.7275 , -121.2506 ,  Warm Springs  ,  OR  ,  United States , 1324
+USC00356540  ,  PENDLETON BR EXP STN  , 45.7206 , -118.6264 ,  Adams  ,  OR  ,  United States , 1237
+USC00356541  ,  PENDLETON DWTN  , 45.6703 , -118.7964 ,  Pendleton  ,  OR  ,  United States , 346
+USC00356634  ,  PILOT ROCK 1 SE  , 45.4756 , -118.8253 ,  Pilot Rock  ,  OR  ,  United States , 1224
+USC00356883  ,  PRINEVILLE  , 44.3022 , -120.8081 ,  Prineville  ,  OR  ,  United States , 1125
+USC00356907  ,  PROSPECT 2 SW  , 42.7342 , -122.5164 ,  Prospect  ,  OR  ,  United States , 1165
+USC00357169  ,  RIDDLE  , 42.9506 , -123.3572 ,  Riddle  ,  OR  ,  United States , 1267
+USC00357310  ,  ROME 2 NW  , 42.8592 , -117.6569 ,  Jordan Valley  ,  OR  ,  United States , 1113
+USC00357641  ,  SEASIDE  , 45.9869 , -123.9236 ,  Seaside  ,  OR  ,  United States , 956
+USC00357675  ,  SENECA  , 44.1383 , -118.975 ,  Seneca  ,  OR  ,  United States , 1222
+USC00357809  ,  SILVER CREEK FALLS  , 44.8728 , -122.6486 ,  Silverton  ,  OR  ,  United States , 738
+USC00357857  ,  SISTERS  , 44.2842 , -121.5486 ,  Sisters  ,  OR  ,  United States , 1114
+USC00358095  ,  STAYTON  , 44.7892 , -122.8142 ,  Stayton  ,  OR  ,  United States , 1168
+USC00358173  ,  SUMMER LAKE 1 S  , 42.9592 , -120.7897 ,  Summer Lake  ,  OR  ,  United States , 1322
+USC00358407  ,  THE DALLES  , 45.6069 , -121.2047 ,  The Dalles  ,  OR  ,  United States , 941
+USC00358420  ,  THE POPLARS  , 43.2644 , -120.9447 ,  Silver Lake  ,  OR  ,  United States , 548
+USC00358466  ,  THREE LYNX  , 45.1219 , -122.07 ,  Estacada  ,  OR  ,  United States , 1210
+USC00358494  ,  TILLAMOOK  , 45.4539 , -123.8519 ,  Tillamook  ,  OR  ,  United States , 1278
+USC00358536  ,  TOKETEE FALLS  , 43.275 , -122.4497 ,    ,  OR  ,  United States , 1401
+USC00358634  ,  TROUTDALE  , 45.5533 , -122.3886 ,  Troutdale  ,  OR  ,  United States , 958
+USC00358997  ,  WALLOWA  , 45.5722 , -117.5314 ,  Wallowa  ,  OR  ,  United States , 1282
+USC00359316  ,  WICKIUP DAM  , 43.6825 , -121.6875 ,  La Pine  ,  OR  ,  United States , 1355
+USW00024130  ,  BAKER CITY MUNI AP  , 44.8428 , -117.8086 ,  Baker City  ,  OR  ,  United States , 1373
+USW00024152  ,  MEACHAM  , 45.5114 , -118.4247 ,  Meacham  ,  OR  ,  United States , 761
+USW00024155  ,  PENDLETON  , 45.6906 , -118.8528 ,  Pendleton  ,  OR  ,  United States , 1277
+USW00024221  ,  EUGENE MAHLON SWEET AP  , 44.1278 , -123.2206 ,  Eugene  ,  OR  ,  United States , 1327
+USW00024225  ,  MEDFORD ROGUE VLY AP  , 42.3811 , -122.8722 ,  Central Point  ,  OR  ,  United States , 1368
+USW00024229  ,  PORTLAND INTL AP  , 45.5908 , -122.6003 ,  Portland  ,  OR  ,  United States , 1258
+USW00024230  ,  REDMOND ROBERTS FLD  , 44.2558 , -121.1392 ,  Redmond  ,  OR  ,  United States , 1270
+USW00024232  ,  SALEM MCNARY FLD  , 44.905 , -123.0011 ,  Salem  ,  OR  ,  United States , 1367
+USW00024235  ,  SEXTON SUMMIT  , 42.6003 , -123.3642 ,  Grants Pass  ,  OR  ,  United States , 1022
+USW00024284  ,  NORTH BEND RGNL AP  , 43.4133 , -124.2436 ,  North Bend  ,  OR  ,  United States , 1478
+USW00094224  ,  ASTORIA RGNL AP  , 46.1569 , -123.8825 ,  Warrenton  ,  OR  ,  United States , 1379
+USW00094236  ,  KLAMATH FALLS INTL AP  , 42.1469 , -121.7242 ,  Klamath Falls  ,  OR  ,  United States , 647

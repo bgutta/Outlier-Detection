@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Using Torque and data from CartoDB</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.css' rel='stylesheet' />
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+</head>
+<body>
+<style>
+.legend label,
+.legend span {
+  display:block;
+  float:left;
+  height:15px;
+  width:20%;
+  text-align:center;
+  font-size:9px;
+  color:#808080;
+  }
+  .search-ui {
+  position:absolute;
+  top:10px;
+  right:10px;
+  z-index:1000;
+  }
+</style>
+
+<!-- Set the display of this container to none so we can
+     add it programmatically to `legendControl` -->
+<div id='legend' style='display:none;'>
+  <strong>Anomlies by Type</strong>
+  <nav class='legend clearfix'>
+    <span style='background:#FF9900;'></span>
+    <span style='background:#5CA2D1;'></span>
+    <span style='background:#FF2900;'></span>
+    <span style='background:#0F3B82;'></span>
+    <span style='background:#0F3B82;'></span>
+    <label>Week Hot</label>
+    <label>Week Cold</label>
+    <label>Strong Hot</label>
+    <label>Stronh Cold</label>
+    <label></label>
+    <small>Source: <a href="#link to source">Name of source</a></small>
+</div>
+<div id='map'></div>
+<!--<input id='search' class='search-ui' placeholder='Enter state code' />-->
+<!-- torque requires underscore as a dependency -->
+<script src='//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js'></script>
+<!--
+  torque is a library that works with Leaflet & Mapbox.js, and displays
+  temporal data from CartoDB.
+  See the full documentation at https://github.com/CartoDB/torque
+  -->
+<script src='https://cartodb-libs.global.ssl.fastly.net/torque.full.js'></script>
+<script>
+L.mapbox.accessToken = 'pk.eyJ1IjoibWdoYW5lbTk5IiwiYSI6Il9QbXFBZTAifQ.hotMuPhaIS1xLKFDWPuGtQ';
+var map = L.mapbox.map('map', 'examples.map-y7l23tes')
+    .setView([31.8086, -95.1428], 4);
+map.legendControl.addLegend(document.getElementById('legend').innerHTML);
+//var featureLayer = L.mapbox.featureLayer().addTo(map);
+
+// Torque uses CartoCSS styles, similar to those in TileMill,
+// but with a few extra keywords prefixed by -torque and the
+// extra filter, frame-offset.
+
+var style =
+    'Map {' +
+    '-torque-time-attribute: "date_str";' +
+    '-torque-aggregation-function: "count(cartodb_id)";' +
+    '-torque-frame-count: 128;' +
+    '-torque-animation-duration: 30;' +
+    '-torque-resolution: 2' +
+    '-torque-aggregation-function:"CDB_Math_Mode(torque_category)";'+
+    '}' +
+    '#layer {' +
+    '  marker-width: 3;' +
+    '  marker-fill-opacity: 4;' +
+    '  marker-fill: #77B2FF; ' +
+    '  comp-op: "lighten";' +
+    '  #outliers[value=1] { marker-fill: #FF9900; }' +
+    '  #outliers[value=2] { marker-fill: #5CA2D1; }' +
+    '  #outliers[value=3] { marker-fill: #FF2900; }' +
+    '  #outliers[value=4] { marker-fill: #0F3B82; }' +
+    '  [frame-offset = 1] { marker-width: 10; marker-fill-opacity: 0.05;}' +
+    '  [frame-offset = 2] { marker-width: 20; marker-fill-opacity: 0.02;}' +
+    '}';
+
+//http://mghanem99.cartodb.com/api/v2/viz/6e6ea848-d74c-11e4-8233-0e4fddd5de28/viz.json
+
+// This layer is an example of ship positions: replace the user
+// and table with your own to use this example.
+var torqueLayer = new L.TorqueLayer({
+    user: 'mghanem99',
+    table: 'outliers',
+    cartocss: style,
+    blendmode: 'lighter',
+    // All Mapbox resources use HTTPS when available, so we'll need
+    // to make torque do the same.
+    tiler_protocol: 'https',
+    tiler_port: 443
+});
+
+// This example autoplays: there are other options available:
+// https://github.com/CartoDB/torque/blob/master/doc/API.md
+torqueLayer.addTo(map);
+torqueLayer.play();
+</script>
+
+</body>
+</html>

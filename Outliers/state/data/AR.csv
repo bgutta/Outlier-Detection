@@ -1,0 +1,47 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00030130  ,  ALUM FORK  , 34.7961 , -92.8417 ,  Paron  ,  AR  ,  United States , 1334
+USC00030220  ,  ARKADELPHIA 2 N  , 34.1433 , -93.0589 ,  Arkadelphia  ,  AR  ,  United States , 1203
+USC00030458  ,  BATESVILLE LVSTK  , 35.8306 , -91.7944 ,  Batesville  ,  AR  ,  United States , 1285
+USC00030460  ,  BATESVILLE L&D 1  , 35.7597 , -91.6386 ,  Batesville  ,  AR  ,  United States , 1237
+USC00030764  ,  BLAKELY MTN DAM  , 34.5697 , -93.1947 ,  Royal  ,  AR  ,  United States , 1188
+USC00030936  ,  BRINKLEY  , 34.8822 , -91.2153 ,  Brinkley  ,  AR  ,  United States , 1269
+USC00031132  ,  CALICO ROCK 2 WSW  , 36.1092 , -92.1636 ,  Calico Rock  ,  AR  ,  United States , 1314
+USC00031152  ,  CAMDEN 1  , 33.59 , -92.8236 ,  Camden  ,  AR  ,  United States , 1316
+USC00031730  ,  CROSSETT 2 SSE  , 33.1111 , -91.9481 ,  Crossett  ,  AR  ,  United States , 1292
+USC00031838  ,  DARDANELLE  , 35.2342 , -93.1675 ,  Dardanelle  ,  AR  ,  United States , 1329
+USC00031948  ,  DEQUEEN  , 34.0464 , -94.3481 ,  De Queen  ,  AR  ,  United States , 1361
+USC00031968  ,  DES ARC  , 34.9772 , -91.4978 ,  Des Arc  ,  AR  ,  United States , 1083
+USC00032366  ,  EVENING SHADE 1 NNE  , 36.0717 , -91.6169 ,  Evening Shade  ,  AR  ,  United States , 1330
+USC00032444  ,  FAYETTEVILLE EXP STN  , 36.1006 , -94.1744 ,  Fayetteville  ,  AR  ,  United States , 1027
+USC00032540  ,  FORDYCE  , 33.8228 , -92.3989 ,  Fordyce  ,  AR  ,  United States , 1291
+USC00032794  ,  GILBERT  , 35.9914 , -92.7147 ,  Gilbert  ,  AR  ,  United States , 1414
+USC00032930  ,  GRAVETTE  , 36.4261 , -94.4481 ,  Gravette  ,  AR  ,  United States , 1336
+USC00033428  ,  HOPE 3 NE  , 33.7089 , -93.5561 ,  Hope  ,  AR  ,  United States , 1358
+USC00033466  ,  HOT SPRINGS 1 NNE  , 34.5128 , -93.0486 ,  Hot Springs  ,  AR  ,  United States , 1366
+USC00033734  ,  JONESBORO 2 NE  , 35.8489 , -90.6589 ,  Jonesboro  ,  AR  ,  United States , 1093
+USC00033821  ,  KEISER  , 35.6872 , -90.0964 ,  Osceola  ,  AR  ,  United States , 1279
+USC00033862  ,  KEO  , 34.6033 , -91.9928 ,  England  ,  AR  ,  United States , 1325
+USC00034106  ,  LEAD HILL  , 36.4194 , -92.9158 ,  Lead Hill  ,  AR  ,  United States , 1294
+USC00034562  ,  MALVERN  , 34.3947 , -92.8364 ,  Malvern  ,  AR  ,  United States , 1348
+USC00034572  ,  MAMMOTH SPRING  , 36.4947 , -91.535 ,  Mammoth Spring  ,  AR  ,  United States , 1052
+USC00034638  ,  MARIANNA 2 S  , 34.7392 , -90.7664 ,  Marianna  ,  AR  ,  United States , 1280
+USC00034756  ,  MENA  , 34.5731 , -94.2494 ,  Mena  ,  AR  ,  United States , 1399
+USC00034938  ,  MORRILTON  , 35.1581 , -92.7672 ,  Morrilton  ,  AR  ,  United States , 1261
+USC00035036  ,  MTN HOME 1 NNW  , 36.3458 , -92.3939 ,  Mountain Home  ,  AR  ,  United States , 1287
+USC00035200  ,  NIMROD DAM  , 34.9553 , -93.1594 ,  Plainview  ,  AR  ,  United States , 1359
+USC00035754  ,  PINE BLUFF  , 34.2256 , -92.0189 ,  Pine Bluff  ,  AR  ,  United States , 1325
+USC00035820  ,  POCAHONTAS 1  , 36.2642 , -90.9683 ,  Pocahontas  ,  AR  ,  United States , 1380
+USC00035908  ,  PRESCOTT 2 NNW  , 33.8203 , -93.3878 ,  Prescott  ,  AR  ,  United States , 1351
+USC00036253  ,  ROHWER 2 NNE  , 33.8103 , -91.2778 ,  Watson  ,  AR  ,  United States , 1130
+USC00036506  ,  SEARCY  , 35.2683 , -91.7164 ,  Searcy  ,  AR  ,  United States , 1319
+USC00036920  ,  STUTTGART 9 ESE  , 34.4744 , -91.4172 ,  Crocketts Bluff  ,  AR  ,  United States , 1295
+USC00036928  ,  SUBIACO  , 35.3028 , -93.6369 ,  Subiaco  ,  AR  ,  United States , 1317
+USC00038052  ,  WYNNE  , 35.2547 , -90.7964 ,  Wynne  ,  AR  ,  United States , 1189
+USW00013963  ,  LITTLE ROCK AP ADAMS FLD  , 34.7272 , -92.2389 ,  Little Rock  ,  AR  ,  United States , 1350
+USW00013964  ,  FT SMITH RGNL AP  , 35.3331 , -94.3625 ,  Fort Smith  ,  AR  ,  United States , 1414
+USW00013971  ,  HARRISON BOONE CO AP  , 36.2667 , -93.1567 ,  Harrison  ,  AR  ,  United States , 1131
+USW00013977  ,  TEXARKANA WEBB FLD  , 33.4536 , -94.0075 ,  Texarkana  ,  AR  ,  United States , 1198
+USW00053919  ,  MONTICELLO MUNI AP  , 33.6361 , -91.7556 ,  Monticello  ,  AR  ,  United States , 1367
+USW00093988  ,  PINE BLUFF GRIDER FLD  , 34.175 , -91.9347 ,  Pine Bluff  ,  AR  ,  United States , 924
+USW00093992  ,  EL DORADO S AR RGNL AP  , 33.2208 , -92.8142 ,  El Dorado  ,  AR  ,  United States , 1343
+USW00093993  ,  FAYETTEVILLE DRAKE FLD  , 36.0097 , -94.1694 ,  Fayetteville  ,  AR  ,  United States , 1287

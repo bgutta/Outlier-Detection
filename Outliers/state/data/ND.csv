@@ -1,0 +1,59 @@
+id,name,latitude,longitude,locality,state,country,count
+USC00320382  ,  ASHLEY  , 46.0406 , -99.3742 ,  Ashley  ,  ND  ,  United States , 1253
+USC00320626  ,  BELCOURT KEYA RADIO  , 48.8411 , -99.7508 ,  Belcourt  ,  ND  ,  United States , 565
+USC00320941  ,  BOTTINEAU  , 48.8217 , -100.4525 ,  Bottineau  ,  ND  ,  United States , 1130
+USC00321225  ,  BUTTE 5SE  , 47.7947 , -100.5847 ,  Butte  ,  ND  ,  United States , 962
+USC00321435  ,  CAVALIER 7NW  , 48.8628 , -97.7014 ,  Cavalier  ,  ND  ,  United States , 1153
+USC00321456  ,  CENTER 4SE  , 47.0644 , -101.2119 ,  Center  ,  ND  ,  United States , 1079
+USC00321871  ,  CROSBY  , 48.9075 , -103.2936 ,  Crosby  ,  ND  ,  United States , 1227
+USC00322365  ,  DUNN CENTER 1E  , 47.3467 , -102.5869 ,  Dunn Center  ,  ND  ,  United States , 826
+USC00322482  ,  EDGELEY 3WNW  , 46.3694 , -98.7661 ,  Edgeley  ,  ND  ,  United States , 632
+USC00322525  ,  EDMORE 1NW  , 48.4239 , -98.4714 ,  Edmore  ,  ND  ,  United States , 1039
+USC00322605  ,  ELLENDALE  , 46.0108 , -98.5261 ,  Ellendale  ,  ND  ,  United States , 1043
+USC00322695  ,  ENDERLIN 2W  , 46.6167 , -97.6383 ,  Enderlin  ,  ND  ,  United States , 932
+USC00323117  ,  FORMAN 5 SSE  , 46.0333 , -97.595 ,  Forman  ,  ND  ,  United States , 1082
+USC00323217  ,  FOXHOLM 7 N  , 48.4583 , -101.5697 ,  Berthold  ,  ND  ,  United States , 809
+USC00323287  ,  FULLERTON 1 ESE  , 46.1581 , -98.4 ,  Fullerton  ,  ND  ,  United States , 1219
+USC00323621  ,  GRAND FORKS UNIV NWS  , 47.9217 , -97.0981 ,  Grand Forks  ,  ND  ,  United States , 1229
+USC00324203  ,  HILLSBORO 3 N  , 47.4389 , -97.0664 ,  Hillsboro  ,  ND  ,  United States , 1065
+USC00324418  ,  JAMESTOWN STATE HOSP  , 46.8844 , -98.685 ,  Jamestown  ,  ND  ,  United States , 1242
+USC00324571  ,  KEENE 3S  , 47.8967 , -102.9208 ,  Keene  ,  ND  ,  United States , 1107
+USC00324646  ,  KENMARE 1 WSW  , 48.6692 , -102.0975 ,  Kenmare  ,  ND  ,  United States , 1075
+USC00324937  ,  LA MOURE  , 46.3547 , -98.2928 ,  LaMoure  ,  ND  ,  United States , 1022
+USC00324958  ,  LANGDON EXP FARM  , 48.7622 , -98.3447 ,  Langdon  ,  ND  ,  United States , 1202
+USC00325479  ,  MANDAN EXP STN  , 46.8128 , -100.9097 ,  Mandan  ,  ND  ,  United States , 1267
+USC00325638  ,  MAX  , 47.8214 , -101.2922 ,  Max  ,  ND  ,  United States , 1253
+USC00325660  ,  MAYVILLE  , 47.4989 , -97.3514 ,  Mayville  ,  ND  ,  United States , 869
+USC00325710  ,  MC CLUSKY  , 47.4825 , -100.4444 ,  McClusky  ,  ND  ,  United States , 1195
+USC00325730  ,  MC HENRY 3W  , 47.5808 , -98.6422 ,  McHenry  ,  ND  ,  United States , 1242
+USC00325754  ,  MC LEOD 3 E  , 46.3911 , -97.2392 ,  McLeod  ,  ND  ,  United States , 1137
+USC00325813  ,  MEDORA  , 46.9161 , -103.5264 ,  Medora  ,  ND  ,  United States , 1130
+USC00325993  ,  MINOT EXP STN  , 48.1803 , -101.2964 ,  Minot  ,  ND  ,  United States , 1212
+USC00326015  ,  MOFFIT 3 SE  , 46.6706 , -100.2294 ,  Moffit  ,  ND  ,  United States , 565
+USC00326025  ,  MOHALL  , 48.7603 , -101.5089 ,  Mohall  ,  ND  ,  United States , 988
+USC00326315  ,  NEW ENGLAND  , 46.5414 , -102.8692 ,  New England  ,  ND  ,  United States , 1221
+USC00326365  ,  NEW SALEM 5NW  , 46.8925 , -101.4897 ,  New Salem  ,  ND  ,  United States , 1249
+USC00326620  ,  OAKES  , 46.1458 , -98.0919 ,  Oakes  ,  ND  ,  United States , 1036
+USC00327027  ,  PETERSBURG 2 N  , 48.0356 , -98.01 ,  Petersburg  ,  ND  ,  United States , 1222
+USC00327530  ,  RICHARDTON ABBEY  , 46.8886 , -102.3192 ,  Richardton  ,  ND  ,  United States , 1171
+USC00328276  ,  STANLEY 3 NNW  , 48.4564 , -102.5947 ,  Powers Lake  ,  ND  ,  United States , 1131
+USC00328366  ,  STEELE 4N  , 46.8947 , -99.9483 ,  Steele  ,  ND  ,  United States , 1103
+USC00328737  ,  TIOGA 1E  , 48.3989 , -102.9181 ,  Tioga  ,  ND  ,  United States , 1191
+USC00328792  ,  TOWNER 2 NE  , 48.3706 , -100.3908 ,  Towner  ,  ND  ,  United States , 1035
+USC00328840  ,  TURTLE LAKE  , 47.5214 , -100.8883 ,  Turtle Lake  ,  ND  ,  United States , 1154
+USC00328872  ,  UNDERWOOD  , 47.455 , -101.1461 ,  Underwood  ,  ND  ,  United States , 1169
+USC00328913  ,  UPHAM 3 N  , 48.6147 , -100.7264 ,  Upham  ,  ND  ,  United States , 1149
+USC00329233  ,  WATFORD CITY  , 47.8039 , -103.2892 ,  Watford City  ,  ND  ,  United States , 806
+USC00329246  ,  WATFORD CITY 14S  , 47.6 , -103.2597 ,  Watford City  ,  ND  ,  United States , 1053
+USC00329430  ,  WILLISTON EXP FARM  , 48.1375 , -103.7372 ,  Williston  ,  ND  ,  United States , 1190
+USC00329445  ,  WILLOW CITY  , 48.6061 , -100.2911 ,  Willow City  ,  ND  ,  United States , 1183
+USC00329515  ,  WISHEK  , 46.2608 , -99.56 ,  Wishek  ,  ND  ,  United States , 1033
+USW00014912  ,  DEVILS LAKE KDLR  , 48.1069 , -98.8681 ,  Devils Lake  ,  ND  ,  United States , 1038
+USW00014914  ,  FARGO HECTOR INTL AP  , 46.9253 , -96.8111 ,  Fargo  ,  ND  ,  United States , 1293
+USW00014916  ,  GRAND FORKS INTL AP  , 47.9428 , -97.1839 ,  Grand Forks  ,  ND  ,  United States , 1249
+USW00014919  ,  JAMESTOWN MUNI AP  , 46.9258 , -98.6692 ,  Jamestown  ,  ND  ,  United States , 1296
+USW00014924  ,  PEMBINA  , 48.9711 , -97.2417 ,  Pembina  ,  ND  ,  United States , 1094
+USW00024011  ,  BISMARCK  , 46.7708 , -100.7603 ,  Bismarck  ,  ND  ,  United States , 1330
+USW00024012  ,  THEODORE ROOSEVELT AP  , 46.7994 , -102.7972 ,  Dickinson  ,  ND  ,  United States , 1258
+USW00024013  ,  MINOT INTL AP  , 48.2553 , -101.2733 ,  Minot  ,  ND  ,  United States , 1245
+USW00094014  ,  WILLISTON SLOULIN INTL AP  , 48.1739 , -103.6367 ,  Williston  ,  ND  ,  United States , 1322
